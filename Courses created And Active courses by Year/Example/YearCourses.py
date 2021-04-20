@@ -272,5 +272,5 @@ plt.ylabel("Nombre d'heures de cours magistraux") #Y-axis Titre
 fig.savefig("Courses created And Active courses by Year/Example/Figures/NdPs sur le Niveau d'Hybridation.png")
 
 plt.show()
-
+Hybridation_db = Hybridation_db.sort_values(by = 'Course ID', ascending = True)
 Hybridation_db.to_csv('Courses created And Active courses by Year/Example/Data/Hybridation_Year.csv')
