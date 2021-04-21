@@ -1,6 +1,7 @@
 ###################################
     #Ressources par Enseignant#
 ###################################
+
 # Import Packages
 import random
 import numpy as np
@@ -87,7 +88,7 @@ for ress in Course_PerYear['Course_Duration_MOOC']:
     while ress > 0:
         random_vid = round(random.uniform(0, ress*0.75))
         random_quiz = round(random.uniform(0, ress*0.60))
-        random_exam = round(random.uniform(0, 3))
+        random_exam = round(random.uniform(0, 4))
         ress = ress - (random_vid + random_quiz + random_exam) 
         if ress != 0:
             ress = ress + random_vid + random_quiz + random_exam
@@ -109,7 +110,7 @@ for vid, quiz, exam in zip(list_rv, list_rq, list_re):
 
     nb_vid = round(random.uniform(vid/4, vid))
     nb_quiz = round(random.uniform(quiz/2, quiz))
-    nb_exam = round(random.uniform(exam/3, exam))
+    nb_exam = round(random.uniform(exam/4, exam))
 
     list_nb_rv.append(nb_vid)
     list_nb_rq.append(nb_quiz)
@@ -125,11 +126,88 @@ Course_PerYear['Number_Video'] = list_nb_rv
 Course_PerYear['Number_Quiz'] = list_nb_rq
 Course_PerYear['Number_Exam'] = list_nb_re
 
+array_video = [] 
+array_quizz = []
+array_exam = []
+
+count = 0
+
+for X, Y in zip(Course_PerYear['Duration_Video'], Course_PerYear['Number_Video']):
+    if (X == 0 or Y == 0):
+        array_video.append([0,0,0,0])
+    else:
+        array = []
+        for i in range(0, Y+1):
+            for j in range(0, Y+1):
+                for k in range(0, Y+1):
+                    for l in range(0,Y+1):
+                        if X == (1*i + 2*j + 3*k + 4*l) and Y == (i + j + k + l):
+                            array.append([i,j,k,l])
+                    count +=1
+        if len(array) == 1:
+            array_video.append(array[0])
+        elif len(array) == 0:
+            array_video.append([0,0,0,0])
+        else:
+            ran = random.randint(0, len(array)-1)
+            array_video.append(array[ran])
+
+Course_PerYear['Number_Video_1H'] = [array_video[i][0] for i in range(0, len(array_video))]
+Course_PerYear['Number_Video_2H'] = [array_video[i][1] for i in range(0, len(array_video))]
+Course_PerYear['Number_video_3H'] = [array_video[i][2] for i in range(0, len(array_video))]
+Course_PerYear['Number_Video_4H'] = [array_video[i][3] for i in range(0, len(array_video))]
+
+
+for X, Y in zip(Course_PerYear['Duration_Quiz'], Course_PerYear['Number_Quiz']):
+    if (X == 0 or Y == 0):
+        array_quizz.append([0,0])
+    else:
+        array = []
+        for i in range(0, Y+1):
+            for j in range(0, Y+1):
+                if X == (1*i + 2*j) and Y == (i + j):
+                    array.append([i,j])
+                    count +=1
+        if len(array) == 1:
+            array_quizz.append(array[0])
+        elif len(array) == 0:
+            array_quizz.append([0,0])
+        else:
+            ran = random.randint(0, len(array)-1)
+            array_quizz.append(array[ran])
+
+Course_PerYear['Number_Quizz_1H'] = [array_quizz[i][0] for i in range(0, len(array_quizz))]
+Course_PerYear['Number_Quizz_2H'] = [array_quizz[i][1] for i in range(0, len(array_quizz))]
+
+
+for X, Y in zip(Course_PerYear['Duration_Exam'], Course_PerYear['Number_Exam']):
+    if (X == 0 or Y == 0):
+        array_exam.append([0,0,0,0])
+    else:
+        array = []
+        for i in range(0, Y+1):
+            for j in range(0, Y+1):
+                for k in range(0, Y+1):
+                    for l in range(0,Y+1):
+                        if X == (1*i + 2*j + 3*k + 4*l) and Y == (i + j + k + l):
+                            array.append([i,j,k,l])
+                    count +=1
+        if len(array) == 1:
+            array_exam.append(array[0])
+        elif len(array) == 0:
+            array_exam.append([0,0,0,0])
+        else:
+            ran = random.randint(0, len(array)-1)
+            array_exam.append(array[ran])
+
+Course_PerYear['Number_Exam_1H'] = [array_exam[i][0] for i in range(0, len(array_exam))]
+Course_PerYear['Number_Exam_2H'] = [array_exam[i][1] for i in range(0, len(array_exam))]
+Course_PerYear['Number_Exam_3H'] = [array_exam[i][2] for i in range(0, len(array_exam))]
+Course_PerYear['Number_Exam_4H'] = [array_exam[i][3] for i in range(0, len(array_exam))]
+
+print(count) #31 420 763
+
 # Sauvegarder le dataframe en CSV
 Course_PerYear = Course_PerYear.sort_values(by = 'Course_ID', ascending = True)
 Course_PerYear.to_csv('Ressources/Example/Data/Ressources_perTeacher.csv')
-
-
-#2018
-Courses_2018 = Course_PerYear[Course_PerYear.Year == 2018]
-print(Courses_2018.head(50))
+"""
