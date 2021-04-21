@@ -1,16 +1,15 @@
 #Teaching Analytics
 #1) Taux d'Hybridation par Année
 
-#Import Packages
+# Import Packages
 import numpy as np
 import pandas as pd
 import random
 from random import seed
 import seaborn as sns
 import matplotlib.pyplot as plt
-import plotly.express as px
 
-#Definir un seed pour garder les même valeurs aléatoirement définies.
+# Definir un seed pour garder les même valeurs aléatoirement définies.
 random.seed( 1996 )
 
 # Création d'une liste qui représente un interval de 10 ans entre 2011 et 2020.
