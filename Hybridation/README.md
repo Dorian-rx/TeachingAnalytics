@@ -40,8 +40,14 @@ L'étude factice est constitué de mille cours avec des niveaux d'hybridations e
 [GitHub Factice Data Link](https://github.com/Dorian-rx/TeachingAnalytics/blob/main/Hybridation/Example/Data/Hybridation_perYear.csv) \
 [Algorithme Python permettant de réaliser l'Étude](https://github.com/Dorian-rx/TeachingAnalytics/blob/main/Hybridation/Example/Hybridation_perYear.py)
 
-resources
+factice-data: Hybridation pour l'année 2019
 ![alt text](https://raw.githubusercontent.com/Dorian-rx/TeachingAnalytics/main/Hybridation/Example/Figures/Ndps%20sur%20le%20niveau%20d'hybridation%20pour%202019.png)
+
+factice-data: Hybridation par Département
+![alt text](https://raw.githubusercontent.com/Dorian-rx/TeachingAnalytics/main/Hybridation/Example/Figures/Barplots%20sur%20le%20niveau%20d'hybridation%20par%20d%C3%A9partement.png)
+
+factice-data: Hybridation par Enseignant
+![alt text](https://raw.githubusercontent.com/Dorian-rx/TeachingAnalytics/main/Hybridation/Example/Figures/Barplots%20sur%20le%20niveau%20d'hybridation%20par%20enseignant.png)
 
 ## Bibliographie
 
