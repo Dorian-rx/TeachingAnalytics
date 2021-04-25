@@ -1,0 +1,18 @@
+Moocs ---> Digital
+Lecture --> Non-digital ? Magistrale --> Présentiel
+
+--> Nombe similaire de cours par an (+/- 5%)   --> DONE
+
+--> ratio instead of hours   --> DONE
+
+--> Par département (évolution au fil des années) --> DONE
+
+--> Par personne par département  -> DONE
+
+
+
+
+
+Niveau d'hyrbidation par professeur
+Sequence entre l'hyrbidation d'une année à l'autre
+
