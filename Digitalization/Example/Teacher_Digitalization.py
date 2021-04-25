@@ -54,7 +54,7 @@ Digitalization_Teach_D3_2019 = Digitalization_Teach_D3[Digitalization_Teach_D3['
 
 #Matplotlib Figure
 fig, ((ax10, ax11, ax12), (ax20, ax21, ax22), (ax30, ax31, ax32)) = plt.subplots(3, 3, figsize=(17, 9.5), sharey=True)
-fig.suptitle("Percentage of Digitalization for each teacher of respectively the AGORA, LPTM and LT2D University Departments from 2017 to 2020", ha = 'center', size=14, fontweight='bold')
+fig.suptitle("Percentage of Digitalization for each teacher of respectively the AGORA, LPTM and LT2D University Departments from 2017 to 2019", ha = 'center', size=14, fontweight='bold')
 width = 0.35  #Define the width of the bars
 
 #Make the barplots
@@ -189,7 +189,7 @@ plt.ylim([0, 120]) #Set the y-axis lim
 fig.tight_layout()
 
 #Save Figure
-fig.savefig("Digitalization/Example/Figures/Barplot of the Digitalization per Teacher of Department from 2017 to 2020")
+fig.savefig("Digitalization/Example/Figures/Barplot of the Digitalization per Teacher of Department from 2017 to 2019")
 
 #Display
 plt.show()
