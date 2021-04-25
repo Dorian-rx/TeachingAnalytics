@@ -148,3 +148,14 @@ Le graphique ci-dessus nous offre une visibilité à l'échelle individuelle et 
 ## Bibliographie
 
 Romero, C. et al. (2008). Data mining in course management systems: Moodle case study and tutorial. Computers & Education, 51(1):368–384
+
+## VIZ
+
+factice-data: Pourcentage de Digitalization d'une Université en fonction de la durée de chaque cours:
+![alt text](https://raw.githubusercontent.com/Dorian-rx/TeachingAnalytics/main/Digitalization/Example/Figures/Displot%20of%20the%20Digitalization%20per%20Interval%20of%20Course%20Duration.png)
+
+factice-data: Pourcentage de Digitalization de chaque Département d'une Université de 2017 à 2019:
+![alt text](https://raw.githubusercontent.com/Dorian-rx/TeachingAnalytics/main/Digitalization/Example/Figures/Barplots%20of%20the%20Digitalization%20per%20Department%20from%202017%20to%202019.png)
+
+factice-data: Pourcentage de Digitalization de chaque Enseignant des Départements respectifs; AGORA, LPTM et LT2D de 2017 à 2019:
+![alt text](https://raw.githubusercontent.com/Dorian-rx/TeachingAnalytics/main/Digitalization/Example/Figures/Barplot%20of%20the%20Digitalization%20per%20Teacher%20of%20Department%20from%202017%20to%202019.png)
