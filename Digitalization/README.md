@@ -139,7 +139,7 @@ Un ciblage encore plus important que précèdemment est un ciblage indivuduel co
 L'analyse de la digitalisation de chaque enseignant d'un département nous permet d'obtenir la figure suivante:
 
 factice-data: Hybridation par Enseignant
-![factice-data: Pourcentage de Digitalisation de chaque Enseignant des Départements respectifs; AGORA, LPTM et LT2D de 2017 à 2019](https://raw.githubusercontent.com/Dorian-rx/TeachingAnalytics/main/Digitalization/Example/Figures/Barplots%20of%20the%20Digitalization%20per%20Teacher%of%20Department%20from%202017%20to%202019.png)
+![factice-data: Pourcentage de Digitalisation de chaque Enseignant des Départements respectifs; AGORA, LPTM et LT2D de 2017 à 2019](https://raw.githubusercontent.com/Dorian-rx/TeachingAnalytics/main/Digitalization/Example/Figures/Barplots%20of%20the%20Digitalization%20per%20Teacher%20of%20Department%20from%202017%20to%202019.png)
 
 Le graphique ci-dessus montre l'évolution du pourcentage de digitalisation de chaque enseignant de trois départements universitaire (respectivement AGORA, LPTM, LT2D) de 2017 à 2019. Cette visualisation est la plus précise est nous permet de comprendre avec le graphique précèdent l'évolution au sein d'un département l'utilisation de ressources en ligne.
 
