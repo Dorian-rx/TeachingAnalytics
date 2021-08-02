@@ -1,0 +1,1828 @@
+,Universite,Departement,Teacher_ID,Teacher_Name,Teacher_Gender,Teacher_Seniority,Teacher_Digit,Teacher_Ress
+0,Angers,Droit,1,Olive,Homme,Plus de 15 ans,0,Jamais
+1,Angers,Droit,2,Dubuque,Femme,Entre 5 et 15 ans,15.83,Au cours de l'année 2020 à 2021
+2,Angers,Droit,3,Tite,Femme,Entre 5 et 15 ans,0,Jamais
+3,Angers,Droit,4,Rivest,Femme,Moins de 5 ans,17.12,Au cours de l'année 2020 à 2021
+4,Angers,Droit,5,Pierre-Louis,Femme,Plus de 15 ans,0,Jamais
+5,Angers,Droit,6,Dupre,Femme,Moins de 5 ans,16.16,Au cours des années 2018 à 2020
+6,Angers,Droit,7,Manier,Femme,Plus de 15 ans,21.11,Au cours des années 2018 à 2020
+7,Angers,Droit,8,Boutin,Femme,Entre 5 et 15 ans,11.36,Au cours de l'année 2020 à 2021
+8,Angers,Droit,9,Buche,Homme,Entre 5 et 15 ans,42.12,Au cours de l'année 2020 à 2021
+9,Angers,Droit,10,Thibeault,Femme,Entre 5 et 15 ans,29.51,Au cours des années 2018 à 2020
+10,Angers,Droit,11,Melsheimer,Femme,Plus de 15 ans,10.44,Antérieure à 2018
+11,Angers,Droit,12,Char,Femme,Moins de 5 ans,11.15,Au cours des années 2018 à 2020
+12,Angers,Droit,13,Salois,Femme,Entre 5 et 15 ans,22.7,Au cours de l'année 2020 à 2021
+13,Angers,Droit,14,Lary,Femme,Entre 5 et 15 ans,0,Jamais
+14,Angers,Droit,15,Valleau,Femme,Entre 5 et 15 ans,16.76,Au cours de l'année 2020 à 2021
+15,Angers,Droit,16,Hache,Femme,Moins de 5 ans,14.51,Au cours des années 2018 à 2020
+16,Angers,Droit,17,Leflore,Femme,Plus de 15 ans,15.96,Antérieure à 2018
+17,Angers,Droit,18,Poupard,Homme,Moins de 5 ans,27.07,Au cours de l'année 2020 à 2021
+18,Angers,Droit,19,Siron,Homme,Plus de 15 ans,34.13,Antérieure à 2018
+19,Angers,Droit,20,Pruette,Femme,Entre 5 et 15 ans,17.31,Au cours des années 2018 à 2020
+20,Angers,Droit,21,Agard,Homme,Entre 5 et 15 ans,0,Jamais
+21,Angers,Droit,22,Boudoin,Femme,Entre 5 et 15 ans,11.25,Au cours des années 2018 à 2020
+22,Angers,Droit,23,Gougeon,Femme,Entre 5 et 15 ans,14.72,Au cours de l'année 2020 à 2021
+23,Angers,Droit,24,Gibeault,Femme,Moins de 5 ans,24.7,Au cours de l'année 2020 à 2021
+24,Angers,Droit,25,Kirouac,Femme,Plus de 15 ans,0,Jamais
+25,Angers,Droit,26,Brochu,Femme,Moins de 5 ans,27.58,Au cours de l'année 2020 à 2021
+26,Angers,Droit,27,Jumonville,Non Spécifié,Entre 5 et 15 ans,17.87,Au cours des années 2018 à 2020
+27,Angers,Droit,28,Justin,Femme,Moins de 5 ans,20.88,Au cours des années 2018 à 2020
+28,Angers,Droit,29,Contois,Homme,Entre 5 et 15 ans,26.28,Au cours de l'année 2020 à 2021
+29,Angers,Droit,30,Petre,Homme,Plus de 15 ans,21.77,Antérieure à 2018
+30,Angers,Droit,31,Decelle,Femme,Entre 5 et 15 ans,24.17,Au cours de l'année 2020 à 2021
+31,Angers,Droit,32,Gladieux,Homme,Entre 5 et 15 ans,21.54,Au cours de l'année 2020 à 2021
+32,Angers,Droit,33,Simien,Femme,Moins de 5 ans,26.61,Antérieure à 2018
+33,Angers,Droit,34,Gant,Non Spécifié,Entre 5 et 15 ans,20.75,Au cours de l'année 2020 à 2021
+34,Angers,Droit,35,Barre,Femme,Entre 5 et 15 ans,20.2,Au cours de l'année 2020 à 2021
+35,Angers,Droit,36,Gros,Femme,Plus de 15 ans,27.77,Antérieure à 2018
+36,Angers,Droit,37,Giraud,Homme,Plus de 15 ans,39.5,Antérieure à 2018
+37,Angers,Droit,38,St. Jacques,Femme,Plus de 15 ans,0,Jamais
+38,Angers,Droit,39,Georger,Homme,Plus de 15 ans,47.5,Antérieure à 2018
+39,Angers,Droit,40,Savant,Non Spécifié,Entre 5 et 15 ans,28.31,Au cours de l'année 2020 à 2021
+40,Angers,Droit,41,Monier,Femme,Entre 5 et 15 ans,16.99,Au cours de l'année 2020 à 2021
+41,Angers,Droit,42,Ducharme,Femme,Plus de 15 ans,21.66,Antérieure à 2018
+42,Angers,Droit,43,Depace,Femme,Entre 5 et 15 ans,22.99,Au cours des années 2018 à 2020
+43,Angers,Droit,44,Baise,Femme,Entre 5 et 15 ans,21.41,Au cours de l'année 2020 à 2021
+44,Angers,Droit,45,Viger,Homme,Entre 5 et 15 ans,0,Jamais
+45,Angers,Droit,46,Davy,Femme,Entre 5 et 15 ans,24.46,Antérieure à 2018
+46,Angers,Droit,47,Sonnier,Femme,Plus de 15 ans,24.14,Au cours des années 2018 à 2020
+47,Angers,Droit,48,Chayer,Homme,Moins de 5 ans,32.86,Au cours de l'année 2020 à 2021
+48,Angers,Droit,49,Depas,Homme,Entre 5 et 15 ans,24.1,Au cours des années 2018 à 2020
+49,Angers,Droit,50,Perron,Femme,Plus de 15 ans,0,Jamais
+50,Angers,Droit,51,Lebaron,Femme,Entre 5 et 15 ans,0,Jamais
+51,Angers,Droit,52,Debauche,Femme,Plus de 15 ans,0,Jamais
+52,Angers,Droit,53,Laroque,Femme,Entre 5 et 15 ans,15.68,Au cours de l'année 2020 à 2021
+53,Angers,Droit,54,Bilodeau,Femme,Plus de 15 ans,0,Jamais
+54,Angers,Droit,55,Lamey,Femme,Plus de 15 ans,0,Jamais
+55,Angers,Droit,56,Thiery,Homme,Moins de 5 ans,27.53,Au cours de l'année 2020 à 2021
+56,Angers,Droit,57,Arnoult,Femme,Plus de 15 ans,24.78,Antérieure à 2018
+57,Angers,Droit,58,Rebert,Femme,Moins de 5 ans,25.13,Antérieure à 2018
+58,Angers,Droit,59,Coutant,Femme,Entre 5 et 15 ans,25.51,Antérieure à 2018
+59,Angers,Droit,60,Helin,Femme,Plus de 15 ans,0,Jamais
+60,Angers,Droit,61,Hayer,Homme,Entre 5 et 15 ans,0,Jamais
+61,Angers,Droit,62,Dallaire,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+62,Angers,Droit,63,Comte,Femme,Plus de 15 ans,0,Jamais
+63,Angers,Droit,64,Levesque,Femme,Entre 5 et 15 ans,10.9,Au cours des années 2018 à 2020
+64,Angers,Droit,65,Portier,Femme,Plus de 15 ans,20.38,Antérieure à 2018
+65,Angers,Droit,66,Lasalle,Homme,Moins de 5 ans,27.59,Au cours de l'année 2020 à 2021
+66,Angers,Droit,67,Thelin,Femme,Plus de 15 ans,27.26,Antérieure à 2018
+67,Angers,Droit,68,Ranson,Femme,Plus de 15 ans,0,Jamais
+68,Angers,Droit,69,Papa,Femme,Plus de 15 ans,0,Jamais
+69,Angers,Droit,70,Pauline,Femme,Entre 5 et 15 ans,22.14,Au cours de l'année 2020 à 2021
+70,Angers,Droit,71,Marion,Homme,Entre 5 et 15 ans,36.94,Au cours de l'année 2020 à 2021
+71,Angers,Droit,72,Beaudry,Homme,Entre 5 et 15 ans,21.48,Au cours des années 2018 à 2020
+72,Angers,Droit,73,Lovette,Femme,Entre 5 et 15 ans,21.4,Au cours des années 2018 à 2020
+73,Angers,Droit,74,Malette,Femme,Plus de 15 ans,0,Jamais
+74,Angers,Droit,75,Chapelle,Non Spécifié,Entre 5 et 15 ans,18.77,Au cours de l'année 2020 à 2021
+75,Angers,Histoire,76,Jean-Louis,Homme,Plus de 15 ans,14.03,Au cours de l'année 2020 à 2021
+76,Angers,Histoire,77,Landes,Homme,Entre 5 et 15 ans,12.86,Antérieure à 2018
+77,Angers,Histoire,78,Bonnet,Femme,Entre 5 et 15 ans,29.26,Antérieure à 2018
+78,Angers,Histoire,79,Denard,Femme,Plus de 15 ans,12.81,Antérieure à 2018
+79,Angers,Histoire,80,Roulhac,Femme,Moins de 5 ans,23.89,Au cours de l'année 2020 à 2021
+80,Angers,Histoire,81,Thibodeau,Homme,Entre 5 et 15 ans,21.82,Au cours de l'année 2020 à 2021
+81,Angers,Histoire,82,Tustin,Femme,Entre 5 et 15 ans,13.04,Antérieure à 2018
+82,Angers,Histoire,83,Proveaux,Homme,Moins de 5 ans,26.43,Antérieure à 2018
+83,Angers,Histoire,84,Cancienne,Homme,Entre 5 et 15 ans,27.75,Au cours de l'année 2020 à 2021
+84,Angers,Histoire,85,Gamet,Femme,Moins de 5 ans,19.91,Au cours de l'année 2020 à 2021
+85,Angers,Histoire,86,Lally,Femme,Moins de 5 ans,24.88,Au cours de l'année 2020 à 2021
+86,Angers,Histoire,87,Dube,Femme,Moins de 5 ans,27.63,Au cours de l'année 2020 à 2021
+87,Angers,Histoire,88,Han,Femme,Entre 5 et 15 ans,18.31,Au cours de l'année 2020 à 2021
+88,Angers,Histoire,89,Poudrier,Homme,Moins de 5 ans,20.93,Au cours de l'année 2020 à 2021
+89,Angers,Histoire,90,Credit,Homme,Entre 5 et 15 ans,17.39,Au cours de l'année 2020 à 2021
+90,Angers,Histoire,91,Dant,Homme,Plus de 15 ans,0,Jamais
+91,Angers,Histoire,92,Darensbourg,Homme,Moins de 5 ans,15.81,Antérieure à 2018
+92,Angers,Histoire,93,Vivier,Homme,Moins de 5 ans,0,Jamais
+93,Angers,Histoire,94,Gravel,Femme,Plus de 15 ans,28.75,Au cours des années 2018 à 2020
+94,Angers,Histoire,95,Goy,Femme,Moins de 5 ans,14.81,Au cours de l'année 2020 à 2021
+95,Angers,Histoire,96,Bodin,Homme,Entre 5 et 15 ans,12.98,Au cours des années 2018 à 2020
+96,Angers,Histoire,97,Parquette,Femme,Entre 5 et 15 ans,0,Jamais
+97,Angers,Histoire,98,Desselle,Femme,Moins de 5 ans,11.05,Antérieure à 2018
+98,Angers,Histoire,99,Gosselin,Femme,Plus de 15 ans,0,Jamais
+99,Angers,Histoire,100,Dague,Homme,Moins de 5 ans,23.58,Au cours de l'année 2020 à 2021
+100,Angers,Histoire,101,Belville,Femme,Moins de 5 ans,25.11,Au cours de l'année 2020 à 2021
+101,Angers,Histoire,102,Charrier,Femme,Plus de 15 ans,13.75,Antérieure à 2018
+102,Angers,Histoire,103,Riopelle,Femme,Moins de 5 ans,12.79,Au cours de l'année 2020 à 2021
+103,Angers,Histoire,104,Brunelle,Femme,Plus de 15 ans,14.15,Antérieure à 2018
+104,Angers,Histoire,105,Paule,Femme,Moins de 5 ans,20.1,Au cours des années 2018 à 2020
+105,Angers,Histoire,106,Meunier,Femme,Plus de 15 ans,12.04,Antérieure à 2018
+106,Angers,Histoire,107,Bonenfant,Femme,Moins de 5 ans,16.31,Au cours des années 2018 à 2020
+107,Angers,Histoire,108,Giblin,Femme,Plus de 15 ans,24.2,Antérieure à 2018
+108,Angers,Histoire,109,Aucoin,Femme,Plus de 15 ans,11.13,Au cours des années 2018 à 2020
+109,Angers,Histoire,110,Martine,Femme,Plus de 15 ans,20.02,Au cours de l'année 2020 à 2021
+110,Angers,Histoire,111,Georger,Femme,Entre 5 et 15 ans,13.53,Au cours des années 2018 à 2020
+111,Angers,Histoire,112,Range,Femme,Plus de 15 ans,11.11,Au cours des années 2018 à 2020
+112,Angers,Histoire,113,Mort,Femme,Plus de 15 ans,0,Jamais
+113,Angers,Histoire,114,Dane,Femme,Entre 5 et 15 ans,18.25,Au cours de l'année 2020 à 2021
+114,Angers,Histoire,115,Avis,Femme,Moins de 5 ans,28.05,Au cours de l'année 2020 à 2021
+115,Angers,Histoire,116,Hait,Femme,Plus de 15 ans,10.87,Antérieure à 2018
+116,Angers,Histoire,117,Brun,Homme,Moins de 5 ans,27.16,Antérieure à 2018
+117,Angers,Histoire,118,Beaudet,Femme,Plus de 15 ans,0,Jamais
+118,Angers,Histoire,119,Navarre,Femme,Entre 5 et 15 ans,29.56,Au cours des années 2018 à 2020
+119,Angers,Histoire,120,Dorau,Femme,Moins de 5 ans,11.31,Au cours des années 2018 à 2020
+120,Angers,Histoire,121,Barsalou,Homme,Entre 5 et 15 ans,15.84,Antérieure à 2018
+121,Angers,Histoire,122,Billard,Femme,Moins de 5 ans,12.11,Au cours des années 2018 à 2020
+122,Angers,Histoire,123,Methot,Femme,Entre 5 et 15 ans,0,Jamais
+123,Angers,Histoire,124,Daoust,Femme,Moins de 5 ans,27.59,Au cours des années 2018 à 2020
+124,Angers,Histoire,125,Robillard,Femme,Entre 5 et 15 ans,23.52,Au cours des années 2018 à 2020
+125,Angers,Histoire,126,Girard,Femme,Plus de 15 ans,23.63,Au cours des années 2018 à 2020
+126,Angers,Histoire,127,Rachel,Femme,Plus de 15 ans,17.21,Antérieure à 2018
+127,Angers,Histoire,128,Batiste,Femme,Moins de 5 ans,20.8,Au cours de l'année 2020 à 2021
+128,Angers,Histoire,129,Sauvage,Femme,Plus de 15 ans,0,Jamais
+129,Angers,Histoire,130,Blier,Femme,Plus de 15 ans,26.88,Au cours des années 2018 à 2020
+130,Angers,Histoire,131,Nevers,Femme,Moins de 5 ans,18.82,Au cours de l'année 2020 à 2021
+131,Angers,Histoire,132,Pelissier,Femme,Entre 5 et 15 ans,21.41,Au cours des années 2018 à 2020
+132,Angers,Histoire,133,Tremblay,Femme,Entre 5 et 15 ans,15.99,Au cours des années 2018 à 2020
+133,Angers,Histoire,134,Virkler,Femme,Entre 5 et 15 ans,11.28,Au cours de l'année 2020 à 2021
+134,Angers,Histoire,135,Lasalle,Femme,Entre 5 et 15 ans,0,Jamais
+135,Angers,Histoire,136,St. Ours,Femme,Entre 5 et 15 ans,18.9,Antérieure à 2018
+136,Angers,Histoire,137,Augustin,Femme,Entre 5 et 15 ans,21.22,Au cours des années 2018 à 2020
+137,Angers,Histoire,138,Beliveau,Femme,Moins de 5 ans,23.41,Au cours des années 2018 à 2020
+138,Angers,Histoire,139,Gemme,Femme,Entre 5 et 15 ans,14.59,Au cours des années 2018 à 2020
+139,Angers,Histoire,140,Matthieu,Femme,Entre 5 et 15 ans,16.74,Au cours des années 2018 à 2020
+140,Angers,Histoire,141,Riveron,Homme,Moins de 5 ans,17.0,Au cours des années 2018 à 2020
+141,Angers,Histoire,142,Madore,Femme,Plus de 15 ans,0,Jamais
+142,Angers,Mathématiques,143,Rodrigue,Homme,Moins de 5 ans,36.16,Au cours de l'année 2020 à 2021
+143,Angers,Mathématiques,144,Lafary,Homme,Entre 5 et 15 ans,47.94,Antérieure à 2018
+144,Angers,Mathématiques,145,Fonder,Homme,Plus de 15 ans,41.36,Au cours de l'année 2020 à 2021
+145,Angers,Mathématiques,146,Deshaies,Non Spécifié,Entre 5 et 15 ans,43.39,Au cours des années 2018 à 2020
+146,Angers,Mathématiques,147,Payer,Femme,Moins de 5 ans,28.59,Au cours des années 2018 à 2020
+147,Angers,Mathématiques,148,Gonsoulin,Femme,Plus de 15 ans,0,Jamais
+148,Angers,Mathématiques,149,Hotte,Femme,Moins de 5 ans,23.62,Au cours de l'année 2020 à 2021
+149,Angers,Mathématiques,150,Minette,Femme,Entre 5 et 15 ans,15.28,Antérieure à 2018
+150,Angers,Mathématiques,151,Daignault,Femme,Moins de 5 ans,0,Jamais
+151,Angers,Mathématiques,152,Feret,Homme,Moins de 5 ans,29.26,Au cours des années 2018 à 2020
+152,Angers,Mathématiques,153,Sansoucie,Femme,Moins de 5 ans,16.02,Au cours de l'année 2020 à 2021
+153,Angers,Mathématiques,154,Filiatrault,Homme,Entre 5 et 15 ans,49.88,Au cours de l'année 2020 à 2021
+154,Angers,Mathématiques,155,Mourey,Femme,Entre 5 et 15 ans,26.01,Au cours des années 2018 à 2020
+155,Angers,Mathématiques,156,Bernardin,Femme,Entre 5 et 15 ans,23.79,Au cours des années 2018 à 2020
+156,Angers,Mathématiques,157,Ducas,Femme,Plus de 15 ans,0,Jamais
+157,Angers,Mathématiques,158,Pigue,Femme,Moins de 5 ans,21.52,Au cours des années 2018 à 2020
+158,Angers,Mathématiques,159,Brame,Homme,Plus de 15 ans,34.18,Antérieure à 2018
+159,Angers,Mathématiques,160,Cuvelier,Femme,Moins de 5 ans,0,Jamais
+160,Angers,Mathématiques,161,Picot,Femme,Moins de 5 ans,16.03,Au cours de l'année 2020 à 2021
+161,Angers,Mathématiques,162,Decelles,Femme,Moins de 5 ans,0,Jamais
+162,Angers,Mathématiques,163,Harland,Femme,Moins de 5 ans,22.76,Au cours de l'année 2020 à 2021
+163,Angers,Mathématiques,164,Darensbourg,Femme,Plus de 15 ans,21.0,Antérieure à 2018
+164,Angers,Mathématiques,165,Manne,Femme,Plus de 15 ans,18.89,Au cours des années 2018 à 2020
+165,Angers,Mathématiques,166,Sopher,Femme,Moins de 5 ans,20.1,Au cours des années 2018 à 2020
+166,Angers,Mathématiques,167,Limon,Femme,Moins de 5 ans,20.39,Au cours des années 2018 à 2020
+167,Angers,Mathématiques,168,Desjardins,Homme,Entre 5 et 15 ans,38.25,Au cours des années 2018 à 2020
+168,Angers,Mathématiques,169,Mally,Femme,Moins de 5 ans,25.48,Au cours de l'année 2020 à 2021
+169,Angers,Mathématiques,170,Debord,Homme,Moins de 5 ans,39.12,Antérieure à 2018
+170,Angers,Mathématiques,171,Nys,Homme,Moins de 5 ans,35.11,Au cours de l'année 2020 à 2021
+171,Angers,Mathématiques,172,Labiche,Femme,Moins de 5 ans,0,Jamais
+172,Angers,Mathématiques,173,Renier,Femme,Moins de 5 ans,29.86,Au cours de l'année 2020 à 2021
+173,Angers,Mathématiques,174,Dosier,Femme,Entre 5 et 15 ans,22.87,Antérieure à 2018
+174,Angers,Mathématiques,175,Marceaux,Homme,Moins de 5 ans,35.39,Au cours de l'année 2020 à 2021
+175,Angers,Mathématiques,176,Lacharite,Femme,Entre 5 et 15 ans,29.85,Au cours des années 2018 à 2020
+176,Angers,Mathématiques,177,Denard,Homme,Moins de 5 ans,45.65,Au cours des années 2018 à 2020
+177,Angers,Mathématiques,178,Rougeux,Homme,Moins de 5 ans,42.78,Au cours de l'année 2020 à 2021
+178,Angers,Mathématiques,179,Naves,Homme,Entre 5 et 15 ans,37.84,Antérieure à 2018
+179,Angers,Mathématiques,180,Verdun,Femme,Entre 5 et 15 ans,27.0,Au cours des années 2018 à 2020
+180,Angers,Mathématiques,181,Millon,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+181,Angers,Mathématiques,182,Line,Femme,Moins de 5 ans,27.48,Au cours des années 2018 à 2020
+182,Angers,Mathématiques,183,Asselin,Homme,Plus de 15 ans,0,Jamais
+183,Angers,Mathématiques,184,Cloud,Femme,Plus de 15 ans,0,Jamais
+184,Angers,Mathématiques,185,Viau,Non Spécifié,Moins de 5 ans,34.81,Au cours de l'année 2020 à 2021
+185,Angers,Mathématiques,186,Frain,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+186,Angers,Mathématiques,187,Benne,Femme,Plus de 15 ans,22.24,Au cours des années 2018 à 2020
+187,Angers,Mathématiques,188,Lefort,Femme,Moins de 5 ans,17.31,Au cours des années 2018 à 2020
+188,Angers,Mathématiques,189,Demey,Homme,Moins de 5 ans,43.84,Au cours de l'année 2020 à 2021
+189,Angers,Mathématiques,190,Viverette,Homme,Entre 5 et 15 ans,30.53,Au cours de l'année 2020 à 2021
+190,Angers,Mathématiques,191,Buisson,Femme,Entre 5 et 15 ans,28.01,Au cours de l'année 2020 à 2021
+191,Angers,Mathématiques,192,Sevy,Femme,Moins de 5 ans,21.1,Au cours des années 2018 à 2020
+192,Angers,Mathématiques,193,Pinard,Femme,Entre 5 et 15 ans,19.6,Au cours de l'année 2020 à 2021
+193,Angers,Mathématiques,194,Normandeau,Femme,Plus de 15 ans,26.3,Au cours des années 2018 à 2020
+194,Angers,Mathématiques,195,Linger,Non Spécifié,Moins de 5 ans,0,Jamais
+195,Angers,Mathématiques,196,Bardin,Non Spécifié,Moins de 5 ans,0,Jamais
+196,Angers,Mathématiques,197,Lequire,Homme,Moins de 5 ans,25.13,Au cours de l'année 2020 à 2021
+197,Angers,Mathématiques,198,Clemence,Femme,Moins de 5 ans,21.02,Au cours de l'année 2020 à 2021
+198,Angers,Mathématiques,199,Lagesse,Femme,Moins de 5 ans,26.72,Au cours de l'année 2020 à 2021
+199,Angers,Mathématiques,200,Canipe,Femme,Entre 5 et 15 ans,24.07,Au cours des années 2018 à 2020
+200,Angers,Mathématiques,201,Erny,Femme,Moins de 5 ans,24.83,Au cours de l'année 2020 à 2021
+201,Angers,Mathématiques,202,Duntz,Femme,Plus de 15 ans,20.19,Antérieure à 2018
+202,Angers,Mathématiques,203,Ray,Homme,Entre 5 et 15 ans,25.52,Au cours des années 2018 à 2020
+203,Angers,Mathématiques,204,Calixte,Non Spécifié,Moins de 5 ans,27.82,Au cours des années 2018 à 2020
+204,Angers,Mathématiques,205,Meny,Femme,Plus de 15 ans,0,Jamais
+205,Angers,Mathématiques,206,Arcement,Femme,Entre 5 et 15 ans,15.11,Au cours des années 2018 à 2020
+206,Angers,Mathématiques,207,Tourville,Homme,Moins de 5 ans,32.48,Au cours des années 2018 à 2020
+207,Angers,Mathématiques,208,Lamon,Femme,Moins de 5 ans,16.93,Antérieure à 2018
+208,Angers,Mathématiques,209,Hamelin,Femme,Entre 5 et 15 ans,23.5,Au cours des années 2018 à 2020
+209,Angers,Mathématiques,210,Demeuse,Homme,Entre 5 et 15 ans,32.21,Au cours des années 2018 à 2020
+210,Angers,Mathématiques,211,Gourd,Homme,Entre 5 et 15 ans,49.78,Au cours de l'année 2020 à 2021
+211,Angers,Mathématiques,212,Fouche,Homme,Plus de 15 ans,39.67,Antérieure à 2018
+212,Angers,Mathématiques,213,Beaulac,Femme,Entre 5 et 15 ans,19.14,Au cours des années 2018 à 2020
+213,Angers,Mathématiques,214,Legrande,Femme,Moins de 5 ans,29.59,Au cours de l'année 2020 à 2021
+214,Angers,Mathématiques,215,Gordinier,Femme,Entre 5 et 15 ans,23.33,Antérieure à 2018
+215,Angers,Mathématiques,216,Pate,Femme,Entre 5 et 15 ans,20.74,Au cours des années 2018 à 2020
+216,Angers,Mathématiques,217,Remillard,Homme,Moins de 5 ans,25.49,Antérieure à 2018
+217,Angers,Mathématiques,218,Sandel,Homme,Moins de 5 ans,39.55,Au cours de l'année 2020 à 2021
+218,Angers,Mathématiques,219,Bodine,Femme,Entre 5 et 15 ans,25.12,Antérieure à 2018
+219,Angers,Mathématiques,220,Henard,Femme,Entre 5 et 15 ans,26.09,Antérieure à 2018
+220,Angers,Mathématiques,221,Montminy,Femme,Plus de 15 ans,0,Jamais
+221,Angers,Informatique,222,Louviere,Femme,Entre 5 et 15 ans,23.34,Au cours de l'année 2020 à 2021
+222,Angers,Informatique,223,Marsan,Femme,Plus de 15 ans,0,Jamais
+223,Angers,Informatique,224,Caine,Homme,Entre 5 et 15 ans,31.84,Au cours des années 2018 à 2020
+224,Angers,Informatique,225,Mestayer,Homme,Plus de 15 ans,0,Jamais
+225,Angers,Informatique,226,Turcotte,Homme,Moins de 5 ans,40.49,Au cours de l'année 2020 à 2021
+226,Angers,Informatique,227,Lavelle,Femme,Entre 5 et 15 ans,26.46,Au cours des années 2018 à 2020
+227,Angers,Informatique,228,Larche,Femme,Moins de 5 ans,29.99,Au cours de l'année 2020 à 2021
+228,Angers,Informatique,229,Leconte,Femme,Entre 5 et 15 ans,0,Jamais
+229,Angers,Informatique,230,Courville,Femme,Plus de 15 ans,0,Jamais
+230,Angers,Informatique,231,Brouhard,Femme,Entre 5 et 15 ans,24.56,Antérieure à 2018
+231,Angers,Informatique,232,Deroy,Femme,Entre 5 et 15 ans,30.58,Antérieure à 2018
+232,Angers,Informatique,233,Chapelle,Non Spécifié,Plus de 15 ans,0,Jamais
+233,Angers,Informatique,234,Maupin,Femme,Moins de 5 ans,28.79,Au cours de l'année 2020 à 2021
+234,Angers,Informatique,235,Fruit,Femme,Entre 5 et 15 ans,23.71,Au cours des années 2018 à 2020
+235,Angers,Informatique,236,Paty,Homme,Entre 5 et 15 ans,59.7,Antérieure à 2018
+236,Angers,Informatique,237,Perrot,Femme,Entre 5 et 15 ans,36.26,Au cours des années 2018 à 2020
+237,Angers,Informatique,238,Miron,Homme,Plus de 15 ans,38.19,Antérieure à 2018
+238,Angers,Informatique,239,Artis,Femme,Moins de 5 ans,21.57,Au cours de l'année 2020 à 2021
+239,Angers,Informatique,240,Hebel,Femme,Plus de 15 ans,36.28,Antérieure à 2018
+240,Angers,Informatique,241,Maggi,Homme,Moins de 5 ans,38.58,Au cours de l'année 2020 à 2021
+241,Angers,Informatique,242,Calland,Femme,Entre 5 et 15 ans,34.2,Au cours des années 2018 à 2020
+242,Angers,Informatique,243,Lafontaine,Femme,Plus de 15 ans,0,Jamais
+243,Angers,Informatique,244,Lacasse,Femme,Entre 5 et 15 ans,0,Jamais
+244,Angers,Informatique,245,Cotnoir,Femme,Plus de 15 ans,32.17,Antérieure à 2018
+245,Angers,Informatique,246,Lia,Femme,Plus de 15 ans,35.78,Antérieure à 2018
+246,Angers,Informatique,247,Hotard,Femme,Moins de 5 ans,31.48,Antérieure à 2018
+247,Angers,Informatique,248,Jeune,Homme,Entre 5 et 15 ans,45.58,Au cours de l'année 2020 à 2021
+248,Angers,Informatique,249,Babineau,Homme,Plus de 15 ans,44.65,Au cours de l'année 2020 à 2021
+249,Angers,Informatique,250,Depace,Femme,Plus de 15 ans,0,Jamais
+250,Angers,Informatique,251,Simonet,Femme,Plus de 15 ans,28.55,Antérieure à 2018
+251,Angers,Informatique,252,Robichaux,Homme,Plus de 15 ans,51.61,Au cours de l'année 2020 à 2021
+252,Angers,Informatique,253,Place,Femme,Entre 5 et 15 ans,37.14,Au cours de l'année 2020 à 2021
+253,Angers,Informatique,254,Lacelle,Homme,Plus de 15 ans,47.68,Antérieure à 2018
+254,Angers,Informatique,255,Gimbert,Femme,Entre 5 et 15 ans,26.66,Au cours des années 2018 à 2020
+255,Angers,Informatique,256,Dufresne,Femme,Moins de 5 ans,36.12,Au cours de l'année 2020 à 2021
+256,Angers,Informatique,257,Courcy,Femme,Moins de 5 ans,29.01,Au cours de l'année 2020 à 2021
+257,Angers,Informatique,258,Jasmin,Femme,Entre 5 et 15 ans,34.1,Antérieure à 2018
+258,Angers,Informatique,259,Boisclair,Homme,Plus de 15 ans,34.43,Au cours des années 2018 à 2020
+259,Angers,Informatique,260,Lesane,Femme,Moins de 5 ans,29.18,Antérieure à 2018
+260,Angers,Informatique,261,Dufort,Femme,Entre 5 et 15 ans,35.71,Au cours des années 2018 à 2020
+261,Angers,Informatique,262,Garceau,Homme,Moins de 5 ans,38.89,Au cours de l'année 2020 à 2021
+262,Angers,Informatique,263,Petrin,Femme,Moins de 5 ans,22.33,Au cours des années 2018 à 2020
+263,Angers,Informatique,264,Gilliard,Homme,Entre 5 et 15 ans,30.95,Au cours des années 2018 à 2020
+264,Angers,Informatique,265,Quebedeaux,Femme,Moins de 5 ans,22.37,Au cours de l'année 2020 à 2021
+265,Angers,Informatique,266,Mele,Femme,Moins de 5 ans,29.56,Au cours des années 2018 à 2020
+266,Angers,Informatique,267,Lecocq,Femme,Plus de 15 ans,31.87,Antérieure à 2018
+267,Angers,Informatique,268,Bisset,Femme,Moins de 5 ans,36.12,Au cours de l'année 2020 à 2021
+268,Angers,Informatique,269,Lepage,Femme,Moins de 5 ans,25.83,Au cours de l'année 2020 à 2021
+269,Angers,Informatique,270,Simoneau,Homme,Moins de 5 ans,58.7,Au cours des années 2018 à 2020
+270,Angers,Informatique,271,Fredette,Femme,Plus de 15 ans,39.98,Au cours des années 2018 à 2020
+271,Angers,Informatique,272,Genet,Homme,Plus de 15 ans,59.99,Antérieure à 2018
+272,Angers,Informatique,273,Boche,Femme,Entre 5 et 15 ans,30.39,Au cours de l'année 2020 à 2021
+273,Angers,Informatique,274,Beliveau,Homme,Plus de 15 ans,0,Jamais
+274,Angers,Informatique,275,Lorette,Femme,Entre 5 et 15 ans,0,Jamais
+275,Angers,Informatique,276,Ancel,Homme,Entre 5 et 15 ans,40.17,Antérieure à 2018
+276,Angers,Informatique,277,Precourt,Femme,Plus de 15 ans,0,Jamais
+277,Angers,Informatique,278,Charbonneau,Femme,Plus de 15 ans,30.88,Antérieure à 2018
+278,Angers,Informatique,279,Sens,Femme,Plus de 15 ans,0,Jamais
+279,Angers,Informatique,280,Forquer,Homme,Entre 5 et 15 ans,54.11,Au cours des années 2018 à 2020
+280,Angers,Informatique,281,Hulet,Homme,Entre 5 et 15 ans,39.63,Au cours de l'année 2020 à 2021
+281,Angers,Informatique,282,Regnier,Homme,Entre 5 et 15 ans,49.46,Antérieure à 2018
+282,Angers,Informatique,283,Houlette,Homme,Plus de 15 ans,0,Jamais
+283,Angers,Informatique,284,Rachel,Femme,Moins de 5 ans,20.91,Au cours de l'année 2020 à 2021
+284,Angers,Informatique,285,Gallant,Femme,Moins de 5 ans,22.62,Antérieure à 2018
+285,Angers,Informatique,286,Malon,Homme,Entre 5 et 15 ans,49.22,Au cours des années 2018 à 2020
+286,Angers,Informatique,287,Berge,Femme,Plus de 15 ans,0,Jamais
+287,Angers,Informatique,288,Baxa,Femme,Moins de 5 ans,38.38,Au cours de l'année 2020 à 2021
+288,Angers,Informatique,289,Dutoit,Femme,Plus de 15 ans,26.19,Antérieure à 2018
+289,Angers,Informatique,290,Pilon,Homme,Plus de 15 ans,0,Jamais
+290,Angers,Informatique,291,Franc,Femme,Entre 5 et 15 ans,37.88,Au cours de l'année 2020 à 2021
+291,Angers,Informatique,292,Decoste,Homme,Entre 5 et 15 ans,33.73,Au cours de l'année 2020 à 2021
+292,Angers,Informatique,293,Villines,Femme,Moins de 5 ans,33.4,Au cours de l'année 2020 à 2021
+293,Angers,Informatique,294,Cazes,Femme,Moins de 5 ans,38.95,Au cours des années 2018 à 2020
+294,Angers,Informatique,295,Maisonet,Femme,Plus de 15 ans,0,Jamais
+295,Angers,Informatique,296,Rouleau,Homme,Entre 5 et 15 ans,50.69,Au cours de l'année 2020 à 2021
+296,Angers,Informatique,297,Midgette,Homme,Plus de 15 ans,0,Jamais
+297,Angers,Informatique,298,Cariveau,Femme,Moins de 5 ans,38.93,Antérieure à 2018
+298,Angers,Informatique,299,Servais,Homme,Plus de 15 ans,0,Jamais
+299,Angers,Informatique,300,Vigneau,Femme,Plus de 15 ans,0,Jamais
+300,Angers,Informatique,301,Chenier,Homme,Entre 5 et 15 ans,47.93,Au cours de l'année 2020 à 2021
+301,Angers,Informatique,302,Bessey,Non Spécifié,Moins de 5 ans,53.65,Au cours de l'année 2020 à 2021
+302,Angers,Informatique,303,Verdun,Femme,Moins de 5 ans,20.47,Antérieure à 2018
+303,Angers,Informatique,304,Boudinot,Non Spécifié,Plus de 15 ans,44.94,Au cours des années 2018 à 2020
+304,Angers,Informatique,305,Mader,Homme,Moins de 5 ans,55.57,Au cours des années 2018 à 2020
+305,Angers,Informatique,306,Sansoucy,Femme,Entre 5 et 15 ans,29.81,Au cours des années 2018 à 2020
+306,Angers,Informatique,307,Caissie,Homme,Entre 5 et 15 ans,59.28,Au cours des années 2018 à 2020
+307,Angers,Informatique,308,Claude,Femme,Plus de 15 ans,0,Jamais
+308,Angers,Informatique,309,Monville,Femme,Entre 5 et 15 ans,30.7,Antérieure à 2018
+309,Angers,Informatique,310,Huot,Homme,Plus de 15 ans,36.79,Au cours des années 2018 à 2020
+310,Angers,Informatique,311,Lemieux,Femme,Plus de 15 ans,31.74,Au cours des années 2018 à 2020
+311,Angers,Informatique,312,Cadoret,Femme,Entre 5 et 15 ans,35.9,Au cours des années 2018 à 2020
+312,Angers,Économie,313,Harry,Femme,Plus de 15 ans,17.04,Antérieure à 2018
+313,Angers,Économie,314,Derouin,Femme,Plus de 15 ans,0,Jamais
+314,Angers,Économie,315,Lapalme,Femme,Plus de 15 ans,19.11,Antérieure à 2018
+315,Angers,Économie,316,Jennette,Homme,Moins de 5 ans,10.03,Au cours de l'année 2020 à 2021
+316,Angers,Économie,317,Racicot,Homme,Plus de 15 ans,21.89,Au cours de l'année 2020 à 2021
+317,Angers,Économie,318,Barnet,Non Spécifié,Moins de 5 ans,26.05,Antérieure à 2018
+318,Angers,Économie,319,Capron,Femme,Entre 5 et 15 ans,15.64,Au cours des années 2018 à 2020
+319,Angers,Économie,320,Gee,Femme,Plus de 15 ans,26.58,Au cours des années 2018 à 2020
+320,Angers,Économie,321,Destin,Homme,Entre 5 et 15 ans,29.56,Au cours des années 2018 à 2020
+321,Angers,Économie,322,Parisien,Femme,Entre 5 et 15 ans,33.32,Au cours des années 2018 à 2020
+322,Angers,Économie,323,Badie,Femme,Plus de 15 ans,10.81,Antérieure à 2018
+323,Angers,Économie,324,Colin,Femme,Moins de 5 ans,23.52,Au cours de l'année 2020 à 2021
+324,Angers,Économie,325,Burdette,Femme,Entre 5 et 15 ans,27.03,Au cours de l'année 2020 à 2021
+325,Angers,Économie,326,Lemaire,Femme,Entre 5 et 15 ans,28.35,Au cours des années 2018 à 2020
+326,Angers,Économie,327,Allard,Femme,Entre 5 et 15 ans,31.73,Au cours des années 2018 à 2020
+327,Angers,Économie,328,Desroches,Femme,Plus de 15 ans,11.71,Au cours des années 2018 à 2020
+328,Angers,Économie,329,Junot,Femme,Entre 5 et 15 ans,16.65,Au cours des années 2018 à 2020
+329,Angers,Économie,330,Buote,Femme,Entre 5 et 15 ans,34.4,Au cours des années 2018 à 2020
+330,Angers,Économie,331,Dodier,Femme,Moins de 5 ans,13.96,Au cours de l'année 2020 à 2021
+331,Angers,Économie,332,Milbert,Femme,Entre 5 et 15 ans,29.86,Au cours de l'année 2020 à 2021
+332,Angers,Économie,333,Legare,Homme,Plus de 15 ans,0,Jamais
+333,Angers,Économie,334,Massar,Femme,Entre 5 et 15 ans,10.68,Antérieure à 2018
+334,Angers,Économie,335,Belcourt,Non Spécifié,Moins de 5 ans,23.13,Au cours des années 2018 à 2020
+335,Angers,Économie,336,Bienvenu,Femme,Entre 5 et 15 ans,14.08,Au cours des années 2018 à 2020
+336,Angers,Économie,337,Thomure,Femme,Plus de 15 ans,33.02,Antérieure à 2018
+337,Angers,Économie,338,Lavallee,Femme,Plus de 15 ans,17.54,Antérieure à 2018
+338,Angers,Économie,339,Groux,Femme,Entre 5 et 15 ans,11.99,Au cours de l'année 2020 à 2021
+339,Angers,Économie,340,Monast,Non Spécifié,Entre 5 et 15 ans,28.91,Au cours des années 2018 à 2020
+340,Angers,Économie,341,Chouinard,Femme,Plus de 15 ans,31.56,Antérieure à 2018
+341,Angers,Économie,342,Mole,Femme,Entre 5 et 15 ans,31.47,Antérieure à 2018
+342,Angers,Économie,343,Chauvette,Femme,Entre 5 et 15 ans,17.71,Antérieure à 2018
+343,Angers,Économie,344,Doles,Femme,Plus de 15 ans,18.5,Antérieure à 2018
+344,Angers,Économie,345,Beaudin,Femme,Entre 5 et 15 ans,30.24,Au cours de l'année 2020 à 2021
+345,Angers,Économie,346,Frappier,Femme,Moins de 5 ans,18.06,Au cours des années 2018 à 2020
+346,Angers,Économie,347,Jardin,Femme,Moins de 5 ans,12.66,Au cours de l'année 2020 à 2021
+347,Angers,Économie,348,Houde,Femme,Entre 5 et 15 ans,12.74,Antérieure à 2018
+348,Angers,Économie,349,Maple,Femme,Plus de 15 ans,32.84,Au cours des années 2018 à 2020
+349,Angers,Économie,350,Reinard,Femme,Plus de 15 ans,17.96,Antérieure à 2018
+350,Angers,Économie,351,Julien,Homme,Plus de 15 ans,27.97,Au cours des années 2018 à 2020
+351,Angers,Économie,352,Gruel,Femme,Entre 5 et 15 ans,20.9,Au cours de l'année 2020 à 2021
+352,Angers,Économie,353,St. Germaine,Femme,Moins de 5 ans,31.42,Au cours de l'année 2020 à 2021
+353,Angers,Économie,354,Domine,Femme,Plus de 15 ans,10.36,Antérieure à 2018
+354,Angers,Économie,355,Anctil,Femme,Plus de 15 ans,20.34,Au cours des années 2018 à 2020
+355,Angers,Économie,356,Poley,Femme,Entre 5 et 15 ans,16.65,Au cours des années 2018 à 2020
+356,Angers,Économie,357,Perrier,Femme,Plus de 15 ans,16.85,Au cours des années 2018 à 2020
+357,Angers,Économie,358,Marchand,Femme,Entre 5 et 15 ans,33.27,Au cours des années 2018 à 2020
+358,Angers,Économie,359,Bessey,Femme,Plus de 15 ans,33.35,Au cours des années 2018 à 2020
+359,Angers,Économie,360,Billotte,Femme,Plus de 15 ans,0,Jamais
+360,Angers,Économie,361,Georges,Femme,Entre 5 et 15 ans,19.41,Au cours des années 2018 à 2020
+361,Angers,Économie,362,Artus,Femme,Entre 5 et 15 ans,17.09,Au cours des années 2018 à 2020
+362,Angers,Économie,363,Janis,Femme,Plus de 15 ans,33.39,Antérieure à 2018
+363,Angers,Économie,364,Millet,Femme,Entre 5 et 15 ans,30.02,Au cours des années 2018 à 2020
+364,Angers,Économie,365,Haymond,Femme,Entre 5 et 15 ans,26.31,Au cours des années 2018 à 2020
+365,Angers,Économie,366,Magnan,Femme,Entre 5 et 15 ans,10.85,Au cours de l'année 2020 à 2021
+366,Angers,Économie,367,Frenier,Femme,Entre 5 et 15 ans,11.33,Antérieure à 2018
+367,Angers,Économie,368,Chandonnet,Homme,Entre 5 et 15 ans,27.25,Au cours des années 2018 à 2020
+368,Angers,Économie,369,St. Aubin,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+369,Angers,Économie,370,St. Romain,Femme,Plus de 15 ans,26.5,Au cours des années 2018 à 2020
+370,Angers,Économie,371,Cerny,Femme,Plus de 15 ans,0,Jamais
+371,Angers,Économie,372,Trinque,Femme,Entre 5 et 15 ans,33.21,Au cours des années 2018 à 2020
+372,Angers,Économie,373,Fauteux,Femme,Plus de 15 ans,0,Jamais
+373,Angers,Économie,374,Gourdine,Homme,Entre 5 et 15 ans,15.0,Au cours des années 2018 à 2020
+374,Angers,Économie,375,Deman,Femme,Entre 5 et 15 ans,22.06,Au cours de l'année 2020 à 2021
+375,Angers,Économie,376,Mastin,Femme,Plus de 15 ans,0,Jamais
+376,Angers,Économie,377,Nolet,Homme,Entre 5 et 15 ans,21.32,Au cours des années 2018 à 2020
+377,Angers,Économie,378,Filiatrault,Femme,Moins de 5 ans,18.43,Au cours de l'année 2020 à 2021
+378,Angers,Économie,379,Parrot,Femme,Entre 5 et 15 ans,0,Jamais
+379,Angers,Économie,380,Grumet,Femme,Entre 5 et 15 ans,14.67,Antérieure à 2018
+380,Angers,Économie,381,Collette,Non Spécifié,Entre 5 et 15 ans,21.79,Au cours des années 2018 à 2020
+381,Angers,Économie,382,Ramage,Femme,Plus de 15 ans,0,Jamais
+382,Angers,Économie,383,Cote,Femme,Entre 5 et 15 ans,25.02,Au cours des années 2018 à 2020
+383,Angers,Économie,384,Perrot,Femme,Entre 5 et 15 ans,31.88,Au cours des années 2018 à 2020
+384,Angers,Économie,385,Mason,Femme,Plus de 15 ans,0,Jamais
+385,Angers,Économie,386,Larrieu,Non Spécifié,Moins de 5 ans,28.09,Au cours de l'année 2020 à 2021
+386,Angers,Économie,387,Clair,Femme,Entre 5 et 15 ans,18.59,Au cours des années 2018 à 2020
+387,Angers,Économie,388,Bassin,Femme,Entre 5 et 15 ans,23.5,Au cours de l'année 2020 à 2021
+388,Angers,Économie,389,Delagardelle,Femme,Plus de 15 ans,14.38,Au cours de l'année 2020 à 2021
+389,CY Cergy Paris,Droit,1,Boulais,Homme,Moins de 5 ans,50.18,Au cours de l'année 2020 à 2021
+390,CY Cergy Paris,Droit,2,Alexandre,Femme,Moins de 5 ans,42.31,Au cours des années 2018 à 2020
+391,CY Cergy Paris,Droit,3,Tison,Homme,Plus de 15 ans,59.35,Antérieure à 2018
+392,CY Cergy Paris,Droit,4,Jalbert,Femme,Plus de 15 ans,0,Jamais
+393,CY Cergy Paris,Droit,5,Laffitte,Homme,Entre 5 et 15 ans,56.1,Au cours des années 2018 à 2020
+394,CY Cergy Paris,Droit,6,Verret,Homme,Moins de 5 ans,47.52,Au cours de l'année 2020 à 2021
+395,CY Cergy Paris,Droit,7,Tronson,Homme,Plus de 15 ans,0,Jamais
+396,CY Cergy Paris,Droit,8,Carmin,Homme,Moins de 5 ans,35.01,Antérieure à 2018
+397,CY Cergy Paris,Droit,9,Dufault,Femme,Moins de 5 ans,35.36,Antérieure à 2018
+398,CY Cergy Paris,Droit,10,Cisse,Homme,Moins de 5 ans,42.21,Au cours de l'année 2020 à 2021
+399,CY Cergy Paris,Droit,11,Place,Non Spécifié,Plus de 15 ans,0,Jamais
+400,CY Cergy Paris,Droit,12,Colbert,Femme,Entre 5 et 15 ans,32.71,Au cours de l'année 2020 à 2021
+401,CY Cergy Paris,Droit,13,Canion,Homme,Moins de 5 ans,40.37,Au cours des années 2018 à 2020
+402,CY Cergy Paris,Droit,14,Leve,Homme,Entre 5 et 15 ans,48.68,Antérieure à 2018
+403,CY Cergy Paris,Droit,15,Baudhuin,Femme,Plus de 15 ans,36.64,Au cours des années 2018 à 2020
+404,CY Cergy Paris,Droit,16,Manis,Homme,Plus de 15 ans,53.97,Antérieure à 2018
+405,CY Cergy Paris,Droit,17,Meilleur,Femme,Plus de 15 ans,0,Jamais
+406,CY Cergy Paris,Droit,18,Deyoe,Femme,Entre 5 et 15 ans,29.7,Au cours de l'année 2020 à 2021
+407,CY Cergy Paris,Droit,19,Cantrelle,Homme,Moins de 5 ans,40.18,Au cours des années 2018 à 2020
+408,CY Cergy Paris,Droit,20,Lemahieu,Femme,Plus de 15 ans,0,Jamais
+409,CY Cergy Paris,Droit,21,Shaller,Femme,Plus de 15 ans,0,Jamais
+410,CY Cergy Paris,Droit,22,Laurendeau,Homme,Plus de 15 ans,52.14,Au cours des années 2018 à 2020
+411,CY Cergy Paris,Droit,23,St. Laurent,Femme,Moins de 5 ans,44.29,Au cours de l'année 2020 à 2021
+412,CY Cergy Paris,Droit,24,Bessett,Femme,Plus de 15 ans,0,Jamais
+413,CY Cergy Paris,Droit,25,Brice,Homme,Moins de 5 ans,45.26,Au cours de l'année 2020 à 2021
+414,CY Cergy Paris,Droit,26,Suire,Homme,Entre 5 et 15 ans,38.73,Au cours de l'année 2020 à 2021
+415,CY Cergy Paris,Droit,27,Grandbois,Femme,Entre 5 et 15 ans,44.64,Au cours de l'année 2020 à 2021
+416,CY Cergy Paris,Droit,28,Graves,Femme,Entre 5 et 15 ans,38.46,Au cours des années 2018 à 2020
+417,CY Cergy Paris,Droit,29,Huguet,Homme,Moins de 5 ans,54.94,Au cours de l'année 2020 à 2021
+418,CY Cergy Paris,Droit,30,Chouinard,Femme,Plus de 15 ans,0,Jamais
+419,CY Cergy Paris,Droit,31,Fauteux,Femme,Moins de 5 ans,27.42,Au cours des années 2018 à 2020
+420,CY Cergy Paris,Droit,32,Cart,Homme,Entre 5 et 15 ans,38.6,Au cours de l'année 2020 à 2021
+421,CY Cergy Paris,Droit,33,Galvin,Femme,Entre 5 et 15 ans,27.34,Au cours des années 2018 à 2020
+422,CY Cergy Paris,Droit,34,Duntz,Femme,Plus de 15 ans,44.79,Au cours de l'année 2020 à 2021
+423,CY Cergy Paris,Droit,35,Beland,Homme,Moins de 5 ans,51.21,Au cours de l'année 2020 à 2021
+424,CY Cergy Paris,Droit,36,Lagoy,Femme,Entre 5 et 15 ans,26.95,Antérieure à 2018
+425,CY Cergy Paris,Droit,37,Routhier,Homme,Entre 5 et 15 ans,41.72,Antérieure à 2018
+426,CY Cergy Paris,Droit,38,Faniel,Femme,Entre 5 et 15 ans,39.23,Au cours de l'année 2020 à 2021
+427,CY Cergy Paris,Droit,39,Rome,Homme,Moins de 5 ans,50.35,Au cours des années 2018 à 2020
+428,CY Cergy Paris,Droit,40,Cournoyer,Homme,Entre 5 et 15 ans,43.29,Au cours des années 2018 à 2020
+429,CY Cergy Paris,Droit,41,Marcil,Femme,Moins de 5 ans,0,Jamais
+430,CY Cergy Paris,Droit,42,Nevers,Homme,Moins de 5 ans,54.76,Antérieure à 2018
+431,CY Cergy Paris,Droit,43,Mallet,Femme,Plus de 15 ans,0,Jamais
+432,CY Cergy Paris,Droit,44,Sorelle,Femme,Plus de 15 ans,0,Jamais
+433,CY Cergy Paris,Droit,45,Junod,Femme,Moins de 5 ans,0,Jamais
+434,CY Cergy Paris,Droit,46,Deschamps,Homme,Moins de 5 ans,55.43,Au cours de l'année 2020 à 2021
+435,CY Cergy Paris,Droit,47,Tetreault,Homme,Entre 5 et 15 ans,40.58,Au cours de l'année 2020 à 2021
+436,CY Cergy Paris,Droit,48,Courter,Homme,Entre 5 et 15 ans,44.79,Antérieure à 2018
+437,CY Cergy Paris,Droit,49,Autry,Femme,Plus de 15 ans,31.73,Antérieure à 2018
+438,CY Cergy Paris,Droit,50,Morice,Homme,Plus de 15 ans,40.43,Antérieure à 2018
+439,CY Cergy Paris,Droit,51,Batiste,Non Spécifié,Moins de 5 ans,39.4,Antérieure à 2018
+440,CY Cergy Paris,Droit,52,Legault,Femme,Entre 5 et 15 ans,33.4,Au cours des années 2018 à 2020
+441,CY Cergy Paris,Droit,53,Briere,Homme,Moins de 5 ans,45.34,Au cours de l'année 2020 à 2021
+442,CY Cergy Paris,Droit,54,Gras,Homme,Plus de 15 ans,54.83,Antérieure à 2018
+443,CY Cergy Paris,Droit,55,Char,Femme,Moins de 5 ans,40.56,Au cours des années 2018 à 2020
+444,CY Cergy Paris,Droit,56,Picou,Femme,Moins de 5 ans,39.11,Au cours des années 2018 à 2020
+445,CY Cergy Paris,Droit,57,Cazier,Femme,Entre 5 et 15 ans,41.07,Au cours de l'année 2020 à 2021
+446,CY Cergy Paris,Droit,58,Davault,Homme,Moins de 5 ans,45.84,Au cours de l'année 2020 à 2021
+447,CY Cergy Paris,Droit,59,Grosjean,Non Spécifié,Moins de 5 ans,46.16,Au cours des années 2018 à 2020
+448,CY Cergy Paris,Droit,60,Hatton,Non Spécifié,Moins de 5 ans,43.22,Antérieure à 2018
+449,CY Cergy Paris,Droit,61,Bongard,Femme,Moins de 5 ans,33.83,Au cours des années 2018 à 2020
+450,CY Cergy Paris,Droit,62,Deger,Homme,Moins de 5 ans,36.63,Au cours de l'année 2020 à 2021
+451,CY Cergy Paris,Droit,63,Cheney,Femme,Moins de 5 ans,0,Jamais
+452,CY Cergy Paris,Droit,64,Maltais,Femme,Plus de 15 ans,41.21,Au cours des années 2018 à 2020
+453,CY Cergy Paris,Droit,65,Duhamel,Femme,Entre 5 et 15 ans,40.71,Au cours des années 2018 à 2020
+454,CY Cergy Paris,Droit,66,Minard,Homme,Entre 5 et 15 ans,44.07,Antérieure à 2018
+455,CY Cergy Paris,Droit,67,Fuselier,Homme,Moins de 5 ans,57.46,Au cours de l'année 2020 à 2021
+456,CY Cergy Paris,Droit,68,Breaux,Femme,Entre 5 et 15 ans,26.83,Au cours des années 2018 à 2020
+457,CY Cergy Paris,Droit,69,Faron,Homme,Moins de 5 ans,0,Jamais
+458,CY Cergy Paris,Droit,70,Royer,Homme,Entre 5 et 15 ans,54.58,Antérieure à 2018
+459,CY Cergy Paris,Droit,71,Darney,Homme,Entre 5 et 15 ans,41.07,Antérieure à 2018
+460,CY Cergy Paris,Droit,72,Norman,Femme,Moins de 5 ans,35.57,Au cours des années 2018 à 2020
+461,CY Cergy Paris,Droit,73,Destin,Homme,Moins de 5 ans,51.39,Au cours des années 2018 à 2020
+462,CY Cergy Paris,Droit,74,Noland,Femme,Moins de 5 ans,41.85,Au cours de l'année 2020 à 2021
+463,CY Cergy Paris,Droit,75,Maron,Femme,Entre 5 et 15 ans,27.31,Au cours de l'année 2020 à 2021
+464,CY Cergy Paris,Droit,76,Debord,Femme,Moins de 5 ans,31.92,Au cours de l'année 2020 à 2021
+465,CY Cergy Paris,Droit,77,Chappelle,Non Spécifié,Entre 5 et 15 ans,49.04,Antérieure à 2018
+466,CY Cergy Paris,Droit,78,Rosin,Homme,Entre 5 et 15 ans,42.78,Antérieure à 2018
+467,CY Cergy Paris,Droit,79,Gravel,Femme,Plus de 15 ans,33.84,Antérieure à 2018
+468,CY Cergy Paris,Droit,80,Drouhard,Femme,Plus de 15 ans,0,Jamais
+469,CY Cergy Paris,Droit,81,Castonguay,Homme,Entre 5 et 15 ans,44.89,Au cours des années 2018 à 2020
+470,CY Cergy Paris,Droit,82,Ganoe,Femme,Entre 5 et 15 ans,38.71,Antérieure à 2018
+471,CY Cergy Paris,Histoire,83,Demers,Femme,Plus de 15 ans,33.53,Antérieure à 2018
+472,CY Cergy Paris,Histoire,84,Guill,Homme,Moins de 5 ans,30.32,Au cours de l'année 2020 à 2021
+473,CY Cergy Paris,Histoire,85,Dumouchel,Homme,Plus de 15 ans,0,Jamais
+474,CY Cergy Paris,Histoire,86,Debois,Femme,Entre 5 et 15 ans,0,Jamais
+475,CY Cergy Paris,Histoire,87,Bardon,Femme,Entre 5 et 15 ans,26.99,Au cours des années 2018 à 2020
+476,CY Cergy Paris,Histoire,88,Granat,Femme,Entre 5 et 15 ans,34.04,Au cours des années 2018 à 2020
+477,CY Cergy Paris,Histoire,89,Durio,Homme,Entre 5 et 15 ans,36.85,Au cours des années 2018 à 2020
+478,CY Cergy Paris,Histoire,90,Wagnon,Femme,Plus de 15 ans,0,Jamais
+479,CY Cergy Paris,Histoire,91,Guilbeault,Homme,Entre 5 et 15 ans,35.46,Antérieure à 2018
+480,CY Cergy Paris,Histoire,92,Proulx,Femme,Plus de 15 ans,0,Jamais
+481,CY Cergy Paris,Histoire,93,Foy,Femme,Plus de 15 ans,25.85,Antérieure à 2018
+482,CY Cergy Paris,Histoire,94,Langille,Femme,Entre 5 et 15 ans,31.15,Antérieure à 2018
+483,CY Cergy Paris,Histoire,95,Burnet,Femme,Entre 5 et 15 ans,31.6,Au cours des années 2018 à 2020
+484,CY Cergy Paris,Histoire,96,Bataille,Homme,Entre 5 et 15 ans,38.84,Au cours de l'année 2020 à 2021
+485,CY Cergy Paris,Histoire,97,Dupont,Homme,Entre 5 et 15 ans,43.4,Au cours de l'année 2020 à 2021
+486,CY Cergy Paris,Histoire,98,Ayon,Homme,Entre 5 et 15 ans,42.7,Antérieure à 2018
+487,CY Cergy Paris,Histoire,99,Sublette,Homme,Plus de 15 ans,43.62,Antérieure à 2018
+488,CY Cergy Paris,Histoire,100,Ostheimer,Homme,Plus de 15 ans,30.15,Antérieure à 2018
+489,CY Cergy Paris,Histoire,101,Petron,Homme,Plus de 15 ans,0,Jamais
+490,CY Cergy Paris,Histoire,102,Oge,Homme,Entre 5 et 15 ans,30.32,Au cours de l'année 2020 à 2021
+491,CY Cergy Paris,Histoire,103,Bertolet,Femme,Plus de 15 ans,32.13,Antérieure à 2018
+492,CY Cergy Paris,Histoire,104,Hart,Homme,Entre 5 et 15 ans,33.55,Au cours de l'année 2020 à 2021
+493,CY Cergy Paris,Histoire,105,Laforce,Femme,Entre 5 et 15 ans,38.45,Au cours des années 2018 à 2020
+494,CY Cergy Paris,Histoire,106,Herard,Homme,Entre 5 et 15 ans,35.72,Au cours de l'année 2020 à 2021
+495,CY Cergy Paris,Histoire,107,Bordes,Homme,Entre 5 et 15 ans,39.32,Au cours des années 2018 à 2020
+496,CY Cergy Paris,Histoire,108,Cardon,Homme,Plus de 15 ans,38.12,Antérieure à 2018
+497,CY Cergy Paris,Histoire,109,Desautels,Homme,Entre 5 et 15 ans,42.24,Au cours des années 2018 à 2020
+498,CY Cergy Paris,Histoire,110,Quine,Homme,Entre 5 et 15 ans,33.85,Antérieure à 2018
+499,CY Cergy Paris,Histoire,111,Perrier,Homme,Entre 5 et 15 ans,0,Jamais
+500,CY Cergy Paris,Histoire,112,Murch,Homme,Moins de 5 ans,43.91,Au cours des années 2018 à 2020
+501,CY Cergy Paris,Histoire,113,Minion,Non Spécifié,Entre 5 et 15 ans,15.59,Au cours des années 2018 à 2020
+502,CY Cergy Paris,Histoire,114,Houze,Homme,Entre 5 et 15 ans,36.14,Au cours de l'année 2020 à 2021
+503,CY Cergy Paris,Histoire,115,Gard,Homme,Entre 5 et 15 ans,34.98,Au cours de l'année 2020 à 2021
+504,CY Cergy Paris,Histoire,116,Casimir,Homme,Entre 5 et 15 ans,31.98,Au cours des années 2018 à 2020
+505,CY Cergy Paris,Histoire,117,Magnon,Homme,Entre 5 et 15 ans,30.4,Antérieure à 2018
+506,CY Cergy Paris,Histoire,118,Urbin,Femme,Entre 5 et 15 ans,30.06,Au cours des années 2018 à 2020
+507,CY Cergy Paris,Histoire,119,Gravelle,Femme,Plus de 15 ans,30.09,Au cours des années 2018 à 2020
+508,CY Cergy Paris,Histoire,120,Barse,Homme,Entre 5 et 15 ans,0,Jamais
+509,CY Cergy Paris,Histoire,121,Mangin,Homme,Entre 5 et 15 ans,39.84,Antérieure à 2018
+510,CY Cergy Paris,Histoire,122,Gagnard,Femme,Entre 5 et 15 ans,37.96,Au cours des années 2018 à 2020
+511,CY Cergy Paris,Histoire,123,Boisselle,Non Spécifié,Moins de 5 ans,32.14,Au cours de l'année 2020 à 2021
+512,CY Cergy Paris,Histoire,124,Gendreau,Homme,Entre 5 et 15 ans,39.77,Au cours des années 2018 à 2020
+513,CY Cergy Paris,Histoire,125,Gignac,Homme,Plus de 15 ans,39.75,Antérieure à 2018
+514,CY Cergy Paris,Histoire,126,Amirault,Homme,Plus de 15 ans,33.87,Au cours des années 2018 à 2020
+515,CY Cergy Paris,Histoire,127,Mollard,Femme,Entre 5 et 15 ans,0,Jamais
+516,CY Cergy Paris,Histoire,128,Danis,Femme,Moins de 5 ans,22.11,Au cours de l'année 2020 à 2021
+517,CY Cergy Paris,Histoire,129,Arquette,Homme,Entre 5 et 15 ans,30.01,Au cours de l'année 2020 à 2021
+518,CY Cergy Paris,Histoire,130,Guion,Homme,Entre 5 et 15 ans,40.32,Au cours de l'année 2020 à 2021
+519,CY Cergy Paris,Histoire,131,Lestrange,Homme,Moins de 5 ans,36.3,Au cours de l'année 2020 à 2021
+520,CY Cergy Paris,Histoire,132,Nageotte,Homme,Entre 5 et 15 ans,44.53,Antérieure à 2018
+521,CY Cergy Paris,Histoire,133,Hu,Femme,Entre 5 et 15 ans,17.31,Au cours des années 2018 à 2020
+522,CY Cergy Paris,Histoire,134,Gibeau,Femme,Entre 5 et 15 ans,22.91,Antérieure à 2018
+523,CY Cergy Paris,Histoire,135,Laporte,Femme,Plus de 15 ans,0,Jamais
+524,CY Cergy Paris,Histoire,136,Lapeyrouse,Homme,Entre 5 et 15 ans,42.25,Au cours des années 2018 à 2020
+525,CY Cergy Paris,Histoire,137,Saunier,Femme,Plus de 15 ans,27.46,Au cours des années 2018 à 2020
+526,CY Cergy Paris,Histoire,138,Fradette,Femme,Entre 5 et 15 ans,37.68,Au cours de l'année 2020 à 2021
+527,CY Cergy Paris,Histoire,139,Belot,Homme,Entre 5 et 15 ans,39.96,Antérieure à 2018
+528,CY Cergy Paris,Histoire,140,Huberty,Homme,Entre 5 et 15 ans,32.54,Au cours de l'année 2020 à 2021
+529,CY Cergy Paris,Histoire,141,Archambault,Homme,Plus de 15 ans,35.68,Au cours des années 2018 à 2020
+530,CY Cergy Paris,Histoire,142,Lheureux,Homme,Plus de 15 ans,36.41,Au cours des années 2018 à 2020
+531,CY Cergy Paris,Histoire,143,Bense,Homme,Entre 5 et 15 ans,0,Jamais
+532,CY Cergy Paris,Histoire,144,Nixon,Femme,Entre 5 et 15 ans,28.33,Au cours des années 2018 à 2020
+533,CY Cergy Paris,Histoire,145,Paquette,Femme,Moins de 5 ans,32.83,Au cours des années 2018 à 2020
+534,CY Cergy Paris,Mathématiques,146,Villeneuve,Homme,Moins de 5 ans,46.61,Au cours de l'année 2020 à 2021
+535,CY Cergy Paris,Mathématiques,147,Pinsonneault,Femme,Plus de 15 ans,52.8,Antérieure à 2018
+536,CY Cergy Paris,Mathématiques,148,Chaussee,Homme,Moins de 5 ans,49.59,Au cours de l'année 2020 à 2021
+537,CY Cergy Paris,Mathématiques,149,Thore,Femme,Entre 5 et 15 ans,52.93,Au cours des années 2018 à 2020
+538,CY Cergy Paris,Mathématiques,150,Crochet,Homme,Plus de 15 ans,54.69,Antérieure à 2018
+539,CY Cergy Paris,Mathématiques,151,Sirois,Femme,Plus de 15 ans,0,Jamais
+540,CY Cergy Paris,Mathématiques,152,Guay,Femme,Moins de 5 ans,54.83,Au cours de l'année 2020 à 2021
+541,CY Cergy Paris,Mathématiques,153,Clair,Homme,Moins de 5 ans,52.49,Au cours de l'année 2020 à 2021
+542,CY Cergy Paris,Mathématiques,154,Bouchard,Homme,Entre 5 et 15 ans,41.18,Au cours des années 2018 à 2020
+543,CY Cergy Paris,Mathématiques,155,Lamirande,Homme,Moins de 5 ans,0,Jamais
+544,CY Cergy Paris,Mathématiques,156,Carnal,Femme,Entre 5 et 15 ans,0,Jamais
+545,CY Cergy Paris,Mathématiques,157,Beger,Femme,Entre 5 et 15 ans,43.77,Au cours des années 2018 à 2020
+546,CY Cergy Paris,Mathématiques,158,Cordes,Femme,Entre 5 et 15 ans,44.02,Au cours des années 2018 à 2020
+547,CY Cergy Paris,Mathématiques,159,Sand,Femme,Entre 5 et 15 ans,48.69,Au cours de l'année 2020 à 2021
+548,CY Cergy Paris,Mathématiques,160,Lafontant,Femme,Plus de 15 ans,52.34,Au cours des années 2018 à 2020
+549,CY Cergy Paris,Mathématiques,161,Haury,Non Spécifié,Entre 5 et 15 ans,41.75,Au cours de l'année 2020 à 2021
+550,CY Cergy Paris,Mathématiques,162,Porcher,Femme,Plus de 15 ans,52.91,Antérieure à 2018
+551,CY Cergy Paris,Mathématiques,163,Taillon,Non Spécifié,Entre 5 et 15 ans,45.97,Au cours de l'année 2020 à 2021
+552,CY Cergy Paris,Mathématiques,164,Depaul,Homme,Plus de 15 ans,53.69,Au cours des années 2018 à 2020
+553,CY Cergy Paris,Mathématiques,165,Bram,Non Spécifié,Moins de 5 ans,43.34,Antérieure à 2018
+554,CY Cergy Paris,Mathématiques,166,Calais,Femme,Moins de 5 ans,47.46,Antérieure à 2018
+555,CY Cergy Paris,Mathématiques,167,Vennard,Femme,Entre 5 et 15 ans,37.13,Au cours des années 2018 à 2020
+556,CY Cergy Paris,Mathématiques,168,Derenne,Femme,Entre 5 et 15 ans,42.16,Au cours des années 2018 à 2020
+557,CY Cergy Paris,Mathématiques,169,Senesac,Femme,Entre 5 et 15 ans,0,Jamais
+558,CY Cergy Paris,Mathématiques,170,Thibeault,Femme,Plus de 15 ans,44.09,Antérieure à 2018
+559,CY Cergy Paris,Mathématiques,171,Palin,Femme,Moins de 5 ans,41.2,Au cours des années 2018 à 2020
+560,CY Cergy Paris,Mathématiques,172,Meservey,Femme,Moins de 5 ans,52.12,Au cours de l'année 2020 à 2021
+561,CY Cergy Paris,Mathématiques,173,Just,Femme,Plus de 15 ans,35.56,Au cours de l'année 2020 à 2021
+562,CY Cergy Paris,Mathématiques,174,Sauve,Femme,Moins de 5 ans,37.82,Au cours des années 2018 à 2020
+563,CY Cergy Paris,Mathématiques,175,Lande,Femme,Plus de 15 ans,0,Jamais
+564,CY Cergy Paris,Mathématiques,176,St. Clair,Femme,Plus de 15 ans,45.0,Au cours des années 2018 à 2020
+565,CY Cergy Paris,Mathématiques,177,Jean,Femme,Entre 5 et 15 ans,50.05,Au cours des années 2018 à 2020
+566,CY Cergy Paris,Mathématiques,178,Barbier,Homme,Plus de 15 ans,52.46,Antérieure à 2018
+567,CY Cergy Paris,Mathématiques,179,Lahaie,Non Spécifié,Moins de 5 ans,38.47,Au cours de l'année 2020 à 2021
+568,CY Cergy Paris,Mathématiques,180,Guise,Femme,Plus de 15 ans,48.68,Au cours des années 2018 à 2020
+569,CY Cergy Paris,Mathématiques,181,Meyette,Femme,Moins de 5 ans,40.55,Au cours des années 2018 à 2020
+570,CY Cergy Paris,Mathématiques,182,Nadon,Homme,Moins de 5 ans,54.57,Au cours de l'année 2020 à 2021
+571,CY Cergy Paris,Mathématiques,183,Faille,Femme,Entre 5 et 15 ans,50.61,Antérieure à 2018
+572,CY Cergy Paris,Mathématiques,184,Faile,Femme,Moins de 5 ans,47.79,Au cours des années 2018 à 2020
+573,CY Cergy Paris,Mathématiques,185,Demontigny,Homme,Moins de 5 ans,46.71,Au cours des années 2018 à 2020
+574,CY Cergy Paris,Mathématiques,186,Cape,Homme,Moins de 5 ans,44.94,Au cours de l'année 2020 à 2021
+575,CY Cergy Paris,Mathématiques,187,Thiboutot,Homme,Entre 5 et 15 ans,43.49,Au cours de l'année 2020 à 2021
+576,CY Cergy Paris,Mathématiques,188,Manon,Femme,Plus de 15 ans,42.66,Antérieure à 2018
+577,CY Cergy Paris,Mathématiques,189,Hypolite,Femme,Entre 5 et 15 ans,53.16,Antérieure à 2018
+578,CY Cergy Paris,Mathématiques,190,Perrotte,Femme,Moins de 5 ans,45.14,Au cours des années 2018 à 2020
+579,CY Cergy Paris,Mathématiques,191,Buote,Femme,Moins de 5 ans,39.56,Au cours de l'année 2020 à 2021
+580,CY Cergy Paris,Mathématiques,192,Delagardelle,Femme,Entre 5 et 15 ans,35.7,Au cours de l'année 2020 à 2021
+581,CY Cergy Paris,Mathématiques,193,Purifoy,Homme,Moins de 5 ans,49.73,Au cours de l'année 2020 à 2021
+582,CY Cergy Paris,Mathématiques,194,Brasseur,Homme,Plus de 15 ans,52.86,Au cours de l'année 2020 à 2021
+583,CY Cergy Paris,Mathématiques,195,Boivin,Non Spécifié,Plus de 15 ans,38.53,Au cours des années 2018 à 2020
+584,CY Cergy Paris,Mathématiques,196,Mazon,Homme,Entre 5 et 15 ans,41.72,Antérieure à 2018
+585,CY Cergy Paris,Mathématiques,197,Pelland,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+586,CY Cergy Paris,Informatique,198,Bedard,Femme,Plus de 15 ans,38.19,Antérieure à 2018
+587,CY Cergy Paris,Informatique,199,Chenevert,Femme,Moins de 5 ans,48.86,Au cours des années 2018 à 2020
+588,CY Cergy Paris,Informatique,200,Godin,Femme,Plus de 15 ans,0,Jamais
+589,CY Cergy Paris,Informatique,201,Sansouci,Homme,Moins de 5 ans,61.12,Au cours de l'année 2020 à 2021
+590,CY Cergy Paris,Informatique,202,Carton,Femme,Moins de 5 ans,43.85,Au cours des années 2018 à 2020
+591,CY Cergy Paris,Informatique,203,Carmouche,Homme,Plus de 15 ans,0,Jamais
+592,CY Cergy Paris,Informatique,204,Quine,Homme,Moins de 5 ans,60.88,Au cours de l'année 2020 à 2021
+593,CY Cergy Paris,Informatique,205,Lamarque,Femme,Plus de 15 ans,37.9,Antérieure à 2018
+594,CY Cergy Paris,Informatique,206,Beaumier,Femme,Entre 5 et 15 ans,44.52,Antérieure à 2018
+595,CY Cergy Paris,Informatique,207,Barnes,Femme,Entre 5 et 15 ans,49.01,Au cours des années 2018 à 2020
+596,CY Cergy Paris,Informatique,208,Monin,Homme,Moins de 5 ans,58.52,Antérieure à 2018
+597,CY Cergy Paris,Informatique,209,Desper,Homme,Moins de 5 ans,61.42,Au cours de l'année 2020 à 2021
+598,CY Cergy Paris,Informatique,210,Manville,Femme,Plus de 15 ans,35.77,Au cours des années 2018 à 2020
+599,CY Cergy Paris,Informatique,211,Faix,Non Spécifié,Moins de 5 ans,42.23,Au cours de l'année 2020 à 2021
+600,CY Cergy Paris,Informatique,212,Brave,Homme,Entre 5 et 15 ans,57.91,Au cours des années 2018 à 2020
+601,CY Cergy Paris,Informatique,213,Robicheaux,Femme,Entre 5 et 15 ans,45.23,Au cours de l'année 2020 à 2021
+602,CY Cergy Paris,Informatique,214,Favier,Femme,Entre 5 et 15 ans,44.68,Au cours des années 2018 à 2020
+603,CY Cergy Paris,Informatique,215,Ras,Femme,Moins de 5 ans,40.5,Au cours des années 2018 à 2020
+604,CY Cergy Paris,Informatique,216,Danton,Homme,Entre 5 et 15 ans,57.24,Au cours des années 2018 à 2020
+605,CY Cergy Paris,Informatique,217,Chappelle,Homme,Moins de 5 ans,65.14,Au cours de l'année 2020 à 2021
+606,CY Cergy Paris,Informatique,218,Triche,Homme,Moins de 5 ans,0,Jamais
+607,CY Cergy Paris,Informatique,219,Corne,Homme,Moins de 5 ans,61.96,Au cours de l'année 2020 à 2021
+608,CY Cergy Paris,Informatique,220,Carel,Femme,Moins de 5 ans,48.19,Au cours de l'année 2020 à 2021
+609,CY Cergy Paris,Informatique,221,Vallin,Homme,Moins de 5 ans,52.51,Au cours de l'année 2020 à 2021
+610,CY Cergy Paris,Informatique,222,Latour,Femme,Moins de 5 ans,40.81,Au cours de l'année 2020 à 2021
+611,CY Cergy Paris,Informatique,223,Bastin,Femme,Moins de 5 ans,41.53,Au cours de l'année 2020 à 2021
+612,CY Cergy Paris,Informatique,224,Morel,Non Spécifié,Moins de 5 ans,48.55,Antérieure à 2018
+613,CY Cergy Paris,Informatique,225,Brune,Femme,Moins de 5 ans,49.19,Au cours de l'année 2020 à 2021
+614,CY Cergy Paris,Informatique,226,Lebeau,Femme,Moins de 5 ans,35.9,Au cours des années 2018 à 2020
+615,CY Cergy Paris,Informatique,227,Rioux,Femme,Moins de 5 ans,40.49,Au cours de l'année 2020 à 2021
+616,CY Cergy Paris,Informatique,228,Lagrave,Femme,Plus de 15 ans,0,Jamais
+617,CY Cergy Paris,Informatique,229,Dubin,Homme,Moins de 5 ans,69.63,Au cours des années 2018 à 2020
+618,CY Cergy Paris,Informatique,230,Devin,Homme,Moins de 5 ans,65.74,Au cours de l'année 2020 à 2021
+619,CY Cergy Paris,Informatique,231,Goupil,Femme,Moins de 5 ans,46.4,Au cours de l'année 2020 à 2021
+620,CY Cergy Paris,Informatique,232,Perel,Homme,Moins de 5 ans,51.55,Au cours de l'année 2020 à 2021
+621,CY Cergy Paris,Informatique,233,Faudree,Femme,Entre 5 et 15 ans,46.39,Au cours de l'année 2020 à 2021
+622,CY Cergy Paris,Informatique,234,Mercy,Femme,Moins de 5 ans,48.3,Au cours de l'année 2020 à 2021
+623,CY Cergy Paris,Informatique,235,Vallery,Homme,Entre 5 et 15 ans,53.07,Au cours des années 2018 à 2020
+624,CY Cergy Paris,Informatique,236,Bellet,Femme,Plus de 15 ans,0,Jamais
+625,CY Cergy Paris,Informatique,237,Maturin,Femme,Moins de 5 ans,36.01,Au cours de l'année 2020 à 2021
+626,CY Cergy Paris,Informatique,238,Germain,Homme,Entre 5 et 15 ans,50.74,Au cours des années 2018 à 2020
+627,CY Cergy Paris,Informatique,239,Daigre,Non Spécifié,Moins de 5 ans,52.88,Au cours des années 2018 à 2020
+628,CY Cergy Paris,Informatique,240,Gast,Femme,Moins de 5 ans,48.93,Au cours de l'année 2020 à 2021
+629,CY Cergy Paris,Informatique,241,Casbon,Non Spécifié,Entre 5 et 15 ans,42.91,Au cours de l'année 2020 à 2021
+630,CY Cergy Paris,Informatique,242,Longpre,Non Spécifié,Moins de 5 ans,52.5,Au cours de l'année 2020 à 2021
+631,CY Cergy Paris,Informatique,243,Gerould,Homme,Moins de 5 ans,54.77,Au cours des années 2018 à 2020
+632,CY Cergy Paris,Informatique,244,Thiboutot,Femme,Moins de 5 ans,39.89,Au cours de l'année 2020 à 2021
+633,CY Cergy Paris,Informatique,245,Derise,Femme,Moins de 5 ans,49.61,Antérieure à 2018
+634,CY Cergy Paris,Informatique,246,Heroux,Femme,Moins de 5 ans,49.3,Au cours des années 2018 à 2020
+635,CY Cergy Paris,Informatique,247,Levan,Non Spécifié,Plus de 15 ans,43.25,Au cours de l'année 2020 à 2021
+636,CY Cergy Paris,Informatique,248,Marchand,Homme,Plus de 15 ans,0,Jamais
+637,CY Cergy Paris,Informatique,249,Prueitt,Homme,Moins de 5 ans,64.76,Au cours de l'année 2020 à 2021
+638,CY Cergy Paris,Informatique,250,Lalanne,Homme,Moins de 5 ans,50.64,Au cours de l'année 2020 à 2021
+639,CY Cergy Paris,Informatique,251,Mince,Homme,Moins de 5 ans,59.75,Au cours des années 2018 à 2020
+640,CY Cergy Paris,Informatique,252,Perras,Homme,Moins de 5 ans,55.42,Au cours de l'année 2020 à 2021
+641,CY Cergy Paris,Informatique,253,Armand,Homme,Plus de 15 ans,56.79,Au cours de l'année 2020 à 2021
+642,CY Cergy Paris,Informatique,254,Jules,Femme,Moins de 5 ans,49.14,Antérieure à 2018
+643,CY Cergy Paris,Informatique,255,Deboe,Femme,Moins de 5 ans,45.43,Au cours des années 2018 à 2020
+644,CY Cergy Paris,Économie,256,Bernardy,Homme,Plus de 15 ans,0,Jamais
+645,CY Cergy Paris,Économie,257,Romain,Femme,Entre 5 et 15 ans,36.37,Au cours des années 2018 à 2020
+646,CY Cergy Paris,Économie,258,Lorrain,Femme,Entre 5 et 15 ans,23.91,Au cours de l'année 2020 à 2021
+647,CY Cergy Paris,Économie,259,Robicheaux,Homme,Plus de 15 ans,0,Jamais
+648,CY Cergy Paris,Économie,260,Laurie,Femme,Entre 5 et 15 ans,26.15,Au cours des années 2018 à 2020
+649,CY Cergy Paris,Économie,261,Barrier,Femme,Plus de 15 ans,23.65,Au cours des années 2018 à 2020
+650,CY Cergy Paris,Économie,262,Bollier,Femme,Entre 5 et 15 ans,29.82,Antérieure à 2018
+651,CY Cergy Paris,Économie,263,Archambeau,Homme,Entre 5 et 15 ans,48.59,Antérieure à 2018
+652,CY Cergy Paris,Économie,264,Cardin,Femme,Entre 5 et 15 ans,34.35,Au cours de l'année 2020 à 2021
+653,CY Cergy Paris,Économie,265,Lagrange,Femme,Entre 5 et 15 ans,33.98,Au cours de l'année 2020 à 2021
+654,CY Cergy Paris,Économie,266,Blasier,Homme,Moins de 5 ans,40.59,Antérieure à 2018
+655,CY Cergy Paris,Économie,267,Boudinot,Non Spécifié,Entre 5 et 15 ans,22.72,Au cours de l'année 2020 à 2021
+656,CY Cergy Paris,Économie,268,Lavallee,Homme,Plus de 15 ans,48.58,Au cours des années 2018 à 2020
+657,CY Cergy Paris,Économie,269,Hetu,Femme,Plus de 15 ans,32.6,Au cours des années 2018 à 2020
+658,CY Cergy Paris,Économie,270,Gascon,Homme,Plus de 15 ans,49.28,Au cours de l'année 2020 à 2021
+659,CY Cergy Paris,Économie,271,Delorme,Femme,Entre 5 et 15 ans,20.81,Au cours de l'année 2020 à 2021
+660,CY Cergy Paris,Économie,272,Laborde,Femme,Entre 5 et 15 ans,28.75,Au cours des années 2018 à 2020
+661,CY Cergy Paris,Économie,273,Autry,Femme,Entre 5 et 15 ans,35.93,Au cours des années 2018 à 2020
+662,CY Cergy Paris,Économie,274,Viger,Homme,Entre 5 et 15 ans,48.55,Au cours des années 2018 à 2020
+663,CY Cergy Paris,Économie,275,Lorson,Femme,Entre 5 et 15 ans,31.48,Au cours des années 2018 à 2020
+664,CY Cergy Paris,Économie,276,Grenier,Homme,Moins de 5 ans,51.1,Au cours des années 2018 à 2020
+665,CY Cergy Paris,Économie,277,Lebel,Femme,Moins de 5 ans,34.07,Au cours de l'année 2020 à 2021
+666,CY Cergy Paris,Économie,278,Charbonnet,Homme,Entre 5 et 15 ans,46.45,Au cours des années 2018 à 2020
+667,CY Cergy Paris,Économie,279,Labiche,Femme,Entre 5 et 15 ans,34.6,Au cours des années 2018 à 2020
+668,CY Cergy Paris,Économie,280,Darius,Femme,Entre 5 et 15 ans,20.53,Antérieure à 2018
+669,CY Cergy Paris,Économie,281,Gorin,Femme,Entre 5 et 15 ans,0,Jamais
+670,CY Cergy Paris,Économie,282,Laforge,Homme,Plus de 15 ans,40.66,Antérieure à 2018
+671,CY Cergy Paris,Économie,283,Parde,Femme,Entre 5 et 15 ans,30.95,Au cours des années 2018 à 2020
+672,CY Cergy Paris,Économie,284,Bruley,Homme,Plus de 15 ans,40.72,Au cours des années 2018 à 2020
+673,CY Cergy Paris,Économie,285,Amar,Femme,Entre 5 et 15 ans,33.43,Au cours de l'année 2020 à 2021
+674,CY Cergy Paris,Économie,286,Toye,Homme,Moins de 5 ans,48.7,Au cours de l'année 2020 à 2021
+675,CY Cergy Paris,Économie,287,Canard,Femme,Entre 5 et 15 ans,27.61,Au cours des années 2018 à 2020
+676,CY Cergy Paris,Économie,288,Cotton,Homme,Entre 5 et 15 ans,48.86,Au cours des années 2018 à 2020
+677,CY Cergy Paris,Économie,289,Demore,Femme,Moins de 5 ans,31.23,Au cours de l'année 2020 à 2021
+678,CY Cergy Paris,Économie,290,Dubray,Homme,Plus de 15 ans,49.1,Au cours des années 2018 à 2020
+679,CY Cergy Paris,Économie,291,Loiseau,Femme,Plus de 15 ans,21.2,Au cours des années 2018 à 2020
+680,CY Cergy Paris,Économie,292,Pelotte,Femme,Moins de 5 ans,20.43,Au cours de l'année 2020 à 2021
+681,CY Cergy Paris,Économie,293,Gareau,Femme,Moins de 5 ans,20.99,Au cours de l'année 2020 à 2021
+682,CY Cergy Paris,Économie,294,Verne,Femme,Entre 5 et 15 ans,0,Jamais
+683,CY Cergy Paris,Économie,295,Lafreniere,Femme,Moins de 5 ans,36.99,Au cours de l'année 2020 à 2021
+684,CY Cergy Paris,Économie,296,Lelievre,Homme,Plus de 15 ans,41.54,Au cours des années 2018 à 2020
+685,CY Cergy Paris,Économie,297,Fanguy,Femme,Plus de 15 ans,0,Jamais
+686,CY Cergy Paris,Économie,298,Angelle,Homme,Entre 5 et 15 ans,43.32,Au cours des années 2018 à 2020
+687,CY Cergy Paris,Économie,299,Victorian,Homme,Moins de 5 ans,0,Jamais
+688,CY Cergy Paris,Économie,300,Sable,Homme,Plus de 15 ans,0,Jamais
+689,CY Cergy Paris,Économie,301,Dorion,Femme,Entre 5 et 15 ans,25.23,Au cours de l'année 2020 à 2021
+690,CY Cergy Paris,Économie,302,Dalin,Femme,Plus de 15 ans,0,Jamais
+691,CY Cergy Paris,Économie,303,Foret,Homme,Entre 5 et 15 ans,53.11,Au cours des années 2018 à 2020
+692,CY Cergy Paris,Économie,304,Hasson,Femme,Plus de 15 ans,0,Jamais
+693,CY Cergy Paris,Économie,305,Bazinet,Homme,Entre 5 et 15 ans,46.22,Au cours de l'année 2020 à 2021
+694,CY Cergy Paris,Économie,306,Pellegrin,Homme,Plus de 15 ans,53.39,Antérieure à 2018
+695,CY Cergy Paris,Économie,307,Braley,Non Spécifié,Plus de 15 ans,23.46,Antérieure à 2018
+696,CY Cergy Paris,Économie,308,Gillette,Homme,Entre 5 et 15 ans,43.43,Au cours de l'année 2020 à 2021
+697,CY Cergy Paris,Économie,309,Charette,Homme,Plus de 15 ans,47.32,Antérieure à 2018
+698,CY Cergy Paris,Économie,310,Simard,Homme,Entre 5 et 15 ans,44.61,Au cours des années 2018 à 2020
+699,CY Cergy Paris,Économie,311,Wion,Homme,Plus de 15 ans,0,Jamais
+700,CY Cergy Paris,Économie,312,Pellerin,Femme,Plus de 15 ans,21.63,Au cours des années 2018 à 2020
+701,CY Cergy Paris,Économie,313,Naves,Femme,Moins de 5 ans,32.9,Au cours de l'année 2020 à 2021
+702,CY Cergy Paris,Économie,314,Lafont,Homme,Plus de 15 ans,52.37,Antérieure à 2018
+703,CY Cergy Paris,Économie,315,Porte,Homme,Entre 5 et 15 ans,42.16,Au cours des années 2018 à 2020
+704,CY Cergy Paris,Économie,316,Tarin,Homme,Entre 5 et 15 ans,51.95,Au cours des années 2018 à 2020
+705,CY Cergy Paris,Économie,317,St. Charles,Homme,Moins de 5 ans,41.4,Au cours de l'année 2020 à 2021
+706,CY Cergy Paris,Économie,318,Brissett,Femme,Plus de 15 ans,0,Jamais
+707,CY Cergy Paris,Économie,319,Gee,Femme,Moins de 5 ans,26.7,Au cours de l'année 2020 à 2021
+708,CY Cergy Paris,Économie,320,Sas,Femme,Moins de 5 ans,39.81,Au cours de l'année 2020 à 2021
+709,CY Cergy Paris,Économie,321,Garrant,Homme,Entre 5 et 15 ans,0,Jamais
+710,CY Cergy Paris,Économie,322,Mondry,Femme,Entre 5 et 15 ans,28.49,Au cours des années 2018 à 2020
+711,CY Cergy Paris,Économie,323,Jeanfreau,Femme,Moins de 5 ans,26.52,Au cours de l'année 2020 à 2021
+712,CY Cergy Paris,Économie,324,Lachapelle,Femme,Entre 5 et 15 ans,22.07,Antérieure à 2018
+713,CY Cergy Paris,Économie,325,Savant,Non Spécifié,Moins de 5 ans,29.68,Au cours de l'année 2020 à 2021
+714,CY Cergy Paris,Économie,326,Talbert,Homme,Moins de 5 ans,48.63,Au cours de l'année 2020 à 2021
+715,CY Cergy Paris,Économie,327,Innocent,Homme,Entre 5 et 15 ans,52.39,Antérieure à 2018
+716,CY Cergy Paris,Économie,328,Deforge,Femme,Moins de 5 ans,36.0,Antérieure à 2018
+717,CY Cergy Paris,Économie,329,Eugene,Femme,Entre 5 et 15 ans,30.99,Au cours des années 2018 à 2020
+718,CY Cergy Paris,Économie,330,Robidoux,Femme,Plus de 15 ans,0,Jamais
+719,CY Cergy Paris,Économie,331,Lanouette,Femme,Entre 5 et 15 ans,36.62,Au cours des années 2018 à 2020
+720,CY Cergy Paris,Économie,332,Lux,Homme,Moins de 5 ans,48.3,Au cours de l'année 2020 à 2021
+721,CY Cergy Paris,Économie,333,Laprairie,Femme,Moins de 5 ans,39.05,Au cours de l'année 2020 à 2021
+722,CY Cergy Paris,Économie,334,Daigneault,Homme,Plus de 15 ans,40.87,Au cours de l'année 2020 à 2021
+723,CY Cergy Paris,Économie,335,Dorland,Homme,Entre 5 et 15 ans,50.57,Au cours des années 2018 à 2020
+724,CY Cergy Paris,Économie,336,Polley,Homme,Entre 5 et 15 ans,44.39,Au cours des années 2018 à 2020
+725,CY Cergy Paris,Économie,337,Petitjean,Femme,Entre 5 et 15 ans,38.77,Au cours de l'année 2020 à 2021
+726,CY Cergy Paris,Économie,338,Maret,Homme,Plus de 15 ans,0,Jamais
+727,CY Cergy Paris,Économie,339,Mousseau,Homme,Entre 5 et 15 ans,53.42,Au cours de l'année 2020 à 2021
+728,CY Cergy Paris,Économie,340,Deveaux,Homme,Moins de 5 ans,47.18,Au cours de l'année 2020 à 2021
+729,CY Cergy Paris,Économie,341,Brallier,Homme,Entre 5 et 15 ans,48.91,Au cours de l'année 2020 à 2021
+730,La Rochelle,Droit,1,Thibeau,Femme,Entre 5 et 15 ans,0,Jamais
+731,La Rochelle,Droit,2,Bourg,Femme,Plus de 15 ans,25.75,Antérieure à 2018
+732,La Rochelle,Droit,3,Vautrin,Femme,Plus de 15 ans,41.78,Au cours des années 2018 à 2020
+733,La Rochelle,Droit,4,Pelle,Homme,Plus de 15 ans,32.7,Au cours des années 2018 à 2020
+734,La Rochelle,Droit,5,Boulanger,Femme,Plus de 15 ans,0,Jamais
+735,La Rochelle,Droit,6,Devore,Homme,Moins de 5 ans,34.58,Au cours de l'année 2020 à 2021
+736,La Rochelle,Droit,7,Laverdure,Femme,Moins de 5 ans,38.8,Au cours de l'année 2020 à 2021
+737,La Rochelle,Droit,8,Motte,Homme,Entre 5 et 15 ans,25.29,Au cours des années 2018 à 2020
+738,La Rochelle,Droit,9,Dauterive,Homme,Entre 5 et 15 ans,26.94,Au cours des années 2018 à 2020
+739,La Rochelle,Droit,10,Aubert,Homme,Plus de 15 ans,27.77,Antérieure à 2018
+740,La Rochelle,Droit,11,Freson,Femme,Plus de 15 ans,0,Jamais
+741,La Rochelle,Droit,12,Debes,Femme,Moins de 5 ans,31.22,Au cours de l'année 2020 à 2021
+742,La Rochelle,Droit,13,Levant,Femme,Entre 5 et 15 ans,33.77,Au cours des années 2018 à 2020
+743,La Rochelle,Droit,14,Corbin,Femme,Plus de 15 ans,0,Jamais
+744,La Rochelle,Droit,15,Levell,Homme,Moins de 5 ans,34.04,Au cours de l'année 2020 à 2021
+745,La Rochelle,Droit,16,Laur,Homme,Entre 5 et 15 ans,28.22,Au cours des années 2018 à 2020
+746,La Rochelle,Droit,17,Lamere,Homme,Entre 5 et 15 ans,37.36,Au cours des années 2018 à 2020
+747,La Rochelle,Droit,18,Guillemette,Femme,Plus de 15 ans,0,Jamais
+748,La Rochelle,Droit,19,Aymond,Femme,Plus de 15 ans,0,Jamais
+749,La Rochelle,Droit,20,Lallier,Homme,Plus de 15 ans,29.17,Antérieure à 2018
+750,La Rochelle,Droit,21,Harmel,Femme,Plus de 15 ans,43.09,Antérieure à 2018
+751,La Rochelle,Droit,22,Servais,Femme,Entre 5 et 15 ans,27.88,Antérieure à 2018
+752,La Rochelle,Droit,23,Belair,Homme,Entre 5 et 15 ans,29.3,Au cours de l'année 2020 à 2021
+753,La Rochelle,Droit,24,Authement,Femme,Plus de 15 ans,0,Jamais
+754,La Rochelle,Droit,25,Caissie,Homme,Plus de 15 ans,40.54,Au cours des années 2018 à 2020
+755,La Rochelle,Droit,26,Bacha,Homme,Plus de 15 ans,40.81,Au cours des années 2018 à 2020
+756,La Rochelle,Droit,27,Hulette,Femme,Plus de 15 ans,0,Jamais
+757,La Rochelle,Droit,28,Gagnon,Femme,Plus de 15 ans,0,Jamais
+758,La Rochelle,Droit,29,Bandemer,Femme,Moins de 5 ans,32.86,Antérieure à 2018
+759,La Rochelle,Droit,30,Alice,Femme,Plus de 15 ans,41.81,Au cours des années 2018 à 2020
+760,La Rochelle,Droit,31,Autin,Homme,Moins de 5 ans,37.55,Au cours de l'année 2020 à 2021
+761,La Rochelle,Droit,32,Bain,Homme,Plus de 15 ans,27.04,Antérieure à 2018
+762,La Rochelle,Droit,33,Olive,Femme,Moins de 5 ans,28.75,Au cours de l'année 2020 à 2021
+763,La Rochelle,Droit,34,Brouillard,Non Spécifié,Plus de 15 ans,39.79,Au cours des années 2018 à 2020
+764,La Rochelle,Droit,35,Cormier,Homme,Plus de 15 ans,31.1,Au cours des années 2018 à 2020
+765,La Rochelle,Droit,36,Basile,Femme,Moins de 5 ans,44.3,Au cours des années 2018 à 2020
+766,La Rochelle,Droit,37,Bordeaux,Femme,Plus de 15 ans,41.38,Au cours des années 2018 à 2020
+767,La Rochelle,Droit,38,Quesnel,Homme,Moins de 5 ans,27.26,Au cours de l'année 2020 à 2021
+768,La Rochelle,Droit,39,Martsolf,Femme,Entre 5 et 15 ans,30.04,Au cours de l'année 2020 à 2021
+769,La Rochelle,Droit,40,Auge,Homme,Entre 5 et 15 ans,33.18,Au cours de l'année 2020 à 2021
+770,La Rochelle,Droit,41,Lesieur,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+771,La Rochelle,Droit,42,St. Hilaire,Homme,Moins de 5 ans,25.54,Antérieure à 2018
+772,La Rochelle,Droit,43,Lesage,Non Spécifié,Plus de 15 ans,26.92,Antérieure à 2018
+773,La Rochelle,Droit,44,Maillard,Femme,Moins de 5 ans,37.29,Au cours des années 2018 à 2020
+774,La Rochelle,Droit,45,Luc,Femme,Plus de 15 ans,36.21,Antérieure à 2018
+775,La Rochelle,Droit,46,Moranville,Homme,Plus de 15 ans,0,Jamais
+776,La Rochelle,Droit,47,Bourguignon,Homme,Entre 5 et 15 ans,31.36,Antérieure à 2018
+777,La Rochelle,Droit,48,Heber,Femme,Entre 5 et 15 ans,0,Jamais
+778,La Rochelle,Droit,49,Frere,Non Spécifié,Plus de 15 ans,46.2,Antérieure à 2018
+779,La Rochelle,Droit,50,Pellegrin,Homme,Entre 5 et 15 ans,25.78,Au cours de l'année 2020 à 2021
+780,La Rochelle,Droit,51,Mange,Homme,Moins de 5 ans,34.75,Antérieure à 2018
+781,La Rochelle,Droit,52,Deon,Non Spécifié,Moins de 5 ans,29.29,Au cours de l'année 2020 à 2021
+782,La Rochelle,Droit,53,Lafon,Femme,Entre 5 et 15 ans,40.75,Antérieure à 2018
+783,La Rochelle,Droit,54,Heroux,Femme,Entre 5 et 15 ans,0,Jamais
+784,La Rochelle,Droit,55,Hubel,Homme,Moins de 5 ans,35.79,Au cours des années 2018 à 2020
+785,La Rochelle,Droit,56,Meny,Homme,Entre 5 et 15 ans,35.74,Antérieure à 2018
+786,La Rochelle,Droit,57,Galant,Homme,Entre 5 et 15 ans,44.02,Antérieure à 2018
+787,La Rochelle,Droit,58,Credit,Femme,Moins de 5 ans,31.8,Antérieure à 2018
+788,La Rochelle,Droit,59,Bourque,Homme,Plus de 15 ans,39.14,Antérieure à 2018
+789,La Rochelle,Droit,60,Gervin,Homme,Plus de 15 ans,0,Jamais
+790,La Rochelle,Droit,61,Bernas,Homme,Entre 5 et 15 ans,26.86,Antérieure à 2018
+791,La Rochelle,Droit,62,Capistrant,Homme,Plus de 15 ans,0,Jamais
+792,La Rochelle,Droit,63,Deslandes,Femme,Moins de 5 ans,35.81,Au cours des années 2018 à 2020
+793,La Rochelle,Droit,64,Obier,Homme,Plus de 15 ans,28.69,Au cours des années 2018 à 2020
+794,La Rochelle,Histoire,65,Blouin,Homme,Moins de 5 ans,15.17,Antérieure à 2018
+795,La Rochelle,Histoire,66,Molaison,Femme,Moins de 5 ans,28.33,Au cours de l'année 2020 à 2021
+796,La Rochelle,Histoire,67,Marc,Non Spécifié,Plus de 15 ans,24.06,Antérieure à 2018
+797,La Rochelle,Histoire,68,Branche,Femme,Moins de 5 ans,22.19,Au cours de l'année 2020 à 2021
+798,La Rochelle,Histoire,69,Rodrigue,Femme,Moins de 5 ans,31.44,Au cours de l'année 2020 à 2021
+799,La Rochelle,Histoire,70,Bargeron,Homme,Moins de 5 ans,30.38,Au cours des années 2018 à 2020
+800,La Rochelle,Histoire,71,Pay,Femme,Moins de 5 ans,31.86,Au cours de l'année 2020 à 2021
+801,La Rochelle,Histoire,72,Grau,Homme,Moins de 5 ans,20.81,Antérieure à 2018
+802,La Rochelle,Histoire,73,Plantier,Femme,Plus de 15 ans,0,Jamais
+803,La Rochelle,Histoire,74,Dionne,Homme,Plus de 15 ans,0,Jamais
+804,La Rochelle,Histoire,75,Monin,Homme,Entre 5 et 15 ans,0,Jamais
+805,La Rochelle,Histoire,76,Mesnard,Femme,Moins de 5 ans,18.4,Au cours des années 2018 à 2020
+806,La Rochelle,Histoire,77,Graner,Femme,Moins de 5 ans,18.02,Au cours de l'année 2020 à 2021
+807,La Rochelle,Histoire,78,Clarin,Homme,Moins de 5 ans,34.25,Au cours de l'année 2020 à 2021
+808,La Rochelle,Histoire,79,Mace,Femme,Moins de 5 ans,15.11,Antérieure à 2018
+809,La Rochelle,Histoire,80,Sarazin,Non Spécifié,Moins de 5 ans,0,Jamais
+810,La Rochelle,Histoire,81,Choiniere,Femme,Plus de 15 ans,21.16,Antérieure à 2018
+811,La Rochelle,Histoire,82,Champagne,Femme,Entre 5 et 15 ans,20.61,Au cours de l'année 2020 à 2021
+812,La Rochelle,Histoire,83,Lovette,Femme,Entre 5 et 15 ans,26.39,Au cours des années 2018 à 2020
+813,La Rochelle,Histoire,84,Marcin,Femme,Entre 5 et 15 ans,30.91,Au cours des années 2018 à 2020
+814,La Rochelle,Histoire,85,Meservey,Homme,Plus de 15 ans,32.29,Antérieure à 2018
+815,La Rochelle,Histoire,86,Brossard,Femme,Plus de 15 ans,16.82,Antérieure à 2018
+816,La Rochelle,Histoire,87,Theriault,Homme,Entre 5 et 15 ans,0,Jamais
+817,La Rochelle,Histoire,88,Fruit,Homme,Entre 5 et 15 ans,0,Jamais
+818,La Rochelle,Histoire,89,Bonte,Homme,Entre 5 et 15 ans,28.21,Au cours des années 2018 à 2020
+819,La Rochelle,Histoire,90,Duplechin,Femme,Moins de 5 ans,27.22,Au cours des années 2018 à 2020
+820,La Rochelle,Histoire,91,Courtois,Homme,Entre 5 et 15 ans,15.93,Antérieure à 2018
+821,La Rochelle,Histoire,92,Maute,Homme,Moins de 5 ans,26.68,Au cours de l'année 2020 à 2021
+822,La Rochelle,Histoire,93,Manseau,Homme,Entre 5 et 15 ans,0,Jamais
+823,La Rochelle,Histoire,94,Lazare,Homme,Moins de 5 ans,0,Jamais
+824,La Rochelle,Histoire,95,St. Amour,Homme,Entre 5 et 15 ans,26.98,Au cours des années 2018 à 2020
+825,La Rochelle,Histoire,96,Talbert,Femme,Moins de 5 ans,34.62,Au cours des années 2018 à 2020
+826,La Rochelle,Histoire,97,Tavernier,Homme,Entre 5 et 15 ans,19.74,Au cours des années 2018 à 2020
+827,La Rochelle,Histoire,98,Valois,Femme,Entre 5 et 15 ans,34.87,Antérieure à 2018
+828,La Rochelle,Histoire,99,Deville,Homme,Plus de 15 ans,25.46,Antérieure à 2018
+829,La Rochelle,Histoire,100,Jasmine,Homme,Plus de 15 ans,32.1,Antérieure à 2018
+830,La Rochelle,Histoire,101,Rivest,Homme,Plus de 15 ans,33.88,Antérieure à 2018
+831,La Rochelle,Histoire,102,Gaumond,Femme,Moins de 5 ans,25.79,Au cours des années 2018 à 2020
+832,La Rochelle,Histoire,103,Sartin,Femme,Plus de 15 ans,0,Jamais
+833,La Rochelle,Histoire,104,Langlais,Homme,Plus de 15 ans,0,Jamais
+834,La Rochelle,Histoire,105,Auclair,Homme,Entre 5 et 15 ans,17.33,Au cours des années 2018 à 2020
+835,La Rochelle,Histoire,106,Rideau,Homme,Moins de 5 ans,31.97,Au cours de l'année 2020 à 2021
+836,La Rochelle,Histoire,107,Otter,Homme,Plus de 15 ans,24.62,Antérieure à 2018
+837,La Rochelle,Histoire,108,Faucheux,Homme,Plus de 15 ans,0,Jamais
+838,La Rochelle,Histoire,109,Agard,Homme,Plus de 15 ans,31.77,Au cours des années 2018 à 2020
+839,La Rochelle,Histoire,110,Brouse,Homme,Plus de 15 ans,15.95,Au cours des années 2018 à 2020
+840,La Rochelle,Histoire,111,Fremin,Femme,Moins de 5 ans,0,Jamais
+841,La Rochelle,Histoire,112,Picon,Homme,Entre 5 et 15 ans,21.97,Au cours de l'année 2020 à 2021
+842,La Rochelle,Histoire,113,Salles,Homme,Moins de 5 ans,30.66,Au cours de l'année 2020 à 2021
+843,La Rochelle,Histoire,114,Marcou,Femme,Moins de 5 ans,33.38,Au cours de l'année 2020 à 2021
+844,La Rochelle,Histoire,115,Laclaire,Femme,Plus de 15 ans,0,Jamais
+845,La Rochelle,Histoire,116,Bellavance,Femme,Plus de 15 ans,34.11,Antérieure à 2018
+846,La Rochelle,Histoire,117,Mathy,Femme,Entre 5 et 15 ans,33.19,Au cours des années 2018 à 2020
+847,La Rochelle,Histoire,118,St. Germain,Homme,Plus de 15 ans,30.7,Antérieure à 2018
+848,La Rochelle,Histoire,119,Mineau,Homme,Moins de 5 ans,25.05,Au cours des années 2018 à 2020
+849,La Rochelle,Histoire,120,Delcambre,Homme,Plus de 15 ans,29.49,Au cours des années 2018 à 2020
+850,La Rochelle,Histoire,121,Jadin,Homme,Moins de 5 ans,33.73,Antérieure à 2018
+851,La Rochelle,Histoire,122,Gilson,Femme,Plus de 15 ans,17.8,Antérieure à 2018
+852,La Rochelle,Mathématiques,123,Duchamp,Homme,Entre 5 et 15 ans,38.76,Au cours de l'année 2020 à 2021
+853,La Rochelle,Mathématiques,124,Bollier,Femme,Moins de 5 ans,35.61,Antérieure à 2018
+854,La Rochelle,Mathématiques,125,Valade,Femme,Moins de 5 ans,43.32,Antérieure à 2018
+855,La Rochelle,Mathématiques,126,Berne,Homme,Entre 5 et 15 ans,49.95,Antérieure à 2018
+856,La Rochelle,Mathématiques,127,Eric,Homme,Plus de 15 ans,50.49,Au cours de l'année 2020 à 2021
+857,La Rochelle,Mathématiques,128,Perret,Femme,Entre 5 et 15 ans,43.15,Antérieure à 2018
+858,La Rochelle,Mathématiques,129,Cessna,Homme,Moins de 5 ans,47.53,Au cours de l'année 2020 à 2021
+859,La Rochelle,Mathématiques,130,Clermont,Homme,Moins de 5 ans,37.51,Au cours des années 2018 à 2020
+860,La Rochelle,Mathématiques,131,France,Homme,Plus de 15 ans,0,Jamais
+861,La Rochelle,Mathématiques,132,Chavanne,Femme,Plus de 15 ans,45.55,Antérieure à 2018
+862,La Rochelle,Mathématiques,133,Autry,Non Spécifié,Entre 5 et 15 ans,47.36,Au cours des années 2018 à 2020
+863,La Rochelle,Mathématiques,134,Lance,Homme,Plus de 15 ans,37.94,Antérieure à 2018
+864,La Rochelle,Mathématiques,135,Moye,Homme,Moins de 5 ans,39.7,Au cours de l'année 2020 à 2021
+865,La Rochelle,Mathématiques,136,Lasure,Homme,Plus de 15 ans,47.13,Au cours de l'année 2020 à 2021
+866,La Rochelle,Mathématiques,137,Monsour,Homme,Moins de 5 ans,37.79,Au cours de l'année 2020 à 2021
+867,La Rochelle,Mathématiques,138,Gastineau,Homme,Plus de 15 ans,44.72,Antérieure à 2018
+868,La Rochelle,Mathématiques,139,Trempe,Homme,Entre 5 et 15 ans,35.96,Au cours de l'année 2020 à 2021
+869,La Rochelle,Mathématiques,140,Boysel,Femme,Plus de 15 ans,0,Jamais
+870,La Rochelle,Mathématiques,141,Regimbal,Femme,Moins de 5 ans,48.22,Au cours de l'année 2020 à 2021
+871,La Rochelle,Mathématiques,142,Morain,Femme,Plus de 15 ans,46.9,Au cours des années 2018 à 2020
+872,La Rochelle,Mathématiques,143,Gabe,Homme,Entre 5 et 15 ans,53.9,Au cours de l'année 2020 à 2021
+873,La Rochelle,Mathématiques,144,Sand,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+874,La Rochelle,Mathématiques,145,Chevallier,Femme,Moins de 5 ans,49.68,Au cours de l'année 2020 à 2021
+875,La Rochelle,Mathématiques,146,Lard,Femme,Plus de 15 ans,0,Jamais
+876,La Rochelle,Mathématiques,147,Bossart,Homme,Plus de 15 ans,47.28,Au cours des années 2018 à 2020
+877,La Rochelle,Mathématiques,148,Dion,Homme,Entre 5 et 15 ans,42.32,Au cours de l'année 2020 à 2021
+878,La Rochelle,Mathématiques,149,Senechal,Femme,Plus de 15 ans,0,Jamais
+879,La Rochelle,Mathématiques,150,Laprairie,Non Spécifié,Moins de 5 ans,51.9,Au cours de l'année 2020 à 2021
+880,La Rochelle,Mathématiques,151,Marois,Homme,Plus de 15 ans,38.27,Au cours de l'année 2020 à 2021
+881,La Rochelle,Mathématiques,152,Dauzat,Homme,Moins de 5 ans,50.59,Au cours des années 2018 à 2020
+882,La Rochelle,Mathématiques,153,Maranville,Femme,Entre 5 et 15 ans,47.41,Au cours des années 2018 à 2020
+883,La Rochelle,Mathématiques,154,Lanoue,Femme,Entre 5 et 15 ans,35.63,Au cours de l'année 2020 à 2021
+884,La Rochelle,Mathématiques,155,Debar,Homme,Plus de 15 ans,51.67,Au cours des années 2018 à 2020
+885,La Rochelle,Mathématiques,156,Cartier,Femme,Moins de 5 ans,41.33,Au cours de l'année 2020 à 2021
+886,La Rochelle,Mathématiques,157,Gadbois,Femme,Entre 5 et 15 ans,52.52,Au cours des années 2018 à 2020
+887,La Rochelle,Mathématiques,158,Certain,Femme,Moins de 5 ans,51.35,Au cours de l'année 2020 à 2021
+888,La Rochelle,Mathématiques,159,Babin,Femme,Plus de 15 ans,49.46,Antérieure à 2018
+889,La Rochelle,Mathématiques,160,Doyon,Homme,Entre 5 et 15 ans,51.11,Au cours des années 2018 à 2020
+890,La Rochelle,Mathématiques,161,Amedee,Homme,Plus de 15 ans,48.88,Antérieure à 2018
+891,La Rochelle,Mathématiques,162,Trepagnier,Femme,Moins de 5 ans,40.59,Au cours de l'année 2020 à 2021
+892,La Rochelle,Mathématiques,163,Favro,Femme,Moins de 5 ans,45.27,Au cours de l'année 2020 à 2021
+893,La Rochelle,Mathématiques,164,Cales,Femme,Moins de 5 ans,0,Jamais
+894,La Rochelle,Mathématiques,165,Orvin,Homme,Moins de 5 ans,47.9,Antérieure à 2018
+895,La Rochelle,Mathématiques,166,Halbert,Femme,Entre 5 et 15 ans,0,Jamais
+896,La Rochelle,Mathématiques,167,Goddu,Non Spécifié,Entre 5 et 15 ans,42.57,Au cours des années 2018 à 2020
+897,La Rochelle,Mathématiques,168,Rousselle,Femme,Moins de 5 ans,40.42,Au cours de l'année 2020 à 2021
+898,La Rochelle,Mathématiques,169,Harang,Femme,Entre 5 et 15 ans,35.24,Au cours de l'année 2020 à 2021
+899,La Rochelle,Mathématiques,170,Boutet,Homme,Plus de 15 ans,37.42,Antérieure à 2018
+900,La Rochelle,Mathématiques,171,Faile,Femme,Plus de 15 ans,0,Jamais
+901,La Rochelle,Mathématiques,172,Girardeau,Femme,Moins de 5 ans,53.44,Au cours de l'année 2020 à 2021
+902,La Rochelle,Mathématiques,173,Guite,Homme,Plus de 15 ans,52.5,Au cours des années 2018 à 2020
+903,La Rochelle,Mathématiques,174,Dubuisson,Homme,Plus de 15 ans,51.06,Antérieure à 2018
+904,La Rochelle,Mathématiques,175,Vigeant,Homme,Moins de 5 ans,35.42,Au cours de l'année 2020 à 2021
+905,La Rochelle,Mathématiques,176,Lacombe,Homme,Plus de 15 ans,48.89,Antérieure à 2018
+906,La Rochelle,Mathématiques,177,Bonnin,Femme,Entre 5 et 15 ans,36.99,Au cours des années 2018 à 2020
+907,La Rochelle,Mathématiques,178,Barrineau,Femme,Entre 5 et 15 ans,0,Jamais
+908,La Rochelle,Mathématiques,179,Dustin,Femme,Entre 5 et 15 ans,39.88,Antérieure à 2018
+909,La Rochelle,Mathématiques,180,Bardes,Femme,Moins de 5 ans,35.93,Antérieure à 2018
+910,La Rochelle,Mathématiques,181,Batton,Homme,Moins de 5 ans,41.69,Au cours de l'année 2020 à 2021
+911,La Rochelle,Mathématiques,182,Labruyere,Homme,Entre 5 et 15 ans,36.67,Au cours de l'année 2020 à 2021
+912,La Rochelle,Mathématiques,183,Lanouette,Femme,Moins de 5 ans,35.7,Au cours des années 2018 à 2020
+913,La Rochelle,Mathématiques,184,Toupin,Femme,Plus de 15 ans,0,Jamais
+914,La Rochelle,Mathématiques,185,Laguerre,Femme,Plus de 15 ans,36.01,Au cours des années 2018 à 2020
+915,La Rochelle,Mathématiques,186,Bisson,Homme,Entre 5 et 15 ans,41.77,Antérieure à 2018
+916,La Rochelle,Mathématiques,187,Gerdon,Homme,Plus de 15 ans,0,Jamais
+917,La Rochelle,Mathématiques,188,Crotteau,Femme,Plus de 15 ans,0,Jamais
+918,La Rochelle,Mathématiques,189,Guin,Femme,Entre 5 et 15 ans,41.87,Au cours des années 2018 à 2020
+919,La Rochelle,Mathématiques,190,Lataille,Femme,Entre 5 et 15 ans,39.29,Antérieure à 2018
+920,La Rochelle,Mathématiques,191,Lafontaine,Homme,Entre 5 et 15 ans,43.86,Au cours de l'année 2020 à 2021
+921,La Rochelle,Mathématiques,192,St. Ores,Femme,Plus de 15 ans,43.06,Antérieure à 2018
+922,La Rochelle,Mathématiques,193,Trenchard,Femme,Plus de 15 ans,0,Jamais
+923,La Rochelle,Mathématiques,194,Contee,Femme,Entre 5 et 15 ans,47.48,Au cours de l'année 2020 à 2021
+924,La Rochelle,Mathématiques,195,Pion,Homme,Moins de 5 ans,35.37,Au cours de l'année 2020 à 2021
+925,La Rochelle,Mathématiques,196,Loges,Femme,Plus de 15 ans,0,Jamais
+926,La Rochelle,Mathématiques,197,Mauger,Homme,Plus de 15 ans,45.98,Au cours des années 2018 à 2020
+927,La Rochelle,Mathématiques,198,Drago,Non Spécifié,Moins de 5 ans,47.15,Antérieure à 2018
+928,La Rochelle,Mathématiques,199,Ancelet,Femme,Entre 5 et 15 ans,54.72,Antérieure à 2018
+929,La Rochelle,Mathématiques,200,Longtin,Homme,Moins de 5 ans,40.28,Au cours de l'année 2020 à 2021
+930,La Rochelle,Mathématiques,201,Leuck,Homme,Plus de 15 ans,0,Jamais
+931,La Rochelle,Mathématiques,202,Merry,Homme,Moins de 5 ans,47.88,Au cours de l'année 2020 à 2021
+932,La Rochelle,Mathématiques,203,Moreton,Homme,Plus de 15 ans,51.64,Au cours des années 2018 à 2020
+933,La Rochelle,Mathématiques,204,Vital,Homme,Entre 5 et 15 ans,45.4,Au cours des années 2018 à 2020
+934,La Rochelle,Mathématiques,205,Auguste,Homme,Plus de 15 ans,44.77,Antérieure à 2018
+935,La Rochelle,Mathématiques,206,Ouimet,Homme,Moins de 5 ans,43.95,Au cours des années 2018 à 2020
+936,La Rochelle,Mathématiques,207,Charpentier,Homme,Entre 5 et 15 ans,49.42,Au cours des années 2018 à 2020
+937,La Rochelle,Informatique,208,Babel,Femme,Moins de 5 ans,38.0,Au cours de l'année 2020 à 2021
+938,La Rochelle,Informatique,209,Jaquette,Homme,Moins de 5 ans,62.94,Au cours des années 2018 à 2020
+939,La Rochelle,Informatique,210,Payseur,Homme,Moins de 5 ans,54.3,Au cours de l'année 2020 à 2021
+940,La Rochelle,Informatique,211,Bibeau,Homme,Plus de 15 ans,63.94,Au cours des années 2018 à 2020
+941,La Rochelle,Informatique,212,Gavin,Homme,Plus de 15 ans,40.72,Au cours des années 2018 à 2020
+942,La Rochelle,Informatique,213,Tourdot,Homme,Entre 5 et 15 ans,40.11,Antérieure à 2018
+943,La Rochelle,Informatique,214,Gaspar,Femme,Moins de 5 ans,46.85,Au cours de l'année 2020 à 2021
+944,La Rochelle,Informatique,215,Bastin,Femme,Moins de 5 ans,49.58,Antérieure à 2018
+945,La Rochelle,Informatique,216,Henrion,Femme,Entre 5 et 15 ans,42.57,Au cours des années 2018 à 2020
+946,La Rochelle,Informatique,217,Chenault,Femme,Moins de 5 ans,37.87,Au cours de l'année 2020 à 2021
+947,La Rochelle,Informatique,218,Frappier,Femme,Entre 5 et 15 ans,45.08,Au cours des années 2018 à 2020
+948,La Rochelle,Informatique,219,Hazel,Femme,Moins de 5 ans,0,Jamais
+949,La Rochelle,Informatique,220,Dulong,Homme,Moins de 5 ans,54.83,Au cours de l'année 2020 à 2021
+950,La Rochelle,Informatique,221,Deblois,Femme,Moins de 5 ans,38.25,Au cours de l'année 2020 à 2021
+951,La Rochelle,Informatique,222,Brault,Femme,Moins de 5 ans,41.75,Au cours de l'année 2020 à 2021
+952,La Rochelle,Informatique,223,Lariviere,Homme,Moins de 5 ans,48.0,Antérieure à 2018
+953,La Rochelle,Informatique,224,De George,Femme,Moins de 5 ans,44.42,Au cours de l'année 2020 à 2021
+954,La Rochelle,Informatique,225,Desir,Homme,Moins de 5 ans,61.32,Au cours de l'année 2020 à 2021
+955,La Rochelle,Informatique,226,Traver,Homme,Entre 5 et 15 ans,41.68,Au cours de l'année 2020 à 2021
+956,La Rochelle,Informatique,227,Hance,Femme,Entre 5 et 15 ans,46.56,Au cours des années 2018 à 2020
+957,La Rochelle,Informatique,228,Danger,Homme,Moins de 5 ans,64.3,Au cours des années 2018 à 2020
+958,La Rochelle,Informatique,229,Bady,Femme,Moins de 5 ans,37.45,Au cours de l'année 2020 à 2021
+959,La Rochelle,Informatique,230,Ballin,Homme,Moins de 5 ans,54.91,Au cours de l'année 2020 à 2021
+960,La Rochelle,Informatique,231,Gerou,Femme,Plus de 15 ans,0,Jamais
+961,La Rochelle,Informatique,232,Delorge,Homme,Moins de 5 ans,50.53,Au cours de l'année 2020 à 2021
+962,La Rochelle,Informatique,233,Blache,Femme,Moins de 5 ans,44.33,Au cours de l'année 2020 à 2021
+963,La Rochelle,Informatique,234,Celestin,Femme,Moins de 5 ans,48.58,Au cours des années 2018 à 2020
+964,La Rochelle,Informatique,235,Goy,Femme,Moins de 5 ans,49.1,Au cours des années 2018 à 2020
+965,La Rochelle,Informatique,236,Lozon,Femme,Moins de 5 ans,35.2,Au cours de l'année 2020 à 2021
+966,La Rochelle,Informatique,237,Chapin,Non Spécifié,Plus de 15 ans,51.07,Au cours de l'année 2020 à 2021
+967,La Rochelle,Informatique,238,Laut,Homme,Moins de 5 ans,42.73,Au cours des années 2018 à 2020
+968,La Rochelle,Informatique,239,Picot,Homme,Entre 5 et 15 ans,55.9,Antérieure à 2018
+969,La Rochelle,Informatique,240,Rossin,Homme,Moins de 5 ans,41.05,Au cours de l'année 2020 à 2021
+970,La Rochelle,Informatique,241,Laperriere,Non Spécifié,Entre 5 et 15 ans,49.3,Au cours de l'année 2020 à 2021
+971,La Rochelle,Informatique,242,Theil,Femme,Plus de 15 ans,43.05,Au cours des années 2018 à 2020
+972,La Rochelle,Informatique,243,Chiasson,Femme,Moins de 5 ans,35.83,Antérieure à 2018
+973,La Rochelle,Informatique,244,Drouin,Femme,Entre 5 et 15 ans,36.52,Antérieure à 2018
+974,La Rochelle,Informatique,245,Fugere,Homme,Moins de 5 ans,50.69,Au cours des années 2018 à 2020
+975,La Rochelle,Informatique,246,Marcelle,Homme,Moins de 5 ans,59.69,Au cours de l'année 2020 à 2021
+976,La Rochelle,Informatique,247,Giguere,Femme,Moins de 5 ans,40.21,Au cours des années 2018 à 2020
+977,La Rochelle,Informatique,248,Lauzon,Non Spécifié,Moins de 5 ans,44.23,Au cours de l'année 2020 à 2021
+978,La Rochelle,Informatique,249,Robe,Homme,Moins de 5 ans,55.54,Au cours des années 2018 à 2020
+979,La Rochelle,Informatique,250,Couvillion,Homme,Entre 5 et 15 ans,60.64,Antérieure à 2018
+980,La Rochelle,Informatique,251,St. Clair,Femme,Entre 5 et 15 ans,40.7,Antérieure à 2018
+981,La Rochelle,Informatique,252,Loth,Femme,Moins de 5 ans,46.5,Au cours de l'année 2020 à 2021
+982,La Rochelle,Informatique,253,Mole,Femme,Moins de 5 ans,45.33,Au cours des années 2018 à 2020
+983,La Rochelle,Informatique,254,Verdon,Homme,Entre 5 et 15 ans,54.13,Antérieure à 2018
+984,La Rochelle,Informatique,255,Cassin,Non Spécifié,Moins de 5 ans,46.83,Antérieure à 2018
+985,La Rochelle,Informatique,256,Aubuchon,Homme,Moins de 5 ans,51.94,Au cours des années 2018 à 2020
+986,La Rochelle,Informatique,257,Lesperance,Femme,Moins de 5 ans,36.12,Au cours de l'année 2020 à 2021
+987,La Rochelle,Informatique,258,Ury,Homme,Moins de 5 ans,47.8,Au cours des années 2018 à 2020
+988,La Rochelle,Informatique,259,Marcille,Femme,Plus de 15 ans,0,Jamais
+989,La Rochelle,Informatique,260,Chopin,Femme,Moins de 5 ans,47.41,Au cours de l'année 2020 à 2021
+990,La Rochelle,Informatique,261,Mathurin,Femme,Moins de 5 ans,47.8,Antérieure à 2018
+991,La Rochelle,Informatique,262,Champoux,Femme,Entre 5 et 15 ans,36.92,Au cours des années 2018 à 2020
+992,La Rochelle,Informatique,263,Dagenais,Femme,Entre 5 et 15 ans,43.69,Au cours de l'année 2020 à 2021
+993,La Rochelle,Informatique,264,Dumont,Femme,Moins de 5 ans,42.46,Au cours de l'année 2020 à 2021
+994,La Rochelle,Informatique,265,Labbee,Femme,Moins de 5 ans,42.52,Au cours de l'année 2020 à 2021
+995,La Rochelle,Informatique,266,Gauvin,Femme,Entre 5 et 15 ans,49.2,Antérieure à 2018
+996,La Rochelle,Informatique,267,Leon,Homme,Moins de 5 ans,59.76,Au cours de l'année 2020 à 2021
+997,La Rochelle,Informatique,268,Jubert,Homme,Entre 5 et 15 ans,58.36,Antérieure à 2018
+998,La Rochelle,Informatique,269,Valois,Femme,Entre 5 et 15 ans,49.49,Antérieure à 2018
+999,La Rochelle,Informatique,270,Buisson,Femme,Moins de 5 ans,45.53,Au cours de l'année 2020 à 2021
+1000,La Rochelle,Informatique,271,Perrott,Homme,Moins de 5 ans,51.15,Au cours de l'année 2020 à 2021
+1001,La Rochelle,Informatique,272,Omer,Femme,Moins de 5 ans,46.46,Au cours de l'année 2020 à 2021
+1002,La Rochelle,Informatique,273,Rivet,Non Spécifié,Moins de 5 ans,53.5,Au cours de l'année 2020 à 2021
+1003,La Rochelle,Informatique,274,Breon,Femme,Moins de 5 ans,47.41,Antérieure à 2018
+1004,La Rochelle,Informatique,275,Ge,Femme,Plus de 15 ans,35.32,Au cours des années 2018 à 2020
+1005,La Rochelle,Informatique,276,Rebel,Femme,Moins de 5 ans,36.58,Au cours des années 2018 à 2020
+1006,La Rochelle,Informatique,277,Bourret,Femme,Entre 5 et 15 ans,43.4,Au cours des années 2018 à 2020
+1007,La Rochelle,Informatique,278,Pellerin,Femme,Moins de 5 ans,47.93,Antérieure à 2018
+1008,La Rochelle,Économie,279,Trudel,Femme,Entre 5 et 15 ans,0,Jamais
+1009,La Rochelle,Économie,280,Campeau,Homme,Entre 5 et 15 ans,38.98,Au cours des années 2018 à 2020
+1010,La Rochelle,Économie,281,Canipe,Non Spécifié,Moins de 5 ans,25.22,Au cours de l'année 2020 à 2021
+1011,La Rochelle,Économie,282,Philemon,Homme,Entre 5 et 15 ans,37.71,Au cours de l'année 2020 à 2021
+1012,La Rochelle,Économie,283,Tebeau,Homme,Plus de 15 ans,0,Jamais
+1013,La Rochelle,Économie,284,Ruelle,Homme,Entre 5 et 15 ans,31.4,Antérieure à 2018
+1014,La Rochelle,Économie,285,Bosarge,Non Spécifié,Plus de 15 ans,29.33,Antérieure à 2018
+1015,La Rochelle,Économie,286,Banse,Homme,Entre 5 et 15 ans,0,Jamais
+1016,La Rochelle,Économie,287,Phaneuf,Femme,Plus de 15 ans,23.77,Au cours de l'année 2020 à 2021
+1017,La Rochelle,Économie,288,Gorin,Femme,Plus de 15 ans,0,Jamais
+1018,La Rochelle,Économie,289,Soulier,Homme,Entre 5 et 15 ans,21.31,Antérieure à 2018
+1019,La Rochelle,Économie,290,Faurot,Femme,Plus de 15 ans,0,Jamais
+1020,La Rochelle,Économie,291,Denier,Homme,Entre 5 et 15 ans,22.75,Au cours des années 2018 à 2020
+1021,La Rochelle,Économie,292,Perrott,Femme,Plus de 15 ans,27.49,Antérieure à 2018
+1022,La Rochelle,Économie,293,Lahaye,Non Spécifié,Moins de 5 ans,21.75,Au cours de l'année 2020 à 2021
+1023,La Rochelle,Économie,294,Tondreau,Femme,Moins de 5 ans,36.39,Au cours des années 2018 à 2020
+1024,La Rochelle,Économie,295,Bur,Femme,Entre 5 et 15 ans,39.6,Au cours de l'année 2020 à 2021
+1025,La Rochelle,Économie,296,Isadore,Non Spécifié,Entre 5 et 15 ans,38.35,Antérieure à 2018
+1026,La Rochelle,Économie,297,Lamothe,Homme,Entre 5 et 15 ans,26.88,Au cours de l'année 2020 à 2021
+1027,La Rochelle,Économie,298,Bercegeay,Homme,Moins de 5 ans,24.37,Au cours de l'année 2020 à 2021
+1028,La Rochelle,Économie,299,Chappuis,Homme,Entre 5 et 15 ans,36.46,Au cours de l'année 2020 à 2021
+1029,La Rochelle,Économie,300,Sabot,Homme,Moins de 5 ans,27.92,Au cours des années 2018 à 2020
+1030,La Rochelle,Économie,301,Croteau,Femme,Moins de 5 ans,21.57,Au cours de l'année 2020 à 2021
+1031,La Rochelle,Économie,302,Bossier,Femme,Entre 5 et 15 ans,29.41,Antérieure à 2018
+1032,La Rochelle,Économie,303,Thomassie,Femme,Entre 5 et 15 ans,27.26,Au cours de l'année 2020 à 2021
+1033,La Rochelle,Économie,304,Lubin,Non Spécifié,Entre 5 et 15 ans,25.17,Antérieure à 2018
+1034,La Rochelle,Économie,305,Leva,Homme,Entre 5 et 15 ans,36.23,Antérieure à 2018
+1035,La Rochelle,Économie,306,Espy,Femme,Entre 5 et 15 ans,21.86,Au cours de l'année 2020 à 2021
+1036,La Rochelle,Économie,307,Frigon,Femme,Entre 5 et 15 ans,38.1,Antérieure à 2018
+1037,La Rochelle,Économie,308,Leib,Femme,Entre 5 et 15 ans,28.7,Antérieure à 2018
+1038,La Rochelle,Économie,309,Carriveau,Femme,Entre 5 et 15 ans,25.6,Antérieure à 2018
+1039,La Rochelle,Économie,310,Chapel,Femme,Plus de 15 ans,0,Jamais
+1040,La Rochelle,Économie,311,Verrette,Femme,Plus de 15 ans,36.35,Au cours des années 2018 à 2020
+1041,La Rochelle,Économie,312,Gregorie,Homme,Entre 5 et 15 ans,34.76,Au cours des années 2018 à 2020
+1042,La Rochelle,Économie,313,Privott,Homme,Moins de 5 ans,26.8,Au cours de l'année 2020 à 2021
+1043,La Rochelle,Économie,314,Spoo,Femme,Entre 5 et 15 ans,31.55,Au cours des années 2018 à 2020
+1044,La Rochelle,Économie,315,Juillerat,Non Spécifié,Plus de 15 ans,26.96,Au cours de l'année 2020 à 2021
+1045,La Rochelle,Économie,316,Delahoussaye,Femme,Plus de 15 ans,22.72,Au cours des années 2018 à 2020
+1046,La Rochelle,Économie,317,Deneau,Homme,Plus de 15 ans,0,Jamais
+1047,La Rochelle,Économie,318,Maheu,Femme,Entre 5 et 15 ans,33.29,Au cours des années 2018 à 2020
+1048,La Rochelle,Économie,319,Moret,Non Spécifié,Moins de 5 ans,26.27,Au cours des années 2018 à 2020
+1049,La Rochelle,Économie,320,Brochu,Homme,Moins de 5 ans,25.34,Au cours de l'année 2020 à 2021
+1050,La Rochelle,Économie,321,Chancy,Non Spécifié,Plus de 15 ans,38.13,Au cours des années 2018 à 2020
+1051,La Rochelle,Économie,322,Prevatt,Femme,Entre 5 et 15 ans,36.54,Au cours des années 2018 à 2020
+1052,La Rochelle,Économie,323,Armand,Non Spécifié,Entre 5 et 15 ans,31.55,Au cours des années 2018 à 2020
+1053,La Rochelle,Économie,324,Rioux,Homme,Plus de 15 ans,33.4,Au cours de l'année 2020 à 2021
+1054,La Rochelle,Économie,325,Robideau,Femme,Moins de 5 ans,29.88,Au cours des années 2018 à 2020
+1055,La Rochelle,Économie,326,Hait,Femme,Entre 5 et 15 ans,39.77,Au cours de l'année 2020 à 2021
+1056,La Rochelle,Économie,327,Brasier,Non Spécifié,Entre 5 et 15 ans,37.07,Au cours de l'année 2020 à 2021
+1057,La Rochelle,Économie,328,Tarte,Non Spécifié,Plus de 15 ans,37.16,Au cours des années 2018 à 2020
+1058,La Rochelle,Économie,329,Marchand,Femme,Entre 5 et 15 ans,39.34,Au cours des années 2018 à 2020
+1059,La Rochelle,Économie,330,Laramie,Non Spécifié,Plus de 15 ans,0,Jamais
+1060,La Rochelle,Économie,331,Fillion,Femme,Moins de 5 ans,22.5,Au cours de l'année 2020 à 2021
+1061,La Rochelle,Économie,332,Braud,Homme,Entre 5 et 15 ans,27.62,Antérieure à 2018
+1062,La Rochelle,Économie,333,Tebeau,Homme,Entre 5 et 15 ans,0,Jamais
+1063,La Rochelle,Économie,334,Jasmine,Homme,Plus de 15 ans,27.31,Antérieure à 2018
+1064,La Rochelle,Économie,335,Daigneau,Homme,Moins de 5 ans,23.05,Au cours de l'année 2020 à 2021
+1065,La Rochelle,Économie,336,Deslatte,Non Spécifié,Plus de 15 ans,27.59,Antérieure à 2018
+1066,La Rochelle,Économie,337,Chevrette,Femme,Entre 5 et 15 ans,29.52,Au cours des années 2018 à 2020
+1067,La Rochelle,Économie,338,Etie,Femme,Entre 5 et 15 ans,38.75,Antérieure à 2018
+1068,La Rochelle,Économie,339,Lapage,Femme,Moins de 5 ans,33.68,Au cours de l'année 2020 à 2021
+1069,La Rochelle,Économie,340,Bady,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+1070,La Rochelle,Économie,341,Montigny,Non Spécifié,Moins de 5 ans,0,Jamais
+1071,La Rochelle,Économie,342,Lebleu,Homme,Moins de 5 ans,31.75,Antérieure à 2018
+1072,La Rochelle,Économie,343,Carmel,Femme,Moins de 5 ans,25.05,Au cours des années 2018 à 2020
+1073,La Rochelle,Économie,344,Modeste,Homme,Moins de 5 ans,25.92,Au cours de l'année 2020 à 2021
+1074,La Rochelle,Économie,345,Vernon,Non Spécifié,Moins de 5 ans,33.45,Au cours de l'année 2020 à 2021
+1075,La Rochelle,Économie,346,Bence,Femme,Entre 5 et 15 ans,28.02,Au cours des années 2018 à 2020
+1076,La Rochelle,Économie,347,Lamon,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+1077,La Rochelle,Économie,348,Fonder,Homme,Entre 5 et 15 ans,21.28,Au cours de l'année 2020 à 2021
+1078,La Rochelle,Économie,349,Eppinette,Homme,Plus de 15 ans,32.66,Au cours de l'année 2020 à 2021
+1079,Le Mans,Droit,1,Lhuillier,Femme,Entre 5 et 15 ans,32.94,Au cours de l'année 2020 à 2021
+1080,Le Mans,Droit,2,Vercher,Homme,Entre 5 et 15 ans,41.7,Au cours de l'année 2020 à 2021
+1081,Le Mans,Droit,3,Levert,Homme,Entre 5 et 15 ans,43.56,Au cours de l'année 2020 à 2021
+1082,Le Mans,Droit,4,Bast,Homme,Plus de 15 ans,0,Jamais
+1083,Le Mans,Droit,5,Antaya,Homme,Moins de 5 ans,0,Jamais
+1084,Le Mans,Droit,6,Chartrand,Homme,Plus de 15 ans,31.78,Au cours de l'année 2020 à 2021
+1085,Le Mans,Droit,7,Tolbert,Homme,Plus de 15 ans,0,Jamais
+1086,Le Mans,Droit,8,Brussel,Homme,Moins de 5 ans,44.05,Au cours de l'année 2020 à 2021
+1087,Le Mans,Droit,9,Mace,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+1088,Le Mans,Droit,10,Callais,Femme,Moins de 5 ans,33.14,Au cours des années 2018 à 2020
+1089,Le Mans,Droit,11,Pruet,Homme,Entre 5 et 15 ans,39.71,Au cours des années 2018 à 2020
+1090,Le Mans,Droit,12,Laprairie,Homme,Entre 5 et 15 ans,46.27,Au cours des années 2018 à 2020
+1091,Le Mans,Droit,13,Boisse,Femme,Plus de 15 ans,0,Jamais
+1092,Le Mans,Droit,14,Debs,Femme,Entre 5 et 15 ans,34.91,Au cours des années 2018 à 2020
+1093,Le Mans,Droit,15,Gruel,Non Spécifié,Entre 5 et 15 ans,35.7,Au cours des années 2018 à 2020
+1094,Le Mans,Droit,16,Dilly,Homme,Entre 5 et 15 ans,45.38,Antérieure à 2018
+1095,Le Mans,Droit,17,Mestayer,Homme,Moins de 5 ans,46.34,Au cours de l'année 2020 à 2021
+1096,Le Mans,Droit,18,Guichard,Femme,Plus de 15 ans,0,Jamais
+1097,Le Mans,Droit,19,Thirion,Homme,Plus de 15 ans,34.29,Antérieure à 2018
+1098,Le Mans,Droit,20,Martine,Homme,Moins de 5 ans,31.32,Au cours des années 2018 à 2020
+1099,Le Mans,Droit,21,Billey,Homme,Entre 5 et 15 ans,42.14,Au cours des années 2018 à 2020
+1100,Le Mans,Droit,22,Lenard,Femme,Moins de 5 ans,37.58,Au cours des années 2018 à 2020
+1101,Le Mans,Droit,23,Dumaine,Homme,Plus de 15 ans,33.31,Antérieure à 2018
+1102,Le Mans,Droit,24,Loisel,Homme,Moins de 5 ans,25.65,Au cours de l'année 2020 à 2021
+1103,Le Mans,Droit,25,Lamy,Homme,Plus de 15 ans,26.2,Antérieure à 2018
+1104,Le Mans,Droit,26,Neve,Femme,Entre 5 et 15 ans,35.76,Au cours de l'année 2020 à 2021
+1105,Le Mans,Droit,27,Nay,Non Spécifié,Moins de 5 ans,36.28,Au cours de l'année 2020 à 2021
+1106,Le Mans,Droit,28,Mollet,Non Spécifié,Plus de 15 ans,32.98,Au cours des années 2018 à 2020
+1107,Le Mans,Droit,29,Sandoz,Femme,Moins de 5 ans,42.7,Au cours de l'année 2020 à 2021
+1108,Le Mans,Droit,30,Lancto,Homme,Plus de 15 ans,40.61,Au cours des années 2018 à 2020
+1109,Le Mans,Droit,31,Rembert,Homme,Plus de 15 ans,0,Jamais
+1110,Le Mans,Droit,32,Gustave,Homme,Moins de 5 ans,43.38,Au cours de l'année 2020 à 2021
+1111,Le Mans,Droit,33,Denise,Homme,Entre 5 et 15 ans,43.53,Au cours de l'année 2020 à 2021
+1112,Le Mans,Droit,34,Prevot,Homme,Plus de 15 ans,34.9,Antérieure à 2018
+1113,Le Mans,Droit,35,Collette,Femme,Moins de 5 ans,37.04,Au cours de l'année 2020 à 2021
+1114,Le Mans,Droit,36,Croissant,Non Spécifié,Moins de 5 ans,49.17,Antérieure à 2018
+1115,Le Mans,Droit,37,Berrien,Homme,Moins de 5 ans,31.57,Au cours de l'année 2020 à 2021
+1116,Le Mans,Droit,38,Bose,Femme,Plus de 15 ans,30.51,Au cours des années 2018 à 2020
+1117,Le Mans,Droit,39,Dorval,Homme,Entre 5 et 15 ans,42.2,Au cours des années 2018 à 2020
+1118,Le Mans,Droit,40,Bizier,Femme,Plus de 15 ans,43.75,Au cours des années 2018 à 2020
+1119,Le Mans,Droit,41,Granat,Femme,Entre 5 et 15 ans,44.85,Au cours de l'année 2020 à 2021
+1120,Le Mans,Droit,42,Calle,Homme,Plus de 15 ans,43.82,Au cours des années 2018 à 2020
+1121,Le Mans,Droit,43,Chopin,Femme,Plus de 15 ans,0,Jamais
+1122,Le Mans,Droit,44,Sylvain,Homme,Moins de 5 ans,44.88,Au cours des années 2018 à 2020
+1123,Le Mans,Droit,45,Cotta,Homme,Entre 5 et 15 ans,36.34,Au cours des années 2018 à 2020
+1124,Le Mans,Droit,46,Housel,Homme,Moins de 5 ans,47.34,Antérieure à 2018
+1125,Le Mans,Droit,47,Brust,Homme,Moins de 5 ans,42.17,Au cours de l'année 2020 à 2021
+1126,Le Mans,Droit,48,Demore,Non Spécifié,Plus de 15 ans,0,Jamais
+1127,Le Mans,Droit,49,Range,Femme,Moins de 5 ans,40.03,Antérieure à 2018
+1128,Le Mans,Droit,50,Glasson,Homme,Entre 5 et 15 ans,31.01,Au cours des années 2018 à 2020
+1129,Le Mans,Droit,51,Doyen,Femme,Plus de 15 ans,43.87,Antérieure à 2018
+1130,Le Mans,Droit,52,Dorin,Homme,Entre 5 et 15 ans,0,Jamais
+1131,Le Mans,Droit,53,Laurain,Homme,Moins de 5 ans,41.83,Antérieure à 2018
+1132,Le Mans,Droit,54,Nolton,Homme,Plus de 15 ans,44.34,Antérieure à 2018
+1133,Le Mans,Droit,55,Bour,Non Spécifié,Plus de 15 ans,0,Jamais
+1134,Le Mans,Droit,56,Loranger,Non Spécifié,Moins de 5 ans,35.95,Au cours des années 2018 à 2020
+1135,Le Mans,Droit,57,Reville,Femme,Plus de 15 ans,42.33,Au cours des années 2018 à 2020
+1136,Le Mans,Droit,58,Corbin,Homme,Moins de 5 ans,0,Jamais
+1137,Le Mans,Droit,59,Strong,Homme,Plus de 15 ans,30.52,Antérieure à 2018
+1138,Le Mans,Droit,60,St. George,Homme,Entre 5 et 15 ans,40.02,Au cours de l'année 2020 à 2021
+1139,Le Mans,Droit,61,Ramey,Femme,Moins de 5 ans,32.3,Au cours de l'année 2020 à 2021
+1140,Le Mans,Droit,62,Forcier,Homme,Plus de 15 ans,41.38,Antérieure à 2018
+1141,Le Mans,Droit,63,Legere,Homme,Entre 5 et 15 ans,44.44,Au cours des années 2018 à 2020
+1142,Le Mans,Droit,64,Simeon,Homme,Plus de 15 ans,26.02,Au cours des années 2018 à 2020
+1143,Le Mans,Droit,65,Trudel,Homme,Plus de 15 ans,0,Jamais
+1144,Le Mans,Histoire,66,Mule,Homme,Moins de 5 ans,25.94,Antérieure à 2018
+1145,Le Mans,Histoire,67,Lemay,Femme,Moins de 5 ans,15.92,Au cours des années 2018 à 2020
+1146,Le Mans,Histoire,68,Neuville,Femme,Plus de 15 ans,26.67,Antérieure à 2018
+1147,Le Mans,Histoire,69,Hamel,Femme,Plus de 15 ans,0,Jamais
+1148,Le Mans,Histoire,70,Rives,Homme,Plus de 15 ans,0,Jamais
+1149,Le Mans,Histoire,71,Trembly,Homme,Plus de 15 ans,23.88,Antérieure à 2018
+1150,Le Mans,Histoire,72,Brief,Homme,Plus de 15 ans,20.51,Au cours de l'année 2020 à 2021
+1151,Le Mans,Histoire,73,Serpe,Homme,Entre 5 et 15 ans,23.81,Au cours des années 2018 à 2020
+1152,Le Mans,Histoire,74,Meyette,Homme,Plus de 15 ans,15.96,Antérieure à 2018
+1153,Le Mans,Histoire,75,Mion,Homme,Moins de 5 ans,29.33,Au cours de l'année 2020 à 2021
+1154,Le Mans,Histoire,76,Eymard,Homme,Plus de 15 ans,23.29,Antérieure à 2018
+1155,Le Mans,Histoire,77,Beau,Homme,Entre 5 et 15 ans,0,Jamais
+1156,Le Mans,Histoire,78,Cherrier,Homme,Plus de 15 ans,27.79,Au cours de l'année 2020 à 2021
+1157,Le Mans,Histoire,79,Spoo,Homme,Plus de 15 ans,21.67,Antérieure à 2018
+1158,Le Mans,Histoire,80,Frenier,Homme,Moins de 5 ans,23.79,Au cours de l'année 2020 à 2021
+1159,Le Mans,Histoire,81,Bourgeois,Homme,Plus de 15 ans,0,Jamais
+1160,Le Mans,Histoire,82,Levan,Homme,Entre 5 et 15 ans,17.27,Au cours des années 2018 à 2020
+1161,Le Mans,Histoire,83,Marceau,Homme,Moins de 5 ans,22.78,Au cours des années 2018 à 2020
+1162,Le Mans,Histoire,84,Huron,Homme,Plus de 15 ans,22.77,Au cours de l'année 2020 à 2021
+1163,Le Mans,Histoire,85,Baute,Homme,Moins de 5 ans,27.56,Au cours de l'année 2020 à 2021
+1164,Le Mans,Histoire,86,Villere,Homme,Plus de 15 ans,28.02,Antérieure à 2018
+1165,Le Mans,Histoire,87,Dine,Homme,Moins de 5 ans,21.18,Au cours de l'année 2020 à 2021
+1166,Le Mans,Histoire,88,Grandin,Homme,Plus de 15 ans,25.85,Au cours de l'année 2020 à 2021
+1167,Le Mans,Histoire,89,Leneave,Homme,Entre 5 et 15 ans,29.16,Antérieure à 2018
+1168,Le Mans,Histoire,90,Hoger,Homme,Moins de 5 ans,27.16,Au cours des années 2018 à 2020
+1169,Le Mans,Histoire,91,Charleville,Homme,Entre 5 et 15 ans,19.32,Au cours des années 2018 à 2020
+1170,Le Mans,Histoire,92,Gault,Homme,Entre 5 et 15 ans,20.15,Antérieure à 2018
+1171,Le Mans,Histoire,93,Hasbrouck,Femme,Plus de 15 ans,32.63,Au cours des années 2018 à 2020
+1172,Le Mans,Histoire,94,Gery,Homme,Entre 5 et 15 ans,17.54,Au cours des années 2018 à 2020
+1173,Le Mans,Histoire,95,Duquette,Femme,Moins de 5 ans,32.88,Au cours de l'année 2020 à 2021
+1174,Le Mans,Histoire,96,Champigny,Homme,Entre 5 et 15 ans,20.15,Au cours des années 2018 à 2020
+1175,Le Mans,Histoire,97,Blanchard,Homme,Plus de 15 ans,19.49,Antérieure à 2018
+1176,Le Mans,Histoire,98,Demarr,Femme,Plus de 15 ans,0,Jamais
+1177,Le Mans,Histoire,99,Graveline,Homme,Entre 5 et 15 ans,0,Jamais
+1178,Le Mans,Histoire,100,Tustin,Homme,Plus de 15 ans,20.31,Au cours de l'année 2020 à 2021
+1179,Le Mans,Histoire,101,Courcy,Homme,Plus de 15 ans,0,Jamais
+1180,Le Mans,Histoire,102,Allaire,Femme,Plus de 15 ans,33.55,Au cours de l'année 2020 à 2021
+1181,Le Mans,Histoire,103,Bourque,Homme,Moins de 5 ans,27.25,Antérieure à 2018
+1182,Le Mans,Histoire,104,Lenoir,Homme,Plus de 15 ans,15.09,Antérieure à 2018
+1183,Le Mans,Histoire,105,Bertran,Homme,Plus de 15 ans,26.02,Antérieure à 2018
+1184,Le Mans,Histoire,106,Marier,Homme,Plus de 15 ans,19.59,Antérieure à 2018
+1185,Le Mans,Histoire,107,Dumond,Homme,Plus de 15 ans,0,Jamais
+1186,Le Mans,Histoire,108,Grue,Femme,Plus de 15 ans,20.73,Antérieure à 2018
+1187,Le Mans,Histoire,109,Degrand,Homme,Entre 5 et 15 ans,28.09,Au cours de l'année 2020 à 2021
+1188,Le Mans,Histoire,110,Cappon,Homme,Plus de 15 ans,0,Jamais
+1189,Le Mans,Histoire,111,Duray,Femme,Plus de 15 ans,23.05,Antérieure à 2018
+1190,Le Mans,Histoire,112,Maggi,Femme,Moins de 5 ans,30.15,Au cours de l'année 2020 à 2021
+1191,Le Mans,Histoire,113,Brossette,Homme,Plus de 15 ans,27.83,Antérieure à 2018
+1192,Le Mans,Histoire,114,Coste,Non Spécifié,Moins de 5 ans,20.37,Antérieure à 2018
+1193,Le Mans,Histoire,115,Lamontagne,Femme,Moins de 5 ans,27.22,Au cours des années 2018 à 2020
+1194,Le Mans,Histoire,116,Lausier,Non Spécifié,Plus de 15 ans,0,Jamais
+1195,Le Mans,Histoire,117,Deyo,Homme,Plus de 15 ans,28.97,Au cours des années 2018 à 2020
+1196,Le Mans,Histoire,118,Massar,Homme,Plus de 15 ans,24.66,Antérieure à 2018
+1197,Le Mans,Histoire,119,Perrault,Homme,Entre 5 et 15 ans,25.18,Au cours de l'année 2020 à 2021
+1198,Le Mans,Histoire,120,Hait,Femme,Plus de 15 ans,0,Jamais
+1199,Le Mans,Histoire,121,Lagrave,Homme,Plus de 15 ans,24.35,Au cours de l'année 2020 à 2021
+1200,Le Mans,Histoire,122,Lagarde,Femme,Entre 5 et 15 ans,29.3,Au cours des années 2018 à 2020
+1201,Le Mans,Histoire,123,Bonus,Homme,Plus de 15 ans,22.44,Au cours des années 2018 à 2020
+1202,Le Mans,Histoire,124,Paulhus,Femme,Entre 5 et 15 ans,27.58,Au cours des années 2018 à 2020
+1203,Le Mans,Histoire,125,Nicole,Homme,Plus de 15 ans,20.34,Au cours des années 2018 à 2020
+1204,Le Mans,Histoire,126,Vibert,Femme,Entre 5 et 15 ans,29.09,Au cours des années 2018 à 2020
+1205,Le Mans,Histoire,127,Venier,Homme,Plus de 15 ans,15.16,Au cours des années 2018 à 2020
+1206,Le Mans,Histoire,128,Blaise,Homme,Plus de 15 ans,0,Jamais
+1207,Le Mans,Histoire,129,Boiter,Homme,Entre 5 et 15 ans,16.47,Au cours des années 2018 à 2020
+1208,Le Mans,Histoire,130,Degan,Homme,Plus de 15 ans,16.1,Antérieure à 2018
+1209,Le Mans,Histoire,131,Gedeon,Femme,Moins de 5 ans,28.3,Au cours des années 2018 à 2020
+1210,Le Mans,Histoire,132,Lague,Homme,Plus de 15 ans,17.15,Au cours des années 2018 à 2020
+1211,Le Mans,Histoire,133,Moris,Femme,Plus de 15 ans,0,Jamais
+1212,Le Mans,Histoire,134,Ory,Homme,Plus de 15 ans,16.24,Au cours de l'année 2020 à 2021
+1213,Le Mans,Histoire,135,Lebert,Homme,Entre 5 et 15 ans,15.97,Antérieure à 2018
+1214,Le Mans,Histoire,136,Belaire,Femme,Entre 5 et 15 ans,31.91,Au cours des années 2018 à 2020
+1215,Le Mans,Histoire,137,Bellard,Homme,Entre 5 et 15 ans,25.83,Au cours des années 2018 à 2020
+1216,Le Mans,Histoire,138,Bourdage,Homme,Plus de 15 ans,23.44,Antérieure à 2018
+1217,Le Mans,Histoire,139,Route,Non Spécifié,Plus de 15 ans,0,Jamais
+1218,Le Mans,Histoire,140,Dubie,Homme,Plus de 15 ans,16.9,Au cours de l'année 2020 à 2021
+1219,Le Mans,Histoire,141,Surgeon,Homme,Entre 5 et 15 ans,24.09,Au cours des années 2018 à 2020
+1220,Le Mans,Histoire,142,Babineaux,Homme,Plus de 15 ans,16.94,Au cours des années 2018 à 2020
+1221,Le Mans,Histoire,143,Aubuchon,Femme,Plus de 15 ans,0,Jamais
+1222,Le Mans,Histoire,144,Chiasson,Homme,Plus de 15 ans,0,Jamais
+1223,Le Mans,Histoire,145,Maret,Homme,Moins de 5 ans,25.61,Au cours de l'année 2020 à 2021
+1224,Le Mans,Histoire,146,Labit,Homme,Plus de 15 ans,0,Jamais
+1225,Le Mans,Histoire,147,Grandchamp,Femme,Entre 5 et 15 ans,23.29,Au cours de l'année 2020 à 2021
+1226,Le Mans,Histoire,148,Garis,Homme,Plus de 15 ans,17.43,Antérieure à 2018
+1227,Le Mans,Histoire,149,Payseur,Homme,Plus de 15 ans,18.11,Antérieure à 2018
+1228,Le Mans,Histoire,150,Obie,Homme,Entre 5 et 15 ans,24.87,Au cours de l'année 2020 à 2021
+1229,Le Mans,Histoire,151,Lepine,Femme,Entre 5 et 15 ans,30.8,Au cours des années 2018 à 2020
+1230,Le Mans,Histoire,152,Tron,Homme,Entre 5 et 15 ans,20.87,Au cours des années 2018 à 2020
+1231,Le Mans,Histoire,153,Kay,Femme,Plus de 15 ans,0,Jamais
+1232,Le Mans,Histoire,154,Alleman,Femme,Plus de 15 ans,32.61,Antérieure à 2018
+1233,Le Mans,Histoire,155,Marre,Femme,Plus de 15 ans,0,Jamais
+1234,Le Mans,Histoire,156,St. Amour,Homme,Entre 5 et 15 ans,0,Jamais
+1235,Le Mans,Histoire,157,Gourneau,Homme,Entre 5 et 15 ans,21.43,Au cours de l'année 2020 à 2021
+1236,Le Mans,Histoire,158,Vertefeuille,Homme,Entre 5 et 15 ans,18.05,Au cours des années 2018 à 2020
+1237,Le Mans,Histoire,159,De Leon,Homme,Entre 5 et 15 ans,19.73,Antérieure à 2018
+1238,Le Mans,Histoire,160,Bram,Femme,Plus de 15 ans,27.01,Au cours des années 2018 à 2020
+1239,Le Mans,Mathématiques,161,Detemple,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+1240,Le Mans,Mathématiques,162,Hotard,Homme,Plus de 15 ans,39.44,Antérieure à 2018
+1241,Le Mans,Mathématiques,163,Dugo,Homme,Entre 5 et 15 ans,39.24,Au cours de l'année 2020 à 2021
+1242,Le Mans,Mathématiques,164,Verville,Non Spécifié,Entre 5 et 15 ans,48.94,Au cours des années 2018 à 2020
+1243,Le Mans,Mathématiques,165,Flammang,Homme,Moins de 5 ans,44.08,Au cours de l'année 2020 à 2021
+1244,Le Mans,Mathématiques,166,Monnier,Non Spécifié,Entre 5 et 15 ans,40.43,Antérieure à 2018
+1245,Le Mans,Mathématiques,167,Mathie,Homme,Entre 5 et 15 ans,49.75,Antérieure à 2018
+1246,Le Mans,Mathématiques,168,Demain,Femme,Entre 5 et 15 ans,0,Jamais
+1247,Le Mans,Mathématiques,169,Detienne,Homme,Moins de 5 ans,35.61,Au cours de l'année 2020 à 2021
+1248,Le Mans,Mathématiques,170,Faucheux,Femme,Moins de 5 ans,35.78,Au cours de l'année 2020 à 2021
+1249,Le Mans,Mathématiques,171,Cherubin,Homme,Entre 5 et 15 ans,49.3,Au cours de l'année 2020 à 2021
+1250,Le Mans,Mathématiques,172,Brassard,Homme,Moins de 5 ans,46.41,Au cours des années 2018 à 2020
+1251,Le Mans,Mathématiques,173,Deger,Femme,Entre 5 et 15 ans,48.78,Au cours des années 2018 à 2020
+1252,Le Mans,Mathématiques,174,Toutant,Femme,Plus de 15 ans,36.27,Au cours des années 2018 à 2020
+1253,Le Mans,Mathématiques,175,Eury,Homme,Plus de 15 ans,44.52,Au cours de l'année 2020 à 2021
+1254,Le Mans,Mathématiques,176,Robinett,Femme,Entre 5 et 15 ans,35.98,Au cours des années 2018 à 2020
+1255,Le Mans,Mathématiques,177,Gasque,Homme,Plus de 15 ans,0,Jamais
+1256,Le Mans,Mathématiques,178,Dumais,Femme,Plus de 15 ans,40.08,Au cours des années 2018 à 2020
+1257,Le Mans,Mathématiques,179,Laverne,Homme,Plus de 15 ans,0,Jamais
+1258,Le Mans,Mathématiques,180,Aubin,Femme,Entre 5 et 15 ans,47.51,Antérieure à 2018
+1259,Le Mans,Mathématiques,181,Beausoleil,Homme,Moins de 5 ans,47.15,Au cours de l'année 2020 à 2021
+1260,Le Mans,Mathématiques,182,Beaudoin,Homme,Moins de 5 ans,42.99,Au cours des années 2018 à 2020
+1261,Le Mans,Mathématiques,183,Conte,Femme,Entre 5 et 15 ans,38.32,Antérieure à 2018
+1262,Le Mans,Mathématiques,184,Michel,Homme,Plus de 15 ans,41.48,Au cours des années 2018 à 2020
+1263,Le Mans,Mathématiques,185,Mare,Femme,Entre 5 et 15 ans,51.77,Au cours des années 2018 à 2020
+1264,Le Mans,Mathématiques,186,Demoranville,Non Spécifié,Moins de 5 ans,0,Jamais
+1265,Le Mans,Mathématiques,187,Angers,Homme,Moins de 5 ans,36.47,Au cours des années 2018 à 2020
+1266,Le Mans,Mathématiques,188,Veron,Homme,Entre 5 et 15 ans,44.83,Au cours des années 2018 à 2020
+1267,Le Mans,Mathématiques,189,Brunot,Homme,Plus de 15 ans,45.06,Au cours des années 2018 à 2020
+1268,Le Mans,Mathématiques,190,Belan,Homme,Moins de 5 ans,45.06,Au cours de l'année 2020 à 2021
+1269,Le Mans,Mathématiques,191,Brassel,Homme,Plus de 15 ans,0,Jamais
+1270,Le Mans,Mathématiques,192,Hetu,Femme,Entre 5 et 15 ans,39.87,Au cours de l'année 2020 à 2021
+1271,Le Mans,Mathématiques,193,Gibert,Homme,Moins de 5 ans,37.09,Au cours des années 2018 à 2020
+1272,Le Mans,Mathématiques,194,Picard,Femme,Moins de 5 ans,48.53,Au cours de l'année 2020 à 2021
+1273,Le Mans,Mathématiques,195,Lanier,Femme,Entre 5 et 15 ans,35.4,Antérieure à 2018
+1274,Le Mans,Mathématiques,196,Andrepont,Femme,Moins de 5 ans,47.6,Au cours de l'année 2020 à 2021
+1275,Le Mans,Mathématiques,197,Carrie,Homme,Moins de 5 ans,49.48,Au cours des années 2018 à 2020
+1276,Le Mans,Mathématiques,198,Eugene,Homme,Entre 5 et 15 ans,46.41,Au cours des années 2018 à 2020
+1277,Le Mans,Mathématiques,199,Tissot,Homme,Plus de 15 ans,37.56,Au cours des années 2018 à 2020
+1278,Le Mans,Mathématiques,200,Michaud,Homme,Moins de 5 ans,42.62,Au cours de l'année 2020 à 2021
+1279,Le Mans,Mathématiques,201,Gorin,Homme,Moins de 5 ans,36.17,Au cours des années 2018 à 2020
+1280,Le Mans,Mathématiques,202,Chaudoir,Homme,Plus de 15 ans,40.97,Antérieure à 2018
+1281,Le Mans,Mathématiques,203,Debus,Femme,Entre 5 et 15 ans,46.51,Au cours des années 2018 à 2020
+1282,Le Mans,Mathématiques,204,Blan,Non Spécifié,Entre 5 et 15 ans,54.49,Au cours de l'année 2020 à 2021
+1283,Le Mans,Mathématiques,205,Collet,Femme,Entre 5 et 15 ans,53.13,Au cours des années 2018 à 2020
+1284,Le Mans,Mathématiques,206,Pelletier,Femme,Moins de 5 ans,0,Jamais
+1285,Le Mans,Mathématiques,207,Dautel,Femme,Moins de 5 ans,48.83,Au cours de l'année 2020 à 2021
+1286,Le Mans,Mathématiques,208,Coulon,Homme,Plus de 15 ans,36.58,Antérieure à 2018
+1287,Le Mans,Mathématiques,209,Nau,Homme,Moins de 5 ans,49.23,Au cours des années 2018 à 2020
+1288,Le Mans,Mathématiques,210,Dechant,Femme,Entre 5 et 15 ans,39.06,Au cours des années 2018 à 2020
+1289,Le Mans,Mathématiques,211,Andrepont,Femme,Plus de 15 ans,40.83,Au cours des années 2018 à 2020
+1290,Le Mans,Mathématiques,212,Laflamme,Femme,Plus de 15 ans,0,Jamais
+1291,Le Mans,Mathématiques,213,Daspit,Homme,Moins de 5 ans,44.2,Antérieure à 2018
+1292,Le Mans,Mathématiques,214,Parfait,Homme,Entre 5 et 15 ans,41.01,Au cours de l'année 2020 à 2021
+1293,Le Mans,Mathématiques,215,Gibert,Femme,Moins de 5 ans,51.67,Antérieure à 2018
+1294,Le Mans,Mathématiques,216,Graveline,Femme,Entre 5 et 15 ans,45.73,Au cours de l'année 2020 à 2021
+1295,Le Mans,Informatique,217,Balay,Homme,Moins de 5 ans,40.2,Au cours des années 2018 à 2020
+1296,Le Mans,Informatique,218,Magnon,Homme,Moins de 5 ans,41.75,Antérieure à 2018
+1297,Le Mans,Informatique,219,Pellissier,Homme,Moins de 5 ans,51.01,Au cours des années 2018 à 2020
+1298,Le Mans,Informatique,220,Limoges,Non Spécifié,Moins de 5 ans,51.28,Au cours de l'année 2020 à 2021
+1299,Le Mans,Informatique,221,Renville,Homme,Entre 5 et 15 ans,47.41,Au cours des années 2018 à 2020
+1300,Le Mans,Informatique,222,Guyton,Femme,Moins de 5 ans,38.04,Au cours de l'année 2020 à 2021
+1301,Le Mans,Informatique,223,Delle,Homme,Moins de 5 ans,46.48,Au cours des années 2018 à 2020
+1302,Le Mans,Informatique,224,Debes,Homme,Moins de 5 ans,42.25,Au cours de l'année 2020 à 2021
+1303,Le Mans,Informatique,225,Bastin,Homme,Entre 5 et 15 ans,52.34,Au cours des années 2018 à 2020
+1304,Le Mans,Informatique,226,Lardy,Homme,Moins de 5 ans,43.69,Au cours de l'année 2020 à 2021
+1305,Le Mans,Informatique,227,Gros,Homme,Entre 5 et 15 ans,49.76,Antérieure à 2018
+1306,Le Mans,Informatique,228,Jaillet,Femme,Moins de 5 ans,44.87,Au cours des années 2018 à 2020
+1307,Le Mans,Informatique,229,Magnin,Non Spécifié,Moins de 5 ans,41.08,Au cours de l'année 2020 à 2021
+1308,Le Mans,Informatique,230,Cuvelier,Homme,Moins de 5 ans,44.41,Au cours de l'année 2020 à 2021
+1309,Le Mans,Informatique,231,Lande,Non Spécifié,Plus de 15 ans,43.48,Au cours de l'année 2020 à 2021
+1310,Le Mans,Informatique,232,Guerin,Homme,Moins de 5 ans,52.33,Au cours de l'année 2020 à 2021
+1311,Le Mans,Informatique,233,Agard,Homme,Plus de 15 ans,0,Jamais
+1312,Le Mans,Informatique,234,Gallien,Homme,Moins de 5 ans,54.47,Au cours de l'année 2020 à 2021
+1313,Le Mans,Informatique,235,Motte,Homme,Moins de 5 ans,48.02,Au cours des années 2018 à 2020
+1314,Le Mans,Informatique,236,Henard,Homme,Moins de 5 ans,48.2,Au cours de l'année 2020 à 2021
+1315,Le Mans,Informatique,237,Hyppolite,Homme,Moins de 5 ans,42.55,Antérieure à 2018
+1316,Le Mans,Informatique,238,Corneau,Homme,Moins de 5 ans,48.49,Au cours des années 2018 à 2020
+1317,Le Mans,Informatique,239,Ozanne,Homme,Moins de 5 ans,40.34,Au cours des années 2018 à 2020
+1318,Le Mans,Informatique,240,Leopold,Homme,Moins de 5 ans,45.07,Au cours des années 2018 à 2020
+1319,Le Mans,Informatique,241,Issac,Femme,Plus de 15 ans,0,Jamais
+1320,Le Mans,Informatique,242,Bolduc,Homme,Moins de 5 ans,47.19,Au cours de l'année 2020 à 2021
+1321,Le Mans,Informatique,243,Desjarlais,Homme,Plus de 15 ans,49.08,Antérieure à 2018
+1322,Le Mans,Informatique,244,Buron,Homme,Moins de 5 ans,47.93,Au cours de l'année 2020 à 2021
+1323,Le Mans,Informatique,245,Callies,Homme,Moins de 5 ans,41.64,Au cours de l'année 2020 à 2021
+1324,Le Mans,Informatique,246,Laude,Non Spécifié,Moins de 5 ans,51.96,Au cours des années 2018 à 2020
+1325,Le Mans,Informatique,247,Devillers,Femme,Moins de 5 ans,40.06,Antérieure à 2018
+1326,Le Mans,Informatique,248,Labbe,Homme,Entre 5 et 15 ans,0,Jamais
+1327,Le Mans,Informatique,249,De Lange,Homme,Moins de 5 ans,54.37,Au cours des années 2018 à 2020
+1328,Le Mans,Informatique,250,Ours,Homme,Entre 5 et 15 ans,46.18,Antérieure à 2018
+1329,Le Mans,Informatique,251,Lizotte,Homme,Moins de 5 ans,43.63,Au cours des années 2018 à 2020
+1330,Le Mans,Informatique,252,Magnan,Homme,Moins de 5 ans,51.68,Au cours des années 2018 à 2020
+1331,Le Mans,Informatique,253,Bara,Homme,Moins de 5 ans,43.69,Au cours de l'année 2020 à 2021
+1332,Le Mans,Informatique,254,Nate,Homme,Moins de 5 ans,44.0,Au cours de l'année 2020 à 2021
+1333,Le Mans,Informatique,255,Edin,Femme,Moins de 5 ans,37.23,Au cours des années 2018 à 2020
+1334,Le Mans,Informatique,256,Carmin,Femme,Moins de 5 ans,42.81,Antérieure à 2018
+1335,Le Mans,Informatique,257,Arnoult,Homme,Moins de 5 ans,49.19,Au cours des années 2018 à 2020
+1336,Le Mans,Informatique,258,Dautrich,Homme,Entre 5 et 15 ans,52.39,Au cours des années 2018 à 2020
+1337,Le Mans,Informatique,259,Lanctot,Non Spécifié,Moins de 5 ans,48.87,Antérieure à 2018
+1338,Le Mans,Informatique,260,Brussel,Homme,Moins de 5 ans,40.05,Au cours de l'année 2020 à 2021
+1339,Le Mans,Informatique,261,Desautel,Homme,Entre 5 et 15 ans,50.02,Antérieure à 2018
+1340,Le Mans,Informatique,262,Lessard,Homme,Moins de 5 ans,50.88,Au cours des années 2018 à 2020
+1341,Le Mans,Informatique,263,Grandjean,Homme,Plus de 15 ans,50.17,Au cours de l'année 2020 à 2021
+1342,Le Mans,Informatique,264,Lavertu,Homme,Moins de 5 ans,47.46,Au cours de l'année 2020 à 2021
+1343,Le Mans,Informatique,265,Debois,Homme,Moins de 5 ans,49.82,Au cours de l'année 2020 à 2021
+1344,Le Mans,Informatique,266,Armel,Homme,Moins de 5 ans,43.84,Au cours des années 2018 à 2020
+1345,Le Mans,Informatique,267,Belaire,Homme,Moins de 5 ans,41.53,Au cours des années 2018 à 2020
+1346,Le Mans,Informatique,268,Rouillard,Homme,Moins de 5 ans,49.36,Au cours des années 2018 à 2020
+1347,Le Mans,Informatique,269,Vallier,Homme,Moins de 5 ans,45.96,Au cours des années 2018 à 2020
+1348,Le Mans,Informatique,270,Toussaint,Homme,Moins de 5 ans,43.77,Au cours de l'année 2020 à 2021
+1349,Le Mans,Informatique,271,Facteau,Homme,Moins de 5 ans,53.27,Au cours de l'année 2020 à 2021
+1350,Le Mans,Informatique,272,Lafond,Homme,Moins de 5 ans,47.47,Antérieure à 2018
+1351,Le Mans,Informatique,273,Acy,Homme,Plus de 15 ans,0,Jamais
+1352,Le Mans,Informatique,274,Pellegrin,Femme,Moins de 5 ans,46.05,Au cours de l'année 2020 à 2021
+1353,Le Mans,Informatique,275,Duron,Homme,Entre 5 et 15 ans,44.9,Au cours des années 2018 à 2020
+1354,Le Mans,Informatique,276,Cinq-Mars,Homme,Plus de 15 ans,0,Jamais
+1355,Le Mans,Informatique,277,Laprairie,Homme,Moins de 5 ans,45.03,Au cours de l'année 2020 à 2021
+1356,Le Mans,Informatique,278,Rappe,Homme,Moins de 5 ans,45.69,Au cours de l'année 2020 à 2021
+1357,Le Mans,Informatique,279,Bloyer,Femme,Moins de 5 ans,0,Jamais
+1358,Le Mans,Informatique,280,Breton,Homme,Entre 5 et 15 ans,54.94,Au cours de l'année 2020 à 2021
+1359,Le Mans,Informatique,281,Loge,Homme,Moins de 5 ans,46.34,Au cours de l'année 2020 à 2021
+1360,Le Mans,Informatique,282,Carreau,Homme,Moins de 5 ans,51.34,Au cours de l'année 2020 à 2021
+1361,Le Mans,Informatique,283,Fouquet,Homme,Moins de 5 ans,40.78,Antérieure à 2018
+1362,Le Mans,Informatique,284,Brunette,Femme,Moins de 5 ans,35.76,Au cours de l'année 2020 à 2021
+1363,Le Mans,Informatique,285,Antoine,Homme,Moins de 5 ans,50.24,Antérieure à 2018
+1364,Le Mans,Informatique,286,Riche,Homme,Moins de 5 ans,45.86,Au cours de l'année 2020 à 2021
+1365,Le Mans,Informatique,287,Beauchesne,Homme,Moins de 5 ans,41.15,Au cours de l'année 2020 à 2021
+1366,Le Mans,Informatique,288,Laventure,Homme,Entre 5 et 15 ans,50.92,Au cours de l'année 2020 à 2021
+1367,Le Mans,Informatique,289,Dugay,Homme,Plus de 15 ans,54.61,Au cours des années 2018 à 2020
+1368,Le Mans,Informatique,290,Varon,Homme,Moins de 5 ans,52.71,Au cours des années 2018 à 2020
+1369,Le Mans,Informatique,291,Bouche,Homme,Moins de 5 ans,43.14,Au cours de l'année 2020 à 2021
+1370,Le Mans,Informatique,292,Riviere,Homme,Plus de 15 ans,44.64,Au cours des années 2018 à 2020
+1371,Le Mans,Informatique,293,Guerard,Homme,Moins de 5 ans,44.74,Au cours des années 2018 à 2020
+1372,Le Mans,Informatique,294,Pierre,Homme,Entre 5 et 15 ans,45.98,Antérieure à 2018
+1373,Le Mans,Informatique,295,Blond,Homme,Moins de 5 ans,50.24,Au cours de l'année 2020 à 2021
+1374,Le Mans,Informatique,296,Paley,Homme,Moins de 5 ans,0,Jamais
+1375,Le Mans,Économie,297,Leclercq,Homme,Entre 5 et 15 ans,35.24,Antérieure à 2018
+1376,Le Mans,Économie,298,Florance,Homme,Plus de 15 ans,23.9,Antérieure à 2018
+1377,Le Mans,Économie,299,Macon,Homme,Moins de 5 ans,25.96,Au cours de l'année 2020 à 2021
+1378,Le Mans,Économie,300,Marine,Homme,Entre 5 et 15 ans,32.15,Au cours des années 2018 à 2020
+1379,Le Mans,Économie,301,Frederic,Femme,Plus de 15 ans,0,Jamais
+1380,Le Mans,Économie,302,Fontenette,Homme,Moins de 5 ans,27.08,Antérieure à 2018
+1381,Le Mans,Économie,303,Pean,Femme,Moins de 5 ans,34.74,Au cours de l'année 2020 à 2021
+1382,Le Mans,Économie,304,Morisette,Homme,Plus de 15 ans,35.31,Au cours des années 2018 à 2020
+1383,Le Mans,Économie,305,Goslin,Homme,Entre 5 et 15 ans,0,Jamais
+1384,Le Mans,Économie,306,Sand,Homme,Plus de 15 ans,42.75,Antérieure à 2018
+1385,Le Mans,Économie,307,Larcher,Homme,Moins de 5 ans,20.75,Au cours de l'année 2020 à 2021
+1386,Le Mans,Économie,308,Arpin,Homme,Plus de 15 ans,44.09,Au cours de l'année 2020 à 2021
+1387,Le Mans,Économie,309,Demey,Homme,Entre 5 et 15 ans,40.58,Au cours des années 2018 à 2020
+1388,Le Mans,Économie,310,Narcisse,Homme,Entre 5 et 15 ans,43.5,Antérieure à 2018
+1389,Le Mans,Économie,311,Pruette,Femme,Entre 5 et 15 ans,39.49,Au cours des années 2018 à 2020
+1390,Le Mans,Économie,312,Courchesne,Homme,Entre 5 et 15 ans,41.77,Au cours de l'année 2020 à 2021
+1391,Le Mans,Économie,313,Dostie,Homme,Moins de 5 ans,24.73,Antérieure à 2018
+1392,Le Mans,Économie,314,Thome,Femme,Moins de 5 ans,30.51,Au cours de l'année 2020 à 2021
+1393,Le Mans,Économie,315,Bickert,Homme,Moins de 5 ans,31.2,Au cours de l'année 2020 à 2021
+1394,Le Mans,Économie,316,Brideau,Homme,Entre 5 et 15 ans,25.43,Au cours des années 2018 à 2020
+1395,Le Mans,Économie,317,Conard,Femme,Entre 5 et 15 ans,28.66,Au cours de l'année 2020 à 2021
+1396,Le Mans,Économie,318,Garret,Homme,Plus de 15 ans,27.3,Antérieure à 2018
+1397,Le Mans,Économie,319,Lagoy,Homme,Entre 5 et 15 ans,20.16,Au cours de l'année 2020 à 2021
+1398,Le Mans,Économie,320,Lebleu,Homme,Plus de 15 ans,29.81,Antérieure à 2018
+1399,Le Mans,Économie,321,Gaston,Homme,Entre 5 et 15 ans,20.98,Au cours des années 2018 à 2020
+1400,Le Mans,Économie,322,Prevost,Homme,Entre 5 et 15 ans,38.62,Au cours des années 2018 à 2020
+1401,Le Mans,Économie,323,Martie,Homme,Entre 5 et 15 ans,20.91,Au cours des années 2018 à 2020
+1402,Le Mans,Économie,324,Hau,Homme,Plus de 15 ans,42.33,Antérieure à 2018
+1403,Le Mans,Économie,325,Leveille,Homme,Plus de 15 ans,43.36,Antérieure à 2018
+1404,Le Mans,Économie,326,Daisy,Femme,Plus de 15 ans,0,Jamais
+1405,Le Mans,Économie,327,Mouzon,Homme,Plus de 15 ans,26.83,Au cours de l'année 2020 à 2021
+1406,Le Mans,Économie,328,Bourquin,Homme,Moins de 5 ans,29.35,Au cours de l'année 2020 à 2021
+1407,Le Mans,Économie,329,Gauvin,Femme,Plus de 15 ans,23.84,Antérieure à 2018
+1408,Le Mans,Économie,330,Beal,Non Spécifié,Plus de 15 ans,27.14,Antérieure à 2018
+1409,Le Mans,Économie,331,Belyeu,Homme,Entre 5 et 15 ans,39.89,Au cours des années 2018 à 2020
+1410,Le Mans,Économie,332,Berrien,Homme,Plus de 15 ans,44.91,Antérieure à 2018
+1411,Le Mans,Économie,333,Drapeau,Femme,Moins de 5 ans,28.9,Au cours de l'année 2020 à 2021
+1412,Le Mans,Économie,334,Laprairie,Homme,Moins de 5 ans,40.66,Antérieure à 2018
+1413,Le Mans,Économie,335,Body,Non Spécifié,Moins de 5 ans,32.53,Antérieure à 2018
+1414,Le Mans,Économie,336,Moquin,Homme,Plus de 15 ans,30.21,Au cours des années 2018 à 2020
+1415,Le Mans,Économie,337,Carbon,Homme,Entre 5 et 15 ans,22.22,Au cours de l'année 2020 à 2021
+1416,Le Mans,Économie,338,Agent,Homme,Plus de 15 ans,39.56,Antérieure à 2018
+1417,Le Mans,Économie,339,Dozier,Homme,Plus de 15 ans,0,Jamais
+1418,Le Mans,Économie,340,Canuel,Homme,Entre 5 et 15 ans,21.94,Au cours des années 2018 à 2020
+1419,Le Mans,Économie,341,Pepin,Homme,Plus de 15 ans,43.45,Antérieure à 2018
+1420,Le Mans,Économie,342,Guilmette,Homme,Entre 5 et 15 ans,36.97,Au cours de l'année 2020 à 2021
+1421,Le Mans,Économie,343,Gayman,Non Spécifié,Entre 5 et 15 ans,25.6,Au cours des années 2018 à 2020
+1422,Le Mans,Économie,344,Lachance,Homme,Moins de 5 ans,36.24,Antérieure à 2018
+1423,Le Mans,Économie,345,Marcott,Homme,Entre 5 et 15 ans,35.95,Antérieure à 2018
+1424,Le Mans,Économie,346,Pruette,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+1425,Le Mans,Économie,347,Ganoe,Homme,Moins de 5 ans,0,Jamais
+1426,Le Mans,Économie,348,Delaune,Femme,Entre 5 et 15 ans,36.58,Au cours des années 2018 à 2020
+1427,Le Mans,Économie,349,Rochat,Homme,Entre 5 et 15 ans,44.16,Au cours des années 2018 à 2020
+1428,Le Mans,Économie,350,Mignon,Femme,Entre 5 et 15 ans,38.64,Au cours de l'année 2020 à 2021
+1429,Le Mans,Économie,351,Lobel,Homme,Moins de 5 ans,27.31,Au cours des années 2018 à 2020
+1430,Le Mans,Économie,352,Loup,Homme,Plus de 15 ans,0,Jamais
+1431,Tours,Droit,1,Lamoureux,Femme,Moins de 5 ans,33.6,Au cours de l'année 2020 à 2021
+1432,Tours,Droit,2,Duranceau,Non Spécifié,Moins de 5 ans,0,Jamais
+1433,Tours,Droit,3,Rouland,Femme,Moins de 5 ans,27.72,Au cours de l'année 2020 à 2021
+1434,Tours,Droit,4,Perrenoud,Non Spécifié,Entre 5 et 15 ans,44.95,Au cours de l'année 2020 à 2021
+1435,Tours,Droit,5,Devere,Non Spécifié,Entre 5 et 15 ans,41.51,Au cours de l'année 2020 à 2021
+1436,Tours,Droit,6,Bercegeay,Femme,Moins de 5 ans,28.54,Au cours des années 2018 à 2020
+1437,Tours,Droit,7,Racine,Non Spécifié,Entre 5 et 15 ans,47.33,Au cours de l'année 2020 à 2021
+1438,Tours,Droit,8,Meserve,Femme,Moins de 5 ans,30.51,Antérieure à 2018
+1439,Tours,Droit,9,Tache,Homme,Entre 5 et 15 ans,46.13,Au cours des années 2018 à 2020
+1440,Tours,Droit,10,Rouland,Non Spécifié,Moins de 5 ans,47.99,Antérieure à 2018
+1441,Tours,Droit,11,Thill,Femme,Entre 5 et 15 ans,39.06,Au cours de l'année 2020 à 2021
+1442,Tours,Droit,12,Modisette,Femme,Moins de 5 ans,39.29,Au cours de l'année 2020 à 2021
+1443,Tours,Droit,13,Juaire,Homme,Moins de 5 ans,49.1,Au cours des années 2018 à 2020
+1444,Tours,Droit,14,Marcil,Non Spécifié,Entre 5 et 15 ans,42.9,Au cours des années 2018 à 2020
+1445,Tours,Droit,15,Dauterive,Femme,Entre 5 et 15 ans,29.03,Au cours de l'année 2020 à 2021
+1446,Tours,Droit,16,Pontier,Homme,Plus de 15 ans,38.83,Au cours des années 2018 à 2020
+1447,Tours,Droit,17,Marcoux,Non Spécifié,Moins de 5 ans,43.09,Au cours de l'année 2020 à 2021
+1448,Tours,Droit,18,Lhommedieu,Femme,Plus de 15 ans,0,Jamais
+1449,Tours,Droit,19,Bertel,Non Spécifié,Entre 5 et 15 ans,41.34,Au cours de l'année 2020 à 2021
+1450,Tours,Droit,20,Mabey,Femme,Moins de 5 ans,33.96,Au cours de l'année 2020 à 2021
+1451,Tours,Droit,21,Goulart,Femme,Moins de 5 ans,38.09,Au cours des années 2018 à 2020
+1452,Tours,Droit,22,Provencal,Homme,Moins de 5 ans,37.42,Antérieure à 2018
+1453,Tours,Droit,23,Victoria,Non Spécifié,Entre 5 et 15 ans,40.48,Antérieure à 2018
+1454,Tours,Droit,24,Denis,Homme,Moins de 5 ans,47.91,Au cours des années 2018 à 2020
+1455,Tours,Droit,25,Carrier,Femme,Entre 5 et 15 ans,30.53,Au cours des années 2018 à 2020
+1456,Tours,Droit,26,Bram,Homme,Moins de 5 ans,47.31,Antérieure à 2018
+1457,Tours,Droit,27,Lardie,Femme,Moins de 5 ans,35.03,Au cours de l'année 2020 à 2021
+1458,Tours,Droit,28,Chain,Homme,Moins de 5 ans,44.18,Au cours de l'année 2020 à 2021
+1459,Tours,Droit,29,Bordes,Homme,Plus de 15 ans,35.93,Antérieure à 2018
+1460,Tours,Droit,30,Greaux,Homme,Moins de 5 ans,40.93,Antérieure à 2018
+1461,Tours,Droit,31,Lemaire,Femme,Plus de 15 ans,28.55,Antérieure à 2018
+1462,Tours,Droit,32,Demanche,Non Spécifié,Moins de 5 ans,46.72,Au cours des années 2018 à 2020
+1463,Tours,Droit,33,Auxier,Non Spécifié,Moins de 5 ans,48.23,Au cours de l'année 2020 à 2021
+1464,Tours,Droit,34,Mollere,Non Spécifié,Moins de 5 ans,43.99,Au cours de l'année 2020 à 2021
+1465,Tours,Droit,35,Leve,Homme,Moins de 5 ans,43.56,Au cours de l'année 2020 à 2021
+1466,Tours,Droit,36,Victorine,Femme,Moins de 5 ans,29.01,Au cours des années 2018 à 2020
+1467,Tours,Droit,37,Berte,Homme,Moins de 5 ans,46.55,Au cours de l'année 2020 à 2021
+1468,Tours,Droit,38,Lecompte,Homme,Entre 5 et 15 ans,47.42,Au cours des années 2018 à 2020
+1469,Tours,Droit,39,Lacroix,Femme,Moins de 5 ans,34.83,Au cours des années 2018 à 2020
+1470,Tours,Droit,40,Poulin,Femme,Entre 5 et 15 ans,34.16,Au cours des années 2018 à 2020
+1471,Tours,Droit,41,Thevenot,Homme,Plus de 15 ans,48.02,Au cours des années 2018 à 2020
+1472,Tours,Droit,42,Rousseau,Non Spécifié,Moins de 5 ans,44.17,Au cours de l'année 2020 à 2021
+1473,Tours,Droit,43,Clerc,Non Spécifié,Moins de 5 ans,42.32,Au cours de l'année 2020 à 2021
+1474,Tours,Droit,44,Bovee,Homme,Moins de 5 ans,37.09,Au cours de l'année 2020 à 2021
+1475,Tours,Droit,45,Gionet,Non Spécifié,Entre 5 et 15 ans,47.75,Antérieure à 2018
+1476,Tours,Droit,46,Breau,Non Spécifié,Plus de 15 ans,0,Jamais
+1477,Tours,Droit,47,Demory,Homme,Plus de 15 ans,47.96,Antérieure à 2018
+1478,Tours,Droit,48,Calaman,Non Spécifié,Moins de 5 ans,41.02,Au cours de l'année 2020 à 2021
+1479,Tours,Droit,49,Dally,Homme,Moins de 5 ans,46.41,Au cours des années 2018 à 2020
+1480,Tours,Droit,50,Boyette,Femme,Moins de 5 ans,38.63,Antérieure à 2018
+1481,Tours,Droit,51,Mentor,Femme,Entre 5 et 15 ans,34.64,Au cours de l'année 2020 à 2021
+1482,Tours,Droit,52,Danger,Non Spécifié,Entre 5 et 15 ans,49.7,Au cours des années 2018 à 2020
+1483,Tours,Droit,53,Maneval,Non Spécifié,Moins de 5 ans,48.28,Au cours de l'année 2020 à 2021
+1484,Tours,Droit,54,Magnan,Femme,Entre 5 et 15 ans,32.38,Antérieure à 2018
+1485,Tours,Droit,55,Granier,Femme,Entre 5 et 15 ans,28.07,Au cours des années 2018 à 2020
+1486,Tours,Droit,56,Goy,Homme,Moins de 5 ans,41.58,Au cours des années 2018 à 2020
+1487,Tours,Droit,57,Lelievre,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+1488,Tours,Droit,58,Grandpre,Non Spécifié,Moins de 5 ans,44.15,Au cours des années 2018 à 2020
+1489,Tours,Droit,59,Labarge,Homme,Entre 5 et 15 ans,48.81,Au cours des années 2018 à 2020
+1490,Tours,Droit,60,Vadnais,Homme,Entre 5 et 15 ans,0,Jamais
+1491,Tours,Droit,61,Lavelle,Homme,Moins de 5 ans,45.6,Au cours de l'année 2020 à 2021
+1492,Tours,Droit,62,Charleson,Femme,Moins de 5 ans,29.23,Au cours de l'année 2020 à 2021
+1493,Tours,Droit,63,Michon,Homme,Moins de 5 ans,38.27,Au cours des années 2018 à 2020
+1494,Tours,Droit,64,Laurent,Non Spécifié,Entre 5 et 15 ans,40.44,Antérieure à 2018
+1495,Tours,Droit,65,Billeaud,Femme,Entre 5 et 15 ans,35.12,Au cours de l'année 2020 à 2021
+1496,Tours,Droit,66,Paschal,Non Spécifié,Moins de 5 ans,49.36,Antérieure à 2018
+1497,Tours,Droit,67,Sade,Non Spécifié,Entre 5 et 15 ans,43.85,Antérieure à 2018
+1498,Tours,Histoire,68,Victor,Homme,Entre 5 et 15 ans,0,Jamais
+1499,Tours,Histoire,69,Bouthillier,Homme,Moins de 5 ans,39.03,Au cours de l'année 2020 à 2021
+1500,Tours,Histoire,70,Cazier,Femme,Moins de 5 ans,33.72,Au cours de l'année 2020 à 2021
+1501,Tours,Histoire,71,Daisley,Homme,Entre 5 et 15 ans,35.35,Au cours des années 2018 à 2020
+1502,Tours,Histoire,72,Thorell,Homme,Moins de 5 ans,36.0,Au cours des années 2018 à 2020
+1503,Tours,Histoire,73,Dantin,Non Spécifié,Moins de 5 ans,40.0,Au cours des années 2018 à 2020
+1504,Tours,Histoire,74,Mignone,Homme,Entre 5 et 15 ans,39.32,Au cours des années 2018 à 2020
+1505,Tours,Histoire,75,Palange,Homme,Entre 5 et 15 ans,38.59,Au cours de l'année 2020 à 2021
+1506,Tours,Histoire,76,Cantrell,Femme,Moins de 5 ans,32.42,Au cours des années 2018 à 2020
+1507,Tours,Histoire,77,Terrien,Femme,Moins de 5 ans,29.86,Au cours des années 2018 à 2020
+1508,Tours,Histoire,78,Gallet,Homme,Plus de 15 ans,0,Jamais
+1509,Tours,Histoire,79,Lebourgeois,Homme,Moins de 5 ans,44.03,Antérieure à 2018
+1510,Tours,Histoire,80,Germain,Non Spécifié,Moins de 5 ans,40.0,Antérieure à 2018
+1511,Tours,Histoire,81,Violett,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1512,Tours,Histoire,82,Sandel,Homme,Moins de 5 ans,36.45,Au cours de l'année 2020 à 2021
+1513,Tours,Histoire,83,Charvet,Homme,Moins de 5 ans,36.79,Au cours des années 2018 à 2020
+1514,Tours,Histoire,84,Bellin,Femme,Moins de 5 ans,28.15,Au cours de l'année 2020 à 2021
+1515,Tours,Histoire,85,Tousignant,Homme,Entre 5 et 15 ans,40.05,Au cours des années 2018 à 2020
+1516,Tours,Histoire,86,Beauparlant,Homme,Moins de 5 ans,40.14,Au cours de l'année 2020 à 2021
+1517,Tours,Histoire,87,Sarazen,Homme,Moins de 5 ans,38.6,Au cours des années 2018 à 2020
+1518,Tours,Histoire,88,Milord,Homme,Entre 5 et 15 ans,39.37,Au cours des années 2018 à 2020
+1519,Tours,Histoire,89,Giroir,Homme,Entre 5 et 15 ans,44.38,Au cours de l'année 2020 à 2021
+1520,Tours,Histoire,90,Durie,Non Spécifié,Plus de 15 ans,40.0,Antérieure à 2018
+1521,Tours,Histoire,91,Manigault,Homme,Moins de 5 ans,43.59,Au cours des années 2018 à 2020
+1522,Tours,Histoire,92,Garneau,Homme,Moins de 5 ans,44.71,Au cours de l'année 2020 à 2021
+1523,Tours,Histoire,93,Tardy,Homme,Moins de 5 ans,44.83,Au cours des années 2018 à 2020
+1524,Tours,Histoire,94,Venier,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1525,Tours,Histoire,95,Bobier,Homme,Entre 5 et 15 ans,42.74,Au cours de l'année 2020 à 2021
+1526,Tours,Histoire,96,Berthiaume,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1527,Tours,Histoire,97,Pinter,Non Spécifié,Moins de 5 ans,40.0,Au cours des années 2018 à 2020
+1528,Tours,Histoire,98,Couvillion,Femme,Moins de 5 ans,28.55,Au cours de l'année 2020 à 2021
+1529,Tours,Histoire,99,St. Jean,Femme,Entre 5 et 15 ans,31.5,Antérieure à 2018
+1530,Tours,Histoire,100,Laine,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1531,Tours,Histoire,101,Bouthillier,Homme,Entre 5 et 15 ans,41.52,Au cours des années 2018 à 2020
+1532,Tours,Histoire,102,Davault,Homme,Moins de 5 ans,37.13,Au cours des années 2018 à 2020
+1533,Tours,Histoire,103,Bellefeuille,Homme,Moins de 5 ans,41.02,Au cours des années 2018 à 2020
+1534,Tours,Histoire,104,Lemire,Homme,Entre 5 et 15 ans,42.48,Antérieure à 2018
+1535,Tours,Histoire,105,Loiselle,Homme,Moins de 5 ans,35.54,Au cours de l'année 2020 à 2021
+1536,Tours,Histoire,106,Louissaint,Homme,Moins de 5 ans,38.52,Antérieure à 2018
+1537,Tours,Histoire,107,Piche,Homme,Moins de 5 ans,44.19,Au cours de l'année 2020 à 2021
+1538,Tours,Histoire,108,Mille,Homme,Moins de 5 ans,40.13,Au cours des années 2018 à 2020
+1539,Tours,Histoire,109,Garneau,Homme,Moins de 5 ans,44.62,Au cours de l'année 2020 à 2021
+1540,Tours,Histoire,110,Yount,Homme,Entre 5 et 15 ans,43.47,Antérieure à 2018
+1541,Tours,Histoire,111,Tebeau,Homme,Moins de 5 ans,43.29,Au cours de l'année 2020 à 2021
+1542,Tours,Histoire,112,Rougeau,Non Spécifié,Moins de 5 ans,40.0,Antérieure à 2018
+1543,Tours,Histoire,113,Jardon,Homme,Entre 5 et 15 ans,40.55,Au cours de l'année 2020 à 2021
+1544,Tours,Histoire,114,Contant,Non Spécifié,Entre 5 et 15 ans,40.0,Au cours de l'année 2020 à 2021
+1545,Tours,Histoire,115,Trame,Homme,Moins de 5 ans,37.04,Antérieure à 2018
+1546,Tours,Histoire,116,Daigneault,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1547,Tours,Histoire,117,Louis,Non Spécifié,Moins de 5 ans,40.0,Antérieure à 2018
+1548,Tours,Histoire,118,Burgy,Non Spécifié,Moins de 5 ans,40.0,Antérieure à 2018
+1549,Tours,Histoire,119,Pinet,Homme,Moins de 5 ans,35.6,Au cours de l'année 2020 à 2021
+1550,Tours,Histoire,120,Perel,Homme,Plus de 15 ans,42.69,Au cours des années 2018 à 2020
+1551,Tours,Histoire,121,Garnier,Homme,Moins de 5 ans,42.57,Au cours des années 2018 à 2020
+1552,Tours,Histoire,122,Renaud,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1553,Tours,Histoire,123,Medine,Homme,Plus de 15 ans,36.84,Au cours de l'année 2020 à 2021
+1554,Tours,Histoire,124,Alexis,Non Spécifié,Moins de 5 ans,40.0,Au cours des années 2018 à 2020
+1555,Tours,Histoire,125,Lamotte,Homme,Moins de 5 ans,36.51,Au cours de l'année 2020 à 2021
+1556,Tours,Histoire,126,Delcour,Homme,Moins de 5 ans,44.41,Au cours de l'année 2020 à 2021
+1557,Tours,Histoire,127,Bonaventure,Homme,Moins de 5 ans,42.71,Au cours de l'année 2020 à 2021
+1558,Tours,Histoire,128,Desmarais,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1559,Tours,Histoire,129,Provence,Homme,Moins de 5 ans,42.15,Au cours de l'année 2020 à 2021
+1560,Tours,Histoire,130,Duchaine,Non Spécifié,Moins de 5 ans,40.0,Antérieure à 2018
+1561,Tours,Histoire,131,Moulin,Homme,Entre 5 et 15 ans,36.83,Au cours des années 2018 à 2020
+1562,Tours,Histoire,132,Delaine,Non Spécifié,Plus de 15 ans,40.0,Antérieure à 2018
+1563,Tours,Histoire,133,Valleroy,Homme,Plus de 15 ans,35.25,Antérieure à 2018
+1564,Tours,Histoire,134,Belisle,Homme,Plus de 15 ans,40.58,Antérieure à 2018
+1565,Tours,Histoire,135,Graner,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1566,Tours,Histoire,136,Lagace,Homme,Moins de 5 ans,44.39,Au cours des années 2018 à 2020
+1567,Tours,Histoire,137,Archambeault,Non Spécifié,Entre 5 et 15 ans,40.0,Antérieure à 2018
+1568,Tours,Histoire,138,Saur,Homme,Plus de 15 ans,35.5,Au cours de l'année 2020 à 2021
+1569,Tours,Histoire,139,Antin,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1570,Tours,Histoire,140,Duque,Homme,Moins de 5 ans,38.81,Au cours de l'année 2020 à 2021
+1571,Tours,Histoire,141,Chenard,Homme,Moins de 5 ans,43.17,Au cours de l'année 2020 à 2021
+1572,Tours,Histoire,142,Delon,Homme,Entre 5 et 15 ans,44.05,Antérieure à 2018
+1573,Tours,Histoire,143,Bonnot,Homme,Entre 5 et 15 ans,38.89,Au cours des années 2018 à 2020
+1574,Tours,Histoire,144,Simar,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1575,Tours,Histoire,145,Blanche,Femme,Moins de 5 ans,34.81,Au cours de l'année 2020 à 2021
+1576,Tours,Histoire,146,Bravard,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1577,Tours,Histoire,147,Losier,Non Spécifié,Plus de 15 ans,40.0,Au cours des années 2018 à 2020
+1578,Tours,Histoire,148,Dameron,Non Spécifié,Entre 5 et 15 ans,0,Jamais
+1579,Tours,Histoire,149,Brisson,Homme,Moins de 5 ans,42.31,Au cours des années 2018 à 2020
+1580,Tours,Histoire,150,Martiny,Homme,Moins de 5 ans,39.24,Antérieure à 2018
+1581,Tours,Histoire,151,Curie,Homme,Entre 5 et 15 ans,0,Jamais
+1582,Tours,Histoire,152,Picot,Homme,Plus de 15 ans,0,Jamais
+1583,Tours,Histoire,153,Goin,Femme,Entre 5 et 15 ans,27.01,Au cours des années 2018 à 2020
+1584,Tours,Histoire,154,Bayle,Homme,Entre 5 et 15 ans,38.83,Au cours de l'année 2020 à 2021
+1585,Tours,Histoire,155,Berry,Homme,Entre 5 et 15 ans,35.76,Antérieure à 2018
+1586,Tours,Histoire,156,Amyot,Homme,Plus de 15 ans,40.61,Antérieure à 2018
+1587,Tours,Histoire,157,Louvier,Homme,Moins de 5 ans,43.88,Au cours de l'année 2020 à 2021
+1588,Tours,Histoire,158,Anger,Homme,Moins de 5 ans,36.59,Au cours de l'année 2020 à 2021
+1589,Tours,Histoire,159,Sager,Homme,Plus de 15 ans,44.61,Au cours de l'année 2020 à 2021
+1590,Tours,Histoire,160,Rous,Homme,Plus de 15 ans,42.93,Antérieure à 2018
+1591,Tours,Histoire,161,St. Ann,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1592,Tours,Histoire,162,Lauve,Homme,Entre 5 et 15 ans,41.86,Antérieure à 2018
+1593,Tours,Histoire,163,Wion,Homme,Entre 5 et 15 ans,0,Jamais
+1594,Tours,Histoire,164,Glaude,Homme,Moins de 5 ans,40.55,Au cours de l'année 2020 à 2021
+1595,Tours,Histoire,165,Soules,Non Spécifié,Moins de 5 ans,40.0,Au cours des années 2018 à 2020
+1596,Tours,Histoire,166,Lariviere,Non Spécifié,Moins de 5 ans,40.0,Au cours des années 2018 à 2020
+1597,Tours,Histoire,167,Mathias,Non Spécifié,Entre 5 et 15 ans,40.0,Au cours de l'année 2020 à 2021
+1598,Tours,Mathématiques,168,Larcher,Non Spécifié,Plus de 15 ans,0,Jamais
+1599,Tours,Mathématiques,169,Demarr,Femme,Plus de 15 ans,36.9,Au cours de l'année 2020 à 2021
+1600,Tours,Mathématiques,170,Melancon,Femme,Moins de 5 ans,30.92,Au cours des années 2018 à 2020
+1601,Tours,Mathématiques,171,Poullard,Non Spécifié,Entre 5 et 15 ans,48.13,Au cours de l'année 2020 à 2021
+1602,Tours,Mathématiques,172,Dole,Femme,Moins de 5 ans,28.8,Antérieure à 2018
+1603,Tours,Mathématiques,173,Raboin,Non Spécifié,Entre 5 et 15 ans,52.61,Au cours des années 2018 à 2020
+1604,Tours,Mathématiques,174,Nicolette,Femme,Entre 5 et 15 ans,34.39,Antérieure à 2018
+1605,Tours,Mathématiques,175,Senegal,Homme,Moins de 5 ans,49.05,Antérieure à 2018
+1606,Tours,Mathématiques,176,Laguerre,Femme,Moins de 5 ans,30.37,Au cours de l'année 2020 à 2021
+1607,Tours,Mathématiques,177,Derouen,Femme,Plus de 15 ans,0,Jamais
+1608,Tours,Mathématiques,178,Letendre,Femme,Entre 5 et 15 ans,36.14,Au cours des années 2018 à 2020
+1609,Tours,Mathématiques,179,Malveaux,Homme,Entre 5 et 15 ans,0,Jamais
+1610,Tours,Mathématiques,180,Fray,Femme,Entre 5 et 15 ans,27.31,Au cours des années 2018 à 2020
+1611,Tours,Mathématiques,181,Jobin,Femme,Entre 5 et 15 ans,38.97,Antérieure à 2018
+1612,Tours,Mathématiques,182,Bachand,Femme,Plus de 15 ans,26.63,Antérieure à 2018
+1613,Tours,Mathématiques,183,Dejoie,Non Spécifié,Entre 5 et 15 ans,46.84,Au cours de l'année 2020 à 2021
+1614,Tours,Mathématiques,184,Beron,Non Spécifié,Moins de 5 ans,45.21,Au cours des années 2018 à 2020
+1615,Tours,Mathématiques,185,Baston,Femme,Plus de 15 ans,26.48,Au cours des années 2018 à 2020
+1616,Tours,Mathématiques,186,Dumesnil,Femme,Moins de 5 ans,31.66,Au cours de l'année 2020 à 2021
+1617,Tours,Mathématiques,187,Ramus,Femme,Entre 5 et 15 ans,27.09,Antérieure à 2018
+1618,Tours,Mathématiques,188,Camps,Femme,Plus de 15 ans,29.24,Au cours des années 2018 à 2020
+1619,Tours,Mathématiques,189,St. Andre,Femme,Plus de 15 ans,26.85,Au cours des années 2018 à 2020
+1620,Tours,Mathématiques,190,Darius,Femme,Moins de 5 ans,39.12,Au cours de l'année 2020 à 2021
+1621,Tours,Mathématiques,191,Renard,Femme,Moins de 5 ans,0,Jamais
+1622,Tours,Mathématiques,192,Grandpre,Homme,Moins de 5 ans,39.59,Au cours de l'année 2020 à 2021
+1623,Tours,Mathématiques,193,Garon,Non Spécifié,Moins de 5 ans,54.68,Au cours de l'année 2020 à 2021
+1624,Tours,Mathématiques,194,Beal,Non Spécifié,Entre 5 et 15 ans,45.57,Antérieure à 2018
+1625,Tours,Mathématiques,195,Monfils,Femme,Entre 5 et 15 ans,33.54,Antérieure à 2018
+1626,Tours,Mathématiques,196,Louque,Femme,Plus de 15 ans,25.18,Antérieure à 2018
+1627,Tours,Mathématiques,197,Leneave,Non Spécifié,Moins de 5 ans,45.35,Au cours des années 2018 à 2020
+1628,Tours,Mathématiques,198,Lacoy,Femme,Moins de 5 ans,30.6,Au cours de l'année 2020 à 2021
+1629,Tours,Mathématiques,199,Dusch,Femme,Plus de 15 ans,0,Jamais
+1630,Tours,Mathématiques,200,Dobry,Femme,Entre 5 et 15 ans,39.57,Au cours des années 2018 à 2020
+1631,Tours,Mathématiques,201,Sicard,Femme,Plus de 15 ans,35.18,Antérieure à 2018
+1632,Tours,Mathématiques,202,Barret,Femme,Moins de 5 ans,37.35,Antérieure à 2018
+1633,Tours,Mathématiques,203,Guedry,Femme,Moins de 5 ans,37.08,Au cours des années 2018 à 2020
+1634,Tours,Mathématiques,204,Autin,Femme,Moins de 5 ans,38.57,Au cours de l'année 2020 à 2021
+1635,Tours,Mathématiques,205,Solon,Femme,Moins de 5 ans,28.46,Au cours de l'année 2020 à 2021
+1636,Tours,Mathématiques,206,Hyppolite,Femme,Plus de 15 ans,0,Jamais
+1637,Tours,Mathématiques,207,Marin,Femme,Entre 5 et 15 ans,0,Jamais
+1638,Tours,Mathématiques,208,Marie,Femme,Entre 5 et 15 ans,26.85,Antérieure à 2018
+1639,Tours,Mathématiques,209,Bault,Femme,Plus de 15 ans,0,Jamais
+1640,Tours,Mathématiques,210,Garson,Homme,Entre 5 et 15 ans,39.09,Au cours des années 2018 à 2020
+1641,Tours,Mathématiques,211,Bellerose,Non Spécifié,Moins de 5 ans,49.61,Antérieure à 2018
+1642,Tours,Mathématiques,212,Toulouse,Femme,Moins de 5 ans,0,Jamais
+1643,Tours,Mathématiques,213,Legnon,Femme,Entre 5 et 15 ans,31.11,Au cours des années 2018 à 2020
+1644,Tours,Mathématiques,214,Harnois,Homme,Moins de 5 ans,35.57,Antérieure à 2018
+1645,Tours,Mathématiques,215,Bazil,Femme,Entre 5 et 15 ans,31.55,Au cours de l'année 2020 à 2021
+1646,Tours,Mathématiques,216,Monet,Femme,Entre 5 et 15 ans,31.07,Au cours des années 2018 à 2020
+1647,Tours,Mathématiques,217,Deyoe,Non Spécifié,Entre 5 et 15 ans,45.58,Au cours des années 2018 à 2020
+1648,Tours,Mathématiques,218,Pronovost,Non Spécifié,Plus de 15 ans,0,Jamais
+1649,Tours,Mathématiques,219,Real,Homme,Moins de 5 ans,45.86,Au cours de l'année 2020 à 2021
+1650,Tours,Mathématiques,220,Dansereau,Femme,Entre 5 et 15 ans,30.81,Au cours des années 2018 à 2020
+1651,Tours,Mathématiques,221,Helbert,Femme,Moins de 5 ans,29.0,Antérieure à 2018
+1652,Tours,Mathématiques,222,Bonhomme,Femme,Entre 5 et 15 ans,29.57,Au cours de l'année 2020 à 2021
+1653,Tours,Mathématiques,223,Sarasin,Femme,Entre 5 et 15 ans,35.41,Au cours des années 2018 à 2020
+1654,Tours,Mathématiques,224,Labonte,Non Spécifié,Plus de 15 ans,45.07,Antérieure à 2018
+1655,Tours,Mathématiques,225,Berteau,Femme,Plus de 15 ans,0,Jamais
+1656,Tours,Mathématiques,226,Damien,Femme,Moins de 5 ans,35.99,Au cours des années 2018 à 2020
+1657,Tours,Mathématiques,227,Borie,Femme,Plus de 15 ans,0,Jamais
+1658,Tours,Mathématiques,228,Maxim,Non Spécifié,Moins de 5 ans,46.72,Antérieure à 2018
+1659,Tours,Mathématiques,229,Tanguay,Femme,Plus de 15 ans,39.49,Au cours des années 2018 à 2020
+1660,Tours,Mathématiques,230,Mons,Homme,Moins de 5 ans,37.42,Au cours de l'année 2020 à 2021
+1661,Tours,Mathématiques,231,Ledoux,Femme,Entre 5 et 15 ans,33.88,Au cours des années 2018 à 2020
+1662,Tours,Mathématiques,232,Bise,Non Spécifié,Entre 5 et 15 ans,53.99,Au cours des années 2018 à 2020
+1663,Tours,Mathématiques,233,Angers,Homme,Moins de 5 ans,49.32,Au cours de l'année 2020 à 2021
+1664,Tours,Mathématiques,234,Maschino,Femme,Plus de 15 ans,0,Jamais
+1665,Tours,Mathématiques,235,Dubreuil,Femme,Entre 5 et 15 ans,0,Jamais
+1666,Tours,Mathématiques,236,Re,Non Spécifié,Moins de 5 ans,45.11,Au cours des années 2018 à 2020
+1667,Tours,Mathématiques,237,Brosseau,Femme,Entre 5 et 15 ans,31.95,Au cours des années 2018 à 2020
+1668,Tours,Mathématiques,238,Tremont,Femme,Moins de 5 ans,28.51,Au cours de l'année 2020 à 2021
+1669,Tours,Mathématiques,239,Bailly,Femme,Moins de 5 ans,28.31,Au cours de l'année 2020 à 2021
+1670,Tours,Mathématiques,240,Beiriger,Femme,Plus de 15 ans,0,Jamais
+1671,Tours,Mathématiques,241,Lacoss,Homme,Entre 5 et 15 ans,39.44,Au cours des années 2018 à 2020
+1672,Tours,Mathématiques,242,Berthiaume,Non Spécifié,Plus de 15 ans,46.23,Au cours des années 2018 à 2020
+1673,Tours,Mathématiques,243,Rosselle,Femme,Plus de 15 ans,0,Jamais
+1674,Tours,Mathématiques,244,Aguillon,Non Spécifié,Moins de 5 ans,49.62,Au cours des années 2018 à 2020
+1675,Tours,Mathématiques,245,Belliveau,Femme,Entre 5 et 15 ans,36.24,Au cours des années 2018 à 2020
+1676,Tours,Mathématiques,246,Tuel,Femme,Plus de 15 ans,28.1,Au cours de l'année 2020 à 2021
+1677,Tours,Mathématiques,247,Nezat,Femme,Entre 5 et 15 ans,35.53,Au cours des années 2018 à 2020
+1678,Tours,Mathématiques,248,Anctil,Femme,Moins de 5 ans,31.7,Au cours des années 2018 à 2020
+1679,Tours,Mathématiques,249,Chabot,Homme,Plus de 15 ans,35.87,Au cours des années 2018 à 2020
+1680,Tours,Mathématiques,250,Estel,Non Spécifié,Moins de 5 ans,50.43,Au cours de l'année 2020 à 2021
+1681,Tours,Mathématiques,251,Breland,Femme,Entre 5 et 15 ans,38.23,Au cours des années 2018 à 2020
+1682,Tours,Mathématiques,252,Jaillet,Femme,Entre 5 et 15 ans,27.1,Au cours des années 2018 à 2020
+1683,Tours,Mathématiques,253,Theriault,Homme,Plus de 15 ans,39.02,Antérieure à 2018
+1684,Tours,Mathématiques,254,Leys,Femme,Moins de 5 ans,36.86,Au cours de l'année 2020 à 2021
+1685,Tours,Mathématiques,255,Lafarge,Homme,Moins de 5 ans,44.63,Au cours de l'année 2020 à 2021
+1686,Tours,Mathématiques,256,Danos,Femme,Moins de 5 ans,33.44,Au cours de l'année 2020 à 2021
+1687,Tours,Mathématiques,257,Gobeille,Non Spécifié,Plus de 15 ans,49.62,Au cours des années 2018 à 2020
+1688,Tours,Mathématiques,258,Homme,Homme,Moins de 5 ans,48.27,Au cours de l'année 2020 à 2021
+1689,Tours,Mathématiques,259,Phenicie,Non Spécifié,Plus de 15 ans,0,Jamais
+1690,Tours,Informatique,260,Guimont,Non Spécifié,Entre 5 et 15 ans,48.15,Au cours de l'année 2020 à 2021
+1691,Tours,Informatique,261,Dameron,Non Spécifié,Moins de 5 ans,51.56,Antérieure à 2018
+1692,Tours,Informatique,262,Dosier,Femme,Moins de 5 ans,43.27,Au cours de l'année 2020 à 2021
+1693,Tours,Informatique,263,Orleans,Homme,Entre 5 et 15 ans,66.18,Antérieure à 2018
+1694,Tours,Informatique,264,Chappelle,Femme,Entre 5 et 15 ans,34.88,Au cours de l'année 2020 à 2021
+1695,Tours,Informatique,265,Frisque,Femme,Moins de 5 ans,29.35,Au cours des années 2018 à 2020
+1696,Tours,Informatique,266,Girardin,Homme,Entre 5 et 15 ans,36.44,Au cours des années 2018 à 2020
+1697,Tours,Informatique,267,Dorland,Homme,Entre 5 et 15 ans,67.26,Au cours des années 2018 à 2020
+1698,Tours,Informatique,268,Hugo,Non Spécifié,Entre 5 et 15 ans,43.11,Au cours de l'année 2020 à 2021
+1699,Tours,Informatique,269,Labarr,Non Spécifié,Entre 5 et 15 ans,40.34,Au cours des années 2018 à 2020
+1700,Tours,Informatique,270,Brazier,Non Spécifié,Entre 5 et 15 ans,42.22,Antérieure à 2018
+1701,Tours,Informatique,271,Calle,Femme,Moins de 5 ans,26.83,Au cours de l'année 2020 à 2021
+1702,Tours,Informatique,272,Plue,Homme,Moins de 5 ans,35.31,Au cours de l'année 2020 à 2021
+1703,Tours,Informatique,273,Beloin,Femme,Moins de 5 ans,47.04,Au cours de l'année 2020 à 2021
+1704,Tours,Informatique,274,Buysse,Homme,Entre 5 et 15 ans,44.73,Au cours de l'année 2020 à 2021
+1705,Tours,Informatique,275,Germond,Homme,Moins de 5 ans,37.69,Au cours des années 2018 à 2020
+1706,Tours,Informatique,276,Raba,Non Spécifié,Plus de 15 ans,0,Jamais
+1707,Tours,Informatique,277,Mignon,Non Spécifié,Entre 5 et 15 ans,46.23,Au cours des années 2018 à 2020
+1708,Tours,Informatique,278,Decuir,Homme,Moins de 5 ans,52.08,Au cours de l'année 2020 à 2021
+1709,Tours,Informatique,279,Pillot,Non Spécifié,Moins de 5 ans,0,Jamais
+1710,Tours,Informatique,280,Jolie,Non Spécifié,Moins de 5 ans,47.06,Au cours de l'année 2020 à 2021
+1711,Tours,Informatique,281,Maze,Homme,Moins de 5 ans,62.6,Au cours des années 2018 à 2020
+1712,Tours,Informatique,282,Carrere,Femme,Moins de 5 ans,38.46,Au cours de l'année 2020 à 2021
+1713,Tours,Informatique,283,Chenot,Homme,Moins de 5 ans,0,Jamais
+1714,Tours,Informatique,284,Ducote,Homme,Plus de 15 ans,54.95,Au cours des années 2018 à 2020
+1715,Tours,Informatique,285,Tesson,Homme,Entre 5 et 15 ans,48.78,Au cours de l'année 2020 à 2021
+1716,Tours,Informatique,286,Cape,Femme,Entre 5 et 15 ans,32.82,Au cours des années 2018 à 2020
+1717,Tours,Informatique,287,Labranche,Non Spécifié,Moins de 5 ans,52.14,Au cours de l'année 2020 à 2021
+1718,Tours,Informatique,288,Danna,Homme,Moins de 5 ans,50.55,Au cours des années 2018 à 2020
+1719,Tours,Informatique,289,Danis,Femme,Entre 5 et 15 ans,50.69,Au cours des années 2018 à 2020
+1720,Tours,Informatique,290,Dautrich,Femme,Entre 5 et 15 ans,26.07,Antérieure à 2018
+1721,Tours,Informatique,291,Fortier,Non Spécifié,Moins de 5 ans,49.48,Antérieure à 2018
+1722,Tours,Informatique,292,Thierry,Femme,Moins de 5 ans,26.78,Au cours des années 2018 à 2020
+1723,Tours,Informatique,293,Heckle,Non Spécifié,Moins de 5 ans,48.68,Au cours des années 2018 à 2020
+1724,Tours,Informatique,294,Lutz,Homme,Moins de 5 ans,55.49,Au cours de l'année 2020 à 2021
+1725,Tours,Informatique,295,Lemar,Non Spécifié,Entre 5 et 15 ans,48.21,Au cours de l'année 2020 à 2021
+1726,Tours,Informatique,296,Desper,Non Spécifié,Plus de 15 ans,43.28,Antérieure à 2018
+1727,Tours,Informatique,297,Labarre,Non Spécifié,Moins de 5 ans,0,Jamais
+1728,Tours,Informatique,298,Drouhard,Homme,Moins de 5 ans,59.84,Au cours de l'année 2020 à 2021
+1729,Tours,Informatique,299,Creque,Homme,Moins de 5 ans,67.23,Antérieure à 2018
+1730,Tours,Informatique,300,Lemaitre,Femme,Moins de 5 ans,33.34,Au cours de l'année 2020 à 2021
+1731,Tours,Informatique,301,Rivard,Femme,Moins de 5 ans,34.92,Au cours de l'année 2020 à 2021
+1732,Tours,Informatique,302,Lizotte,Non Spécifié,Entre 5 et 15 ans,45.66,Au cours de l'année 2020 à 2021
+1733,Tours,Informatique,303,Verne,Femme,Moins de 5 ans,25.19,Antérieure à 2018
+1734,Tours,Informatique,304,Oris,Non Spécifié,Entre 5 et 15 ans,48.44,Au cours de l'année 2020 à 2021
+1735,Tours,Informatique,305,Carmin,Femme,Entre 5 et 15 ans,44.13,Au cours des années 2018 à 2020
+1736,Tours,Informatique,306,Joly,Femme,Moins de 5 ans,44.5,Au cours des années 2018 à 2020
+1737,Tours,Informatique,307,Senne,Femme,Moins de 5 ans,37.22,Au cours des années 2018 à 2020
+1738,Tours,Informatique,308,Galvin,Non Spécifié,Entre 5 et 15 ans,41.07,Antérieure à 2018
+1739,Tours,Informatique,309,Lorge,Non Spécifié,Moins de 5 ans,48.68,Au cours de l'année 2020 à 2021
+1740,Tours,Informatique,310,Filteau,Femme,Moins de 5 ans,41.11,Au cours de l'année 2020 à 2021
+1741,Tours,Informatique,311,Doucet,Non Spécifié,Moins de 5 ans,45.88,Au cours des années 2018 à 2020
+1742,Tours,Informatique,312,Debois,Femme,Moins de 5 ans,53.39,Au cours de l'année 2020 à 2021
+1743,Tours,Informatique,313,Ferron,Femme,Moins de 5 ans,38.42,Au cours de l'année 2020 à 2021
+1744,Tours,Informatique,314,Force,Femme,Moins de 5 ans,53.01,Au cours des années 2018 à 2020
+1745,Tours,Informatique,315,Gerdon,Homme,Entre 5 et 15 ans,42.05,Au cours des années 2018 à 2020
+1746,Tours,Informatique,316,Landry,Homme,Entre 5 et 15 ans,40.06,Antérieure à 2018
+1747,Tours,Informatique,317,Carrel,Non Spécifié,Moins de 5 ans,41.52,Au cours de l'année 2020 à 2021
+1748,Tours,Informatique,318,Barrand,Homme,Moins de 5 ans,44.81,Au cours des années 2018 à 2020
+1749,Tours,Informatique,319,Casavant,Homme,Moins de 5 ans,50.02,Au cours de l'année 2020 à 2021
+1750,Tours,Informatique,320,Billotte,Femme,Moins de 5 ans,27.11,Au cours des années 2018 à 2020
+1751,Tours,Informatique,321,Laprise,Femme,Moins de 5 ans,36.31,Antérieure à 2018
+1752,Tours,Informatique,322,Hamelin,Homme,Moins de 5 ans,64.96,Au cours de l'année 2020 à 2021
+1753,Tours,Informatique,323,Laforce,Non Spécifié,Moins de 5 ans,50.58,Au cours de l'année 2020 à 2021
+1754,Tours,Informatique,324,Grand,Non Spécifié,Entre 5 et 15 ans,44.71,Au cours de l'année 2020 à 2021
+1755,Tours,Informatique,325,St. Denis,Femme,Entre 5 et 15 ans,36.21,Au cours des années 2018 à 2020
+1756,Tours,Informatique,326,Dussault,Non Spécifié,Moins de 5 ans,51.26,Au cours des années 2018 à 2020
+1757,Tours,Informatique,327,Lafitte,Homme,Moins de 5 ans,40.23,Au cours de l'année 2020 à 2021
+1758,Tours,Informatique,328,Bonet,Homme,Moins de 5 ans,51.85,Au cours de l'année 2020 à 2021
+1759,Tours,Informatique,329,Mars,Homme,Moins de 5 ans,49.75,Au cours des années 2018 à 2020
+1760,Tours,Informatique,330,Fontenot,Femme,Moins de 5 ans,41.65,Au cours des années 2018 à 2020
+1761,Tours,Informatique,331,Cavin,Homme,Moins de 5 ans,54.3,Au cours de l'année 2020 à 2021
+1762,Tours,Informatique,332,Normand,Non Spécifié,Moins de 5 ans,54.97,Au cours des années 2018 à 2020
+1763,Tours,Informatique,333,Delaurier,Non Spécifié,Moins de 5 ans,49.43,Au cours de l'année 2020 à 2021
+1764,Tours,Informatique,334,Rosselle,Homme,Plus de 15 ans,0,Jamais
+1765,Tours,Informatique,335,Thebeau,Homme,Plus de 15 ans,0,Jamais
+1766,Tours,Informatique,336,Reaux,Homme,Entre 5 et 15 ans,46.74,Au cours des années 2018 à 2020
+1767,Tours,Économie,337,Grandmaison,Femme,Moins de 5 ans,27.49,Au cours des années 2018 à 2020
+1768,Tours,Économie,338,Charron,Non Spécifié,Plus de 15 ans,40.0,Antérieure à 2018
+1769,Tours,Économie,339,Fauquier,Femme,Moins de 5 ans,25.68,Au cours des années 2018 à 2020
+1770,Tours,Économie,340,Via,Non Spécifié,Plus de 15 ans,40.0,Antérieure à 2018
+1771,Tours,Économie,341,Violet,Non Spécifié,Plus de 15 ans,0,Jamais
+1772,Tours,Économie,342,Brignac,Femme,Moins de 5 ans,0,Jamais
+1773,Tours,Économie,343,Cayer,Homme,Moins de 5 ans,40.66,Au cours de l'année 2020 à 2021
+1774,Tours,Économie,344,Souliere,Non Spécifié,Entre 5 et 15 ans,40.0,Au cours des années 2018 à 2020
+1775,Tours,Économie,345,Birrer,Non Spécifié,Moins de 5 ans,40.0,Au cours des années 2018 à 2020
+1776,Tours,Économie,346,Boulier,Non Spécifié,Entre 5 et 15 ans,40.0,Antérieure à 2018
+1777,Tours,Économie,347,Broce,Femme,Entre 5 et 15 ans,28.58,Au cours des années 2018 à 2020
+1778,Tours,Économie,348,Couture,Femme,Moins de 5 ans,0,Jamais
+1779,Tours,Économie,349,Urbain,Femme,Moins de 5 ans,28.33,Au cours de l'année 2020 à 2021
+1780,Tours,Économie,350,Pruit,Femme,Moins de 5 ans,31.67,Au cours des années 2018 à 2020
+1781,Tours,Économie,351,Barrere,Femme,Moins de 5 ans,25.61,Au cours de l'année 2020 à 2021
+1782,Tours,Économie,352,St. Ange,Non Spécifié,Plus de 15 ans,40.0,Au cours des années 2018 à 2020
+1783,Tours,Économie,353,Gougeon,Femme,Moins de 5 ans,28.62,Antérieure à 2018
+1784,Tours,Économie,354,Langlais,Femme,Moins de 5 ans,35.2,Au cours de l'année 2020 à 2021
+1785,Tours,Économie,355,Braud,Homme,Entre 5 et 15 ans,43.73,Au cours des années 2018 à 2020
+1786,Tours,Économie,356,Bolduc,Femme,Moins de 5 ans,34.88,Au cours des années 2018 à 2020
+1787,Tours,Économie,357,Blanchet,Femme,Plus de 15 ans,35.93,Au cours des années 2018 à 2020
+1788,Tours,Économie,358,Ostiguy,Homme,Moins de 5 ans,40.41,Au cours de l'année 2020 à 2021
+1789,Tours,Économie,359,Prophete,Femme,Moins de 5 ans,30.88,Au cours de l'année 2020 à 2021
+1790,Tours,Économie,360,Lague,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1791,Tours,Économie,361,Rachel,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1792,Tours,Économie,362,Leneave,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1793,Tours,Économie,363,Laury,Femme,Plus de 15 ans,31.44,Antérieure à 2018
+1794,Tours,Économie,364,Hare,Homme,Moins de 5 ans,35.95,Antérieure à 2018
+1795,Tours,Économie,365,Patrie,Non Spécifié,Moins de 5 ans,40.0,Au cours des années 2018 à 2020
+1796,Tours,Économie,366,Benard,Non Spécifié,Entre 5 et 15 ans,40.0,Au cours de l'année 2020 à 2021
+1797,Tours,Économie,367,Huguenin,Femme,Moins de 5 ans,33.29,Au cours des années 2018 à 2020
+1798,Tours,Économie,368,Callon,Femme,Plus de 15 ans,0,Jamais
+1799,Tours,Économie,369,Grandmaison,Homme,Plus de 15 ans,35.26,Au cours des années 2018 à 2020
+1800,Tours,Économie,370,Daviau,Non Spécifié,Moins de 5 ans,40.0,Antérieure à 2018
+1801,Tours,Économie,371,Innocent,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1802,Tours,Économie,372,Helie,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1803,Tours,Économie,373,Palange,Femme,Plus de 15 ans,30.99,Au cours des années 2018 à 2020
+1804,Tours,Économie,374,Deschamps,Femme,Entre 5 et 15 ans,27.76,Au cours de l'année 2020 à 2021
+1805,Tours,Économie,375,Borre,Homme,Moins de 5 ans,42.39,Antérieure à 2018
+1806,Tours,Économie,376,Guillet,Homme,Moins de 5 ans,40.28,Au cours des années 2018 à 2020
+1807,Tours,Économie,377,Daviau,Homme,Plus de 15 ans,0,Jamais
+1808,Tours,Économie,378,Duman,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1809,Tours,Économie,379,Reiner,Homme,Moins de 5 ans,40.31,Au cours de l'année 2020 à 2021
+1810,Tours,Économie,380,Dubuc,Femme,Moins de 5 ans,37.77,Au cours des années 2018 à 2020
+1811,Tours,Économie,381,Larue,Homme,Plus de 15 ans,36.84,Au cours de l'année 2020 à 2021
+1812,Tours,Économie,382,Rochette,Homme,Moins de 5 ans,37.37,Au cours des années 2018 à 2020
+1813,Tours,Économie,383,Present,Femme,Plus de 15 ans,33.04,Antérieure à 2018
+1814,Tours,Économie,384,Brissette,Non Spécifié,Plus de 15 ans,40.0,Antérieure à 2018
+1815,Tours,Économie,385,Brissett,Non Spécifié,Plus de 15 ans,40.0,Au cours de l'année 2020 à 2021
+1816,Tours,Économie,386,Hemming,Non Spécifié,Moins de 5 ans,40.0,Au cours de l'année 2020 à 2021
+1817,Tours,Économie,387,Sas,Femme,Moins de 5 ans,31.94,Au cours des années 2018 à 2020
+1818,Tours,Économie,388,Demars,Femme,Plus de 15 ans,25.75,Au cours des années 2018 à 2020
+1819,Tours,Économie,389,Belizaire,Non Spécifié,Plus de 15 ans,40.0,Antérieure à 2018
+1820,Tours,Économie,390,Colas,Non Spécifié,Plus de 15 ans,40.0,Antérieure à 2018
+1821,Tours,Économie,391,Brissett,Femme,Moins de 5 ans,29.15,Au cours de l'année 2020 à 2021
+1822,Tours,Économie,392,Bazil,Femme,Moins de 5 ans,38.23,Au cours de l'année 2020 à 2021
+1823,Tours,Économie,393,Braud,Non Spécifié,Entre 5 et 15 ans,40.0,Antérieure à 2018
+1824,Tours,Économie,394,Belanger,Non Spécifié,Moins de 5 ans,40.0,Antérieure à 2018
+1825,Tours,Économie,395,Marceau,Homme,Entre 5 et 15 ans,37.42,Antérieure à 2018
+1826,Tours,Économie,396,Melancon,Non Spécifié,Plus de 15 ans,40.0,Au cours des années 2018 à 2020

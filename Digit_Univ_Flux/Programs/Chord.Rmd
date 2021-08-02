@@ -1,0 +1,80 @@
+---
+title: "Untitled"
+author: "ROUX Dorian"
+date: "21/06/2021"
+output: html_document
+---
+
+```{r}
+# Load package
+library(devtools)
+devtools::install_github("mattflor/chorddiag")
+library(chorddiag)
+library(htmlwidgets)
+```
+```{r}
+m <- matrix(c(25,  5,  5, 20, 0, 45, 0, 0, 0, 0, 0, 0, 0,
+              15,  10,  7, 8, 5, 55, 0, 0, 0, 0, 0, 0, 0,
+              30,  10,  5, 8, 7, 40,  0, 0, 0, 0, 0, 0, 0,
+              13,  12,  9, 21, 3, 42,  0, 0, 0, 0, 0, 0, 0,
+              22,  7,  5, 8, 0, 58, 0, 0, 0, 0, 0, 0, 0,
+              18,  6,  5, 14, 2, 55, 0, 0, 0, 0, 0, 0, 0,
+              18,  6,  5, 14, 2, 55, 0, 0, 0, 0, 0, 0, 0,
+              18,  6,  5, 14, 2, 55, 0, 0, 0, 0, 0, 0, 0,
+              18,  6,  5, 14, 2, 55, 0, 0, 0, 0, 0, 0, 0,
+              18,  6,  5, 14, 2, 55, 0, 0, 0, 0, 0, 0, 0,
+              18,  6,  5, 14, 2, 55, 0, 0, 0, 0, 0, 0, 0),
+            byrow = TRUE,
+            nrow = 11, ncol = 11)
+
+hype13_universities = c('Angers', 'Caen Normandie', 'CY Cergy Paris', 'La Rochelle', 'Lumière Lyon 2', 
+                       'Pau et les Pays de l’Adour', 'Reims Champagne-Ardenne', 'Rouen Normandie', 'Savoie Mont Blanc', 'Tours', '°Autres')
+
+dimnames(m) <- list(To = hype13_universities,
+                    From = hype13_universities)
+
+# Build the chord diagram:
+q <- chorddiag(m, showTicks = F, groupnameFontsize = 18, groupnamePadding = 15, margin = 90, width = 1200, height = 800, palette = "Spectral")
+
+# save the widget
+saveWidget(q, file="chord_interactive_NoTick.html")
+
+```
+
+```{r}
+# Create dummy data
+m <- matrix(c(25,  5,  5, 20, 0, 45, 
+              15,  10,  7, 8, 5, 55, 
+              30,  10,  5, 8, 7, 40, 
+              13,  12,  9, 21, 3, 42, 
+              22,  7,  5, 8, 0, 58, 
+              18,  6,  5, 14, 2, 55),
+            byrow = TRUE,
+            nrow = 6, ncol = 6)
+
+# A vector of 4 colors for 4 groups
+schools <- c("CY Cergy Paris", "La Rochelle", "Caen Normandie", "Savoie Mont Blanc", "Tours", "Autres")
+dimnames(m) <- list(To = schools,
+                    From = schools)
+
+# Build the chord diagram:
+p <- chorddiag(m, type = "bipartite", showTicks = F, groupnameFontsize = 15, groupnamePadding = 15, margin = 90, width = 1200, height = 800, palette = "Spectral", palette2 = "Spectral")
+
+# save the widget
+saveWidget(p, file="chord_interactive_NoTick_Bipartite.html")
+
+# Build the chord diagram:
+q <- chorddiag(m, showTicks = F, groupnameFontsize = 15, groupnamePadding = 15, margin = 90, width = 1200, height = 800, palette = "Spectral")
+
+# save the widget
+saveWidget(q, file="chord_interactive_NoTick.html")
+
+
+# Build the chord diagram:
+r <- chorddiag(m, showTicks = T, tickInterval = 5, groupnameFontsize =15, groupnamePadding = 25 , margin = 90, width = 1200, height = 800, palette = "Spectral")
+
+# save the widget
+saveWidget(r, file="chord_interactive_Tick2.html")
+
+```
+

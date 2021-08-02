@@ -1,0 +1,78 @@
+---
+title: "Untitled"
+author: "ROUX Dorian"
+date: "26/07/2021"
+output: html_document
+---
+
+**Libraries**
+```{r}
+#Import the Libraries.
+library('readr')
+library('dplyr')
+library("tidyr")
+library("RColorBrewer")
+library('TraMineR')
+library('ggplot2')
+library('cluster')
+```
+
+
+**CSV**
+```{r}
+#Import the DataFrame.
+teach_db <- select(read_csv(file ='../Data/clt_Data.csv'), -c(1)) #Import the required CSV and Remove the first column that represents the index.
+head(teach_db, 10) #Display the ten first rows.
+```
+
+```{r}
+#Import the DataFrame.
+teach_db <- select(read_csv(file ='../Data/monthclt_Data.csv'), -c(1)) #Import the required CSV and Remove the first column that represents the index.
+head(teach_db, 10) #Display the ten first rows.
+```
+
+
+```{r}
+teach_db_2019 <- teach_db %>% filter(Year %in% c(2018, 2019)) %>% select(Teacher_ID, Date, Type_Connexion) %>% arrange(Teacher_ID)
+teach_db_2019$Month_Yr <- format(as.Date(teach_db_2019$Date), "%Y-%m")
+teach_db_2019 #Display the ten first rows.
+```
+
+```{r}
+spread_teach_2019 <- select(teach_db_2019, c('Teacher_ID', 'Type_Connexion', 'Month_Yr'))
+spread_teach_2019 <- spread(spread_teach_2019, key=Month_Yr, value=Type_Connexion)
+spread_teach_2019
+
+seq_teach_2019 <- seqdef(select(spread_teach_2019, -c('Teacher_ID')))
+seq_teach_2019
+
+dist.om <- seqdist(seq_teach_2019, method = "OM", indel = 1, sm = "TRATE")
+```
+
+
+```{r}
+clusterward1 <- agnes(dist.om, diss = TRUE, method = "ward")
+plot(clusterward1, which.plot = 2)
+cl1.3 <- cutree(clusterward1, k = 3)
+cl1.3fac <- factor(cl1.3, labels = paste("Cluster", 1:3))
+cl1.3fac
+seqIplot(seq_teach_2019, group = cl1.3fac, sortv = "from.start", border = NA, with.legend = TRUE)
+```
+```{r}
+# Libraries
+library(ggplot2)
+library(hrbrthemes)
+
+# create data
+teach_db <- select(read_csv(file ='../Data/Lst_Date_Teacher.csv'), -c(1)) #Import the required CSV and Remove the first column that represents the index.
+head(teach_db, 10) #Display the ten first rows.
+
+
+# Plot
+ggplot(teach_db, aes(x=Date, y=Number_Connexion)) +
+  geom_area( fill="#69b3a2", alpha=0.4) +
+  geom_line(color="#69b3a2", size=2) +
+  geom_point(size=3, color="#69b3a2") +
+  ggtitle("Evolution of something")
+```
+

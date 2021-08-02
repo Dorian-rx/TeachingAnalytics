@@ -1,0 +1,655 @@
+---
+title: "Teaching Analytics"
+author: "ROUX Dorian"
+output: html_document
+---
+
+**Libraries**
+```{r}
+#Import the Libraries.
+library('readr')
+library('dplyr')
+library("tidyr")
+library("RColorBrewer")
+library('TraMineR')
+library('ggplot2')
+```
+
+
+**CSV**
+```{r}
+#Import the DataFrame.
+prep_Sequences <- select(read_csv('../Data/Prepared_Sequences.csv'), -c(1)) #Import the required CSV and Remove the first column that represents the index.
+
+head(prep_Sequences, 10) #Display the ten first rows.
+```
+
+**Spread and Write**
+```{r}
+#Save a a Spread Dataframe.
+seq_Spread <- spread(prep_Sequences, Resources_Rank,Resources_Type_Basic) #Spread the previous Dataframe.
+write.csv(seq_Spread,'../Data/Spead_Sequences.csv', row.names = FALSE) #Save the Spread Dataframe into a CSV file
+```
+
+
+**Prepare the Variables**
+```{r}
+#Rename the Sequence Type
+Seq <- prep_Sequences
+
+Seq$Resources_Type_Basic[Seq$Resources_Type_Basic == 'Lecture'] <- 'en Presentiel: Leçon' 
+Seq$Resources_Type_Basic[Seq$Resources_Type_Basic == 'Exercise'] <- 'en Presentiel: Exercices' 
+Seq$Resources_Type_Basic[Seq$Resources_Type_Basic == 'Examen'] <- 'en Presentiel: Examen'  
+
+Seq$Resources_Type_Basic[Seq$Resources_Type_Basic == 'Video'] <- 'en Ligne: Video'
+Seq$Resources_Type_Basic[Seq$Resources_Type_Basic == 'QCM'] <- "en Ligne: Banque d'Exercices" 
+Seq$Resources_Type_Basic[Seq$Resources_Type_Basic == 'Test'] <- 'en Ligne: Test'
+```
+
+```{r}
+#Set the Legend Color and Order in both French and English.
+
+legend_color = c('#FFB396', '#FF7878', '#FF0000', '#000FFF', '#7878FF', '#96B3FF') #Color of the legend.
+
+legend_order_FR = c('en Présentiel: Leçon', 'en Présentiel: Exercices', 'en Présentiel: Examen', 'en Ligne: Test', "en Ligne: Banque d'Exercices", 'en Ligne: Vidéo') #Order of the legend in French.
+
+legend_order_EN = c('in Class: Lecture', 'in Class: Exercises', 'in Class: Exam', 'in Distance: Test', 'in Distance: Quizzes', 'in Distance: Video') #Order of the legend in English
+```
+
+
+
+*Define the Sequences*
+
+**Learning Sequences of the Module 11 teached by Mme GALLE from the Department of Computer Science**
+```{r}
+#Sequences 11
+prep_Sequences_11 <- Seq %>% filter(Course_ID == 11) #Filter the dataset.
+seq_Sequences_11 <- spread(prep_Sequences_11, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_11 <- seqdef(seq_Sequences_11[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_11 = c('#7878FF', '#000FFF', '#96B3FF', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+**Learning Sequences of the Module 35 teached by Mme FAVRET from the Department of Computer Science**
+```{r}
+#Sequences 35
+prep_Sequences_35 <- Seq %>% filter(Course_ID == 35) #Filter the dataset.
+seq_Sequences_35 <- spread(prep_Sequences_35, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_35 <- seqdef(seq_Sequences_35[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_35 = c('#96B3FF', '#FF0000', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+**Learning Sequences of the Module 38 teached by Mme FAVRET from the Department of Computer Science**
+```{r}
+#Sequences 38
+prep_Sequences_38 <- Seq %>% filter(Course_ID == 38) #Filter the dataset.
+seq_Sequences_38 <- spread(prep_Sequences_38, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_38 <- seqdef(seq_Sequences_38[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_38 = c('#7878FF', '#96B3FF', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+**Learning Sequences of the Module 41 teached by Mme FAVRET from the Department of Computer Science**
+```{r}
+#Sequences 41
+prep_Sequences_41 <- Seq %>% filter(Course_ID == 41) #Filter the dataset.
+seq_Sequences_41 <- spread(prep_Sequences_41, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_41 <- seqdef(seq_Sequences_41[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_41 = c('#7878FF', '#000FFF', '#96B3FF', '#FF0000', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+**Learning Sequences of the Module 60 teached by Mr ROGIER from the Department of Computer Science**
+```{r}
+#Sequences 60
+prep_Sequences_60 <- Seq %>% filter(Course_ID == 60) #Filter the dataset.
+seq_Sequences_60 <- spread(prep_Sequences_60, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_60 <- seqdef(seq_Sequences_60[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_60 = c('#7878FF', '#96B3FF', '#FF0000', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+**Learning Sequences of the Module 61 teached by Mr ROGIER from the Department of Computer Science**
+```{r}
+#Sequences 61
+prep_Sequences_61 <- Seq %>% filter(Course_ID == 61) #Filter the dataset.
+seq_Sequences_61 <- spread(prep_Sequences_61, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_61 <- seqdef(seq_Sequences_61[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_61 = c('#7878FF', '#000FFF', '#96B3FF', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+**Learning Sequences of the Module 69 teached by Mr ROGIER from the Department of Computer Science**
+```{r}
+#Sequences 69
+prep_Sequences_69 <- Seq %>% filter(Course_ID == 69) #Filter the dataset.
+seq_Sequences_69 <- spread(prep_Sequences_69, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_69 <- seqdef(seq_Sequences_69[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_69 = c('#7878FF', '#96B3FF', '#FF0000', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+**Learning Sequences of the Module 80 teached by Mr AMIRAULT from the Department of Computer Science**
+```{r}
+#Sequences 80
+prep_Sequences_80 <- Seq %>% filter(Course_ID == 80) #Filter the dataset.
+seq_Sequences_80 <- spread(prep_Sequences_80, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_80 <- seqdef(seq_Sequences_80[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_80 = c('#96B3FF', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+**Learning Sequences of the Module 386 teached by Mr Verdin from the Department of History**
+```{r}
+#Sequences 386
+prep_Sequences_386 <- Seq %>% filter(Course_ID == 386) #Filter the dataset.
+seq_Sequences_386 <- spread(prep_Sequences_386, Resources_Rank,Resources_Type_Basic) #Spread the values from one column into columns.
+mvad.Sequences_386 <- seqdef(seq_Sequences_386[, -c(1:6)]) # Transform the new columns into sequences.
+
+#Set the Seqplot Color
+seqplot_color_386 = c('#7878FF', '#000FFF', '#96B3FF', '#FF0000', '#FF7878', '#FFB396') #Color of the figure.
+```
+
+
+
+**Build the Figure**
+
+**Learning Sequences of the Module 386 teached by Mr VERDIN from the Department of History**
+
+#################
+#French Version #
+#################
+```{r}
+#Figure of the Learning Sequences of the Module 386 teached by Mr VERDIN from the Department of History
+
+#Define the name of the file
+fig_Sequences_386 = paste("Sequences-Module_386-Teacher_VERDIN-Dept_History", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_Français/", fig_Sequences_386, ".png", sep = ""), heigh = 700, width = 1400)
+layout(matrix(c(1, 1, 1, 1, 2, 2), ncol=6, byrow=TRUE))
+par(mar=c(8,9,0,0)+0.1, oma=c(0,1,6,0))
+
+#Define the title of the Figure
+title_fig_Sequences_386 =  "Séquences Pédagogiques de 2013 à 2020 pour le Module «386» enseigné par Mr VERDIN du Département d'Histoire"
+
+#Plot the Seqplot and Define its axis and labels
+seqplot(mvad.Sequences_386, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_386)),
+        cpal = seqplot_color_386, space = 0.15, main = "")
+axis(1, at = 0.5:(max(prep_Sequences_386$Resources_Rank) - 0.5), labels = paste(unique(prep_Sequences_386$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_386$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans la Séquence Pédagogique", cex.lab = 2.5, line = 5)
+title(ylab = "Années", cex.lab = 2.5, line = 7)
+
+#Plot the Seqlegend Difficulty and Define its title
+seqlegend(seqdef(legend_order_FR), cpal = legend_color, ltext = legend_order_FR, cex = 2.5, position = 'center')
+text(1, 0.40, paste("Type des Ressources"), cex = 2.5)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_386, outer=TRUE,  cex=2, font = 1, line=0)
+
+#Save the Figure
+dev.off()
+```
+
+##################
+#English Version #
+##################
+```{r}
+#Figure of the Learning Sequences of the Module 386 teached by Mr VERDIN from the Department of History
+
+#Define the name of the file
+fig_Sequences_386 = paste("Sequences-Module_386-Teacher_VERDIN-Dept_History", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_English/", fig_Sequences_386, ".png", sep = ""), heigh = 700, width = 1400)
+layout(matrix(c(1, 1, 1, 1, 2, 2), ncol=6, byrow=TRUE))
+par(mar=c(8,9,0,0)+0.1, oma=c(0,1,6,0))
+
+#Define the title of the Figure
+title_fig_Sequences_386 = "Learning Sequences from 2013 to 2020 for the Module «386» teached by Mr VERDIN of the Department of History"
+
+#Plot the Seqplot and Define its axis and labels
+seqplot(mvad.Sequences_386, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_386)),
+        cpal = seqplot_color_386, space = 0.15, main = "")
+axis(1, at = 0.5:(max(prep_Sequences_386$Resources_Rank) - 0.5), labels = paste(unique(prep_Sequences_386$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_386$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rank of the Ressources in the Learning Sequence", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqlegend and Define its title
+seqlegend(seqdef(legend_order_EN), cpal = legend_color, ltext = legend_order_EN, cex = 2.5, position = 'center')
+text(1, 0.40, paste("Type of Ressources"), cex = 2.5)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_386, outer=TRUE,  cex=2, font = 1, line=0)
+
+#Save the Figure
+dev.off()
+```
+
+
+**Learning Sequences of the Module 41 teached by Mme FAVRET from the Department of Computer Science**
+
+#################
+#French Version #
+#################
+```{r}
+#Figure of the Learning Sequences of the Module 41 teached by Mme FAVRET from the Department of Computer Science
+
+#Define the name of the file
+fig_Sequences_41 = paste("Sequences-Module_41-Teacher_FAVRET-Dept_ComputerScience", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_Français/", fig_Sequences_41, ".png", sep = ""), heigh = 700, width = 1400)
+layout(matrix(c(1, 1, 1, 1, 2, 2), ncol=6, byrow=TRUE))
+par(mar=c(8,9,0,0)+0.1, oma=c(0,1,7,0))
+par(family="serif")
+#Define the title of the Figure
+title_fig_Sequences_41 =  "Séquences Pédagogiques de 2013 à 2020 du Cours n°41 intitulé «Introduction à la Programmation» \n enseigné par Mme FAVRET du Département d'Informatique"
+
+#Plot the Seqplot and Define its axis and labels
+seqplot(mvad.Sequences_41, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_41)),
+        cpal = seqplot_color_41, space = 0.15, main = "")
+axis(1, at = 0.5:(max(prep_Sequences_41$Resources_Rank) - 0.5), labels = paste(unique(prep_Sequences_41$Resources_Rank), sep = ""), cex.axis = 2.8, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_41$Year, sep = ""), las = 1,  cex.axis = 2.8, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans la Séquence Pédagogique", cex.lab = 3, line = 5)
+title(ylab = "Années", cex.lab = 3, line = 7)
+
+#Plot the Seqlegend and Define its title
+seqlegend(seqdef(legend_order_FR), cpal = legend_color, ltext = legend_order_FR, cex = 2.8, position = 'center')
+text(1, 0.45, paste("Type des Ressources"), cex = 3)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_41, outer=TRUE,  cex=2.3, font = 1, line=0)
+
+#Save the Figure
+dev.off()
+```
+
+##################
+#English Version #
+##################
+```{r}
+#Figure of the Learning Sequences of the Module 41 teached by Mme FAVRET from the Department of Computer Science
+
+#Define the name of the file
+fig_Sequences_41 = paste("Sequences-Module_41-Teacher_FAVRET-Dept_ComputerScience", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_English/", fig_Sequences_41, ".png", sep = ""), heigh = 700, width = 1400)
+layout(matrix(c(1, 1, 1, 1, 2, 2), ncol=6, byrow=TRUE))
+par(mar=c(8,9,0,0)+0.1, oma=c(0,1,6,0))
+
+#Define the title of the Figure
+title_fig_Sequences_41 = "Learning Sequences from 2013 to 2020 for the Module «41» teached by Mme FAVRET of the Department of Computer Science"
+
+#Plot the Seqplot and Define its axis and labels
+seqplot(mvad.Sequences_41, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_41)),
+        cpal = seqplot_color_41, space = 0.15, main = "")
+axis(1, at = 0.5:(max(prep_Sequences_41$Resources_Rank) - 0.5), labels = paste(unique(prep_Sequences_41$Resources_Rank), sep = ""), cex.axis = 2.5, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_41$Year, sep = ""), las = 1,  cex.axis = 2.5, line = 0, tick = FALSE)
+title(xlab = "Rank of the Ressources in the Learning Sequence", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqlegend and Define its title
+seqlegend(seqdef(legend_order_EN), cpal = legend_color, ltext = legend_order_EN, cex = 2.5, position = 'center')
+text(1, 0.40, paste("Type of Ressources"), cex = 2.5)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_41, outer=TRUE,  cex=2, font = 1, line=0)
+
+#Save the Figure
+dev.off()
+```
+
+
+**Learning Sequences of the Modules 60, 61 and 69 teached by Mr ROGIER from the Department of Computer Science**
+
+#################
+#French Version #
+#################
+```{r}
+#Figure of the Learning Sequences of the Modules 60, 61 and 69 teached by Mr ROGIER from the Department of Computer Science
+
+#Define the name of the file
+fig_Sequences_60_61_69 = paste("Sequences-Modules_60_61_69-Teacher_Rogier-Dept_ComputerScience", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_Français/", fig_Sequences_60_61_69, ".png", sep = ""), heigh = 700, width = 1400)
+layout(matrix(c(1, 1, 2, 2, 3, 3, 4, 4), ncol=4, byrow=TRUE))
+par(mar=c(8,9,3,5)+0.1, oma=c(0,1,8,1))
+
+#Define the title of the Figure
+title_fig_Sequences_60_61_69 = paste("Séquences Pédagogiques de 2013 à 2020, \n pour les Modules «60», «61» et «69» enseignés par Mr ROGIER du Département d'Informatique", sep = "")
+
+#Plot the Seqplot of the Module 60 and Define its axis and labels
+seqplot(mvad.Sequences_60, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_60)),
+        cpal = seqplot_color_60, space = 0.15, main = "")
+title(main=list("Séquences Pédagogiques pour le Module «60»",  cex = 2.5, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_60$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_60$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_60$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.5, line = 5)
+title(ylab = "Années", cex.lab = 2.5, line = 7)
+
+#Plot the Seqplot of the Module 61 and Define its axis and labels
+seqplot(mvad.Sequences_61, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_61)),
+        cpal = seqplot_color_61, space = 0.15, main = "")
+title(main=list("Séquences Pédagogiques pour le Module «61»",  cex = 2.5, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_61$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_61$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_61$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.5, line = 5)
+title(ylab = "Années", cex.lab = 2.5, line = 7)
+
+#Plot the Seqplot of the Module 69 and Define its axis and labels
+seqplot(mvad.Sequences_69, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_69)),
+        cpal = seqplot_color_69, space = 0.15, main = "")
+title(main=list("Séquences Pédagogiques pour le Module «69»",  cex = 2.5, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_69$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_69$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_69$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.5, line = 5)
+title(ylab = "Années", cex.lab = 2.5, line = 7)
+
+#Plot the Seqlegend of the Sequences and Define its title
+seqlegend(seqdef(legend_order_FR), cpal = legend_color, ltext = legend_order_FR, cex = 2.5, position = 'center')
+text(1, 1, paste("Type des Ressources"), cex = 2.5)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_60_61_69, outer=TRUE,  cex=2, font = 1, line=2)
+
+#Save the Figure
+dev.off()
+```
+
+##################
+#English Version #
+##################
+```{r}
+#Figure of the Learning Sequences of the Modules 60, 61 and 69 teached by Mr ROGIER from the Department of Computer Science
+
+#Define the name of the file
+fig_Sequences_60_61_69 = paste("Sequences-Modules_60_61_69-Teacher_Rogier-Dept_ComputerScience", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_English/", fig_Sequences_60_61_69, ".png", sep = ""), heigh = 700, width = 1400)
+layout(matrix(c(1, 1, 2, 2, 3, 3, 4, 4), ncol=4, byrow=TRUE))
+par(mar=c(8,9,3,5)+0.1, oma=c(0,1,8,1))
+
+#Define the title of the Figure
+title_fig_Sequences_60_61_69 = paste("Learning Sequences from 2013 to 2020, \n for the Modules «60», «61» et «69» teached by Mr ROGIER from the Department of Computer Science", sep = "")
+
+#Plot the Seqplot of the Module 60 and Define its axis and labels
+seqplot(mvad.Sequences_60, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_60)),
+        cpal = seqplot_color_60, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «60» from 2013 to 2020",  cex = 2.5, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_60$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_60$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_60$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rank of the Ressources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqplot of the Module 61 and Define its axis and labels
+seqplot(mvad.Sequences_61, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_61)),
+        cpal = seqplot_color_61, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «61» from 2013 to 2020",  cex = 2.5, font = 3))
+
+axis(1, at = 0.5:(max(prep_Sequences_61$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_61$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_61$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rank of the Resources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqplot of the Module 69 and Define its axis and labels
+seqplot(mvad.Sequences_69, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_69)),
+        cpal = seqplot_color_69, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «69» from 2013 to 2020",  cex = 2.5, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_69$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_69$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_69$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rank of the Resources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqlegend of the Sequences and Define its title
+seqlegend(seqdef(legend_order_EN), cpal = legend_color, ltext = legend_order_EN, cex = 2.5, position = 'center')
+text(1, 1, paste("Type of Resources"), cex = 2.5)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_60_61_69, outer=TRUE,  cex=2, font = 1, line=2)
+
+#Save the Figure
+dev.off()
+```
+
+
+**Learning Sequences of the Modules 35, 38 and 41 teached by Mme FAVRET from the Department of Computer Science**
+
+#################
+#French Version #
+#################
+```{r}
+#Figure of the Learning Sequences of the Modules 35, 38 and 41 teached by Mme FAVRET from the Department of Computer Science
+
+#Define the name of the file
+fig_Sequences_35_38_41 = paste("Sequences-Modules_35_38_41-Teacher_FAVRET-Dep_ComputerScience", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_Français/", fig_Sequences_35_38_41, ".png", sep = ""), heigh = 750, width = 1400)
+layout(matrix(c(1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4), ncol=6, byrow=TRUE))
+par(mar=c(8,9,3,5)+0.1, oma=c(0,1,9,1))
+par(family="serif")
+
+#Define the title of the Figure
+title_fig_Sequences_35_38_41 = paste("Séquences Pédagogiques de 2013 à 2020 pour les Cours N°35, N°38 et N°41 \n enseignés par Mme FAVRET du Département d'Informatique", sep = "")
+
+#Plot the Seqplot of the Module 35 and Define its axis and labels
+seqplot(mvad.Sequences_35, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_35)),
+        cpal = seqplot_color_35, space = 0.15, main = "")
+title(main=list("Séquences du Cours N°35 intitulé «Base de Numérotation»",  cex = 2.8, font = 1))
+axis(1, at = 0.5:(max(prep_Sequences_35$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_35$Resources_Rank), sep = ""), cex.axis = 2.5, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_35$Year, sep = ""), las = 1,  cex.axis = 2.5, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.8, line = 5)
+title(ylab = "Années", cex.lab = 2.8, line = 7)
+
+#Plot the Seqplot of the Module 38 and Define its axis and labels
+seqplot(mvad.Sequences_38, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_38)),
+        cpal = seqplot_color_38, space = 0.15, main = "")
+title(main=list("Séquences du Cours N°38 intitulé «Informatique Appliquée»",  cex = 2.8, font = 1))
+axis(1, at = 0.5:(max(prep_Sequences_38$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_38$Resources_Rank), sep = ""), cex.axis = 2.5, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_38$Year, sep = ""), las = 1,  cex.axis = 2.5, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.8, line = 5)
+title(ylab = "Années", cex.lab = 2.8, line = 7)
+
+#Plot the Seqplot of the Module 41 and Define its axis and labels
+seqplot(mvad.Sequences_41, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_41)),
+        cpal = seqplot_color_41, space = 0.15, main = "")
+title(main=list("Séquences du Cours N°41 intitulé «Introduction à la Programmation»",  cex = 2.8, font = 1))
+axis(1, at = 0.5:(max(prep_Sequences_41$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_41$Resources_Rank), sep = ""), cex.axis = 2.5, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_41$Year, sep = ""), las = 1,  cex.axis = 2.5, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.8, line = 5)
+title(ylab = "Années", cex.lab = 2.8, line = 7)
+
+#Plot the Seqlegend of the Sequences and Define its title
+seqlegend(seqdef(legend_order_FR), cpal = legend_color, ltext = legend_order_FR, cex = 2.8, position = 'center')
+text(1, 1, paste("Type des Ressources"), cex = 2.8)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_35_38_41, outer=TRUE,  cex=2.3, font = 1, line=2)
+
+#Save the Figure
+dev.off()
+```
+
+##################
+#English Version #
+##################
+```{r}
+#Figure of the Learning Sequences of the Modules 35, 38 and 41 teached by Mme FAVRET from the Department of Computer Science
+
+#Define the name of the file
+fig_Sequences_35_38_41 = paste("Sequences-Modules_35_38_41-Teacher_FAVRET-Dep_ComputerScience", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_English/", fig_Sequences_35_38_41, ".png", sep = ""), heigh = 700, width = 1400)
+layout(matrix(c(1, 1, 1, 2, 2, 2, 3, 3, 3, 3, 4, 4), ncol=6, byrow=TRUE))
+par(mar=c(8,9,3,5)+0.1, oma=c(0,1,8,1))
+
+#Define the title of the Figure
+title_fig_Sequences_35_38_41 = paste("Learning Sequences from 2013 to 2020, \n for the Modules «35», «38» et «41» teached by Mme FAVRET from the Department of Computer Science", sep = "")
+
+#Plot the Seqplot of the Module 35 and Define its axis and labels
+seqplot(mvad.Sequences_35, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_35)),
+        cpal = seqplot_color_35, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «35»",  cex = 2.5, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_35$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_35$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_35$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rank of the Resources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqplot of the Module 38 and Define its axis and labels
+seqplot(mvad.Sequences_38, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_38)),
+        cpal = seqplot_color_38, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «38»",  cex = 2.5, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_38$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_38$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_38$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rank of the Resources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqplot of the Module 41 and Define its axis and labels
+seqplot(mvad.Sequences_41, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_41)),
+        cpal = seqplot_color_41, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «41»",  cex = 2.5, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_41$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_41$Resources_Rank), sep = ""), cex.axis = 2.3, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_41$Year, sep = ""), las = 1,  cex.axis = 2.3, line = 0, tick = FALSE)
+title(xlab = "Rank of the Resources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqlegend of the Sequences and Define its title
+seqlegend(seqdef(legend_order_EN), cpal = legend_color, ltext = legend_order_EN, cex = 2.5, position = 'center')
+text(1, 1, paste("Type of Resources"), cex = 2.5)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_35_38_41, outer=TRUE,  cex=2, font = 1, line=2)
+
+#Save the Figure
+dev.off()
+```
+
+
+**Learning Sequences of the Modules 11, 41 and 80 respectively teached by Mme GALLE, Mme FAVRET and Mr AMIRAULT from the Department of Computer Science**
+
+#################
+#French Version #
+#################
+```{r}
+#Figure of the Learning Sequences of the Modules 11, 41 and 80 respectively teached by Mme GALLE, Mme FAVRET and Mr AMIRAULT from the Department of Computer Science
+
+#Define the name of the file
+fig_Sequences_11_41_80 = paste("Sequences-Modules_11_41_80-Teacher_rspvly_GALLE_FAVRET_AMIRAULT-Dep_ComputerScience", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_Français/", fig_Sequences_11_41_80, ".png", sep = ""), heigh = 750, width = 1500)
+layout(matrix(c(1, 1, 2, 2, 3, 3, 4, 4), ncol=4, byrow=TRUE))
+par(mar=c(8,9,3,5)+0.1, oma=c(0,1,9,1))
+par(family="serif")
+
+#Define the title of the Figure
+title_fig_Sequences_11_41_80 = paste("Séquences Pédagogiques de 2013 à 2020 pour les Cours «11», «41» et «80» \n enseignés respectivement par Mme GALLE, Mme FAVRET et Mr AMIRAULT du Département d'Informatique", sep = "")
+
+#Plot the Seqplot of the Module 11 and Define its axis and labels
+seqplot(mvad.Sequences_11, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_11)),
+        cpal = seqplot_color_11, space = 0.15, main = "")
+title(main=list("Séquences du Cours N°11 intitulé «Informatique Industrielle»",  cex = 2.8, font = 1))
+axis(1, at = 0.5:(max(prep_Sequences_11$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_11$Resources_Rank), sep = ""), cex.axis = 2.5, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_11$Year, sep = ""), las = 1,  cex.axis = 2.5, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.8, line = 5)
+title(ylab = "Années", cex.lab = 2.8, line = 7)
+
+#Plot the Seqplot of the Module 41 and Define its axis and labels
+seqplot(mvad.Sequences_41, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_41)),
+        cpal = seqplot_color_41, space = 0.15, main = "")
+title(main=list("Séquences du Cours N°41 intitulé «Introduction à la Programmation»",  cex = 2.8, font = 1))
+axis(1, at = 0.5:(max(prep_Sequences_41$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_41$Resources_Rank), sep = ""), cex.axis = 2.5, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_41$Year, sep = ""), las = 1,  cex.axis = 2.5, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.8, line = 5)
+title(ylab = "Années", cex.lab = 2.8, line = 7)
+
+#Plot the Seqplot of the Module 80 and Define its axis and labels
+seqplot(mvad.Sequences_80, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_80)),
+        cpal = seqplot_color_80, space = 0.15, main = "")
+title(main=list("Séquences du Cours N°80 intitulé «Informatique de Gestion»",  cex = 2.8, font = 1))
+axis(1, at = 0.5:(max(prep_Sequences_80$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_80$Resources_Rank), sep = ""), cex.axis = 2.5, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_80$Year, sep = ""), las = 1,  cex.axis = 2.5, line = 0, tick = FALSE)
+title(xlab = "Rang des Ressources dans les Séquences Pédagogiques", cex.lab = 2.8, line = 5)
+title(ylab = "Années", cex.lab = 2.8, line = 7)
+
+#Plot the Seqlegend of the Sequences and Define its title
+seqlegend(seqdef(legend_order_FR), cpal = legend_color, ltext = legend_order_FR, cex = 2.8, position = 'center')
+text(1, 1, paste("Type des Ressources"), cex = 2.8)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_11_41_80, outer=TRUE,  cex=2.3, font = 1, line=2)
+
+#Save the Figure
+dev.off()
+```
+
+##################
+#English Version #
+##################
+```{r}
+#Figure of the Learning Sequences of the Modules 11, 41 and 80 respectively teached by Mme GALLE, Mme FAVRET and Mr AMIRAULT from the Department of Computer Science
+
+#Define the name of the file
+fig_Sequences_11_41_80 = paste("Sequences-Modules_11_41_80-Teacher_rspvly_GALLE_FAVRET_AMIRAULT-Dep_ComputerScience", sep = "")
+
+#Set the Figure file name and Figure size, margins and positions of the graphs
+png(paste("../Figures/Vrs_English/", fig_Sequences_11_41_80, ".png", sep = ""), heigh = 750, width = 1500)
+layout(matrix(c(1, 1, 2, 2, 3, 3, 4, 4), ncol=4, byrow=TRUE))
+par(mar=c(8,9,3,5)+0.1, oma=c(0,1,8,1))
+
+#Define the title of the Figure
+title_fig_Sequences_11_41_80 = paste("Learning Sequences from 2013 to 2020 for the Modules «11», «41» and «80», \n respectively teached by Mme GALLE, Mme FAVRET and Mr AMIRAULT from the Department of Computer Science", sep = "")
+
+#Plot the Seqplot of the Module 11 and Define its axis and labels
+seqplot(mvad.Sequences_11, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_11)),
+        cpal = seqplot_color_11, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «11» teached by Mme GALLE ",  cex = 2.3, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_11$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_11$Resources_Rank), sep = ""), cex.axis = 2.2, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_11$Year, sep = ""), las = 1,  cex.axis = 2.2, line = 0, tick = FALSE)
+title(xlab = "Rank of the Ressources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqplot of the Module 41 and Define its axis and labels
+seqplot(mvad.Sequences_41, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_41)),
+        cpal = seqplot_color_41, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «41» teached by Mme FAVRET ",  cex = 2.3, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_41$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_41$Resources_Rank), sep = ""), cex.axis = 2.2, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_41$Year, sep = ""), las = 1,  cex.axis = 2.2, line = 0, tick = FALSE)
+title(xlab = "Rank of the Ressources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqplot of the Module 80 and Define its axis and labels
+seqplot(mvad.Sequences_80, with.legend = FALSE, axes = FALSE, ann = FALSE, ytlab = rep("", nrow(seq_Sequences_80)),
+        cpal = seqplot_color_80, space = 0.15, main = "")
+title(main=list("Learning Sequences for the Module «80» teached by Mr AMIRAULT ",  cex = 2.3, font = 3))
+axis(1, at = 0.5:(max(prep_Sequences_80$Resources_Rank)-0.5), labels = paste(unique(prep_Sequences_80$Resources_Rank), sep = ""), cex.axis = 2.2, line = 0, tick = TRUE, padj = 0.5)
+axis(2, at = c(0.65, 1.80, 2.95, 4.1, 5.25, 6.40, 7.55, 8.70), labels = paste(seq_Sequences_80$Year, sep = ""), las = 1,  cex.axis = 2.2, line = 0, tick = FALSE)
+title(xlab = "Rank of the Ressources in the Learning Sequences", cex.lab = 2.5, line = 5)
+title(ylab = "Years", cex.lab = 2.5, line = 7)
+
+#Plot the Seqlegend of the Sequences and Define its title
+seqlegend(seqdef(legend_order_EN), cpal = legend_color, ltext = legend_order_EN, cex = 2.5, position = 'center')
+text(1, 1, paste("Type of Ressources"), cex = 2.5)
+
+#Put the main Title of the Figure
+mtext(title_fig_Sequences_11_41_80, outer=TRUE,  cex=2, font = 1, line=2)
+
+#Save the Figure
+dev.off()
+```
